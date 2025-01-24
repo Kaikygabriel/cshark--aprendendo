@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\bin\Debug\net9.0\AddProduto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\bin\Debug\net9.0\AddProduto.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\bin\Debug\net9.0\AddProduto.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\bin\Debug\net9.0\AddProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\bin\Debug\net9.0\AddProduto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\refint\AddProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\AddProduto.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AddProduto\AddProduto\obj\Debug\net9.0\ref\AddProduto.dll

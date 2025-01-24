@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\bin\Debug\net9.0\retorno.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\bin\Debug\net9.0\retorno.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\bin\Debug\net9.0\retorno.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\bin\Debug\net9.0\retorno.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\bin\Debug\net9.0\retorno.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\refint\retorno.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\retorno.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\funcao-cs\retorno\retorno\obj\Debug\net9.0\ref\retorno.dll

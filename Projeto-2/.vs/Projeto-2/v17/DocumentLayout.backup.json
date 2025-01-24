@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Projeto-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBC5AE4-C5C5-441E-B178-684C83FFA028}|Projeto-2\\Projeto-2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\projeto-2\\projeto-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBC5AE4-C5C5-441E-B178-684C83FFA028}|Projeto-2\\Projeto-2.csproj|solutionrelative:projeto-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Projeto-2\\Projeto-2\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto-2\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Projeto-2\\Projeto-2\\Program.cs",
+              "RelativeToolTip": "Projeto-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:53:34.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

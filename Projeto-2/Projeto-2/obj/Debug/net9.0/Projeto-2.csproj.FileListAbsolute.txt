@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\bin\Debug\net9.0\Projeto-2.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\bin\Debug\net9.0\Projeto-2.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\bin\Debug\net9.0\Projeto-2.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\bin\Debug\net9.0\Projeto-2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\bin\Debug\net9.0\Projeto-2.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\refint\Projeto-2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\Projeto-2.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto-2\Projeto-2\obj\Debug\net9.0\ref\Projeto-2.dll

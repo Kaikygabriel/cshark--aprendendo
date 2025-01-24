@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AprendendoStructs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A34459D-7375-4F96-971E-8DC807F8CF4A}|AprendendoStructs\\AprendendoStructs.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\aprendendostructs\\aprendendostructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A34459D-7375-4F96-971E-8DC807F8CF4A}|AprendendoStructs\\AprendendoStructs.csproj|solutionrelative:aprendendostructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AprendendoStructs\\AprendendoStructs\\Program.cs",
+              "RelativeDocumentMoniker": "AprendendoStructs\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AprendendoStructs\\AprendendoStructs\\Program.cs*",
+              "RelativeToolTip": "AprendendoStructs\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:04:55.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\bin\Debug\net9.0\aula2.exe
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\bin\Debug\net9.0\aula2.deps.json
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\bin\Debug\net9.0\aula2.runtimeconfig.json
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\bin\Debug\net9.0\aula2.dll
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\bin\Debug\net9.0\aula2.pdb
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.AssemblyInfoInputs.cache
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.AssemblyInfo.cs
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.csproj.CoreCompileInputs.cache
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.sourcelink.json
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.dll
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\refint\aula2.dll
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.pdb
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\aula2.genruntimeconfig.cache
+c:\Users\kaiky\Downloads\kaka\cshark--aprendendo\aula2\obj\Debug\net9.0\ref\aula2.dll

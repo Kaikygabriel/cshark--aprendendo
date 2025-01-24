@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

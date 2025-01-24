@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA04967D-DFC5-4599-B337-B9A2B24EA2C3}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA04967D-DFC5-4599-B337-B9A2B24EA2C3}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp14\\ConsoleApp14\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:57:19.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

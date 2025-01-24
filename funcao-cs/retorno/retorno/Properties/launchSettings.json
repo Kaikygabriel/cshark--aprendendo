@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "retorno": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

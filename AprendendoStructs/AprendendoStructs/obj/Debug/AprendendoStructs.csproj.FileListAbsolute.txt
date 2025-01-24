@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.pdb

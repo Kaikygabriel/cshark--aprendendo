@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AddProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98139C18-CB0D-4B57-8B40-F0234814AB63}|AddProduto\\AddProduto.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\addproduto\\addproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98139C18-CB0D-4B57-8B40-F0234814AB63}|AddProduto\\AddProduto.csproj|solutionrelative:addproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AddProduto\\AddProduto\\Program.cs",
+              "RelativeDocumentMoniker": "AddProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AddProduto\\AddProduto\\Program.cs",
+              "RelativeToolTip": "AddProduto\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:15:09.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

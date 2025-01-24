@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ms-dotnettools.vscodeintellicode-csharp",
+        "adrianwilczynski.namespace"
+    ]
+}

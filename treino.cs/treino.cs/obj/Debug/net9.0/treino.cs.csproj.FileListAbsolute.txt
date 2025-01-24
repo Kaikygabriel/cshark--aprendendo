@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\bin\Debug\net9.0\treino.cs.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\bin\Debug\net9.0\treino.cs.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\bin\Debug\net9.0\treino.cs.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\bin\Debug\net9.0\treino.cs.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\bin\Debug\net9.0\treino.cs.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\refint\treino.cs.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\treino.cs.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\treino.cs\treino.cs\obj\Debug\net9.0\ref\treino.cs.dll

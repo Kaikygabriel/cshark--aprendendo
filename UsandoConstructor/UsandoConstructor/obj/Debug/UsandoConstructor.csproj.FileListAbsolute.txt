@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\bin\Debug\UsandoConstructor.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\bin\Debug\UsandoConstructor.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\bin\Debug\UsandoConstructor.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\obj\Debug\UsandoConstructor.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\obj\Debug\UsandoConstructor.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\obj\Debug\UsandoConstructor.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\UsandoConstructor\UsandoConstructor\obj\Debug\UsandoConstructor.pdb

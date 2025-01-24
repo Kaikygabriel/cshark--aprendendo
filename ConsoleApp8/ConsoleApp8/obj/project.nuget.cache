@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgOsWUuznKU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
