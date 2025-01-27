@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "salvando-nome": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

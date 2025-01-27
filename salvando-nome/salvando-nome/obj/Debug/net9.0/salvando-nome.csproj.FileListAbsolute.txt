@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\bin\Debug\net9.0\salvando-nome.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\bin\Debug\net9.0\salvando-nome.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\bin\Debug\net9.0\salvando-nome.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\bin\Debug\net9.0\salvando-nome.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\bin\Debug\net9.0\salvando-nome.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\refint\salvando-nome.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\salvando-nome.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\salvando-nome\salvando-nome\obj\Debug\net9.0\ref\salvando-nome.dll

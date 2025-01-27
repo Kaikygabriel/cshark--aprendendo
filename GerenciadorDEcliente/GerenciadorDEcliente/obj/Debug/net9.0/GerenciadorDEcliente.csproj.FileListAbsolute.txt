@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\bin\Debug\net9.0\GerenciadorDEcliente.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\bin\Debug\net9.0\GerenciadorDEcliente.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\bin\Debug\net9.0\GerenciadorDEcliente.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\bin\Debug\net9.0\GerenciadorDEcliente.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\bin\Debug\net9.0\GerenciadorDEcliente.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\refint\GerenciadorDEcliente.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\GerenciadorDEcliente.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDEcliente\GerenciadorDEcliente\obj\Debug\net9.0\ref\GerenciadorDEcliente.dll
