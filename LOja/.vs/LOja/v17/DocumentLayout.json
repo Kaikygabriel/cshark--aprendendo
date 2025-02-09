@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\loja\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|solutionrelative:loja\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\loja\\loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|solutionrelative:loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\loja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|solutionrelative:loja\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\loja\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1126BC71-C536-48BA-86FD-8FF4DC9AF57F}|LOja\\LOja.csproj|solutionrelative:loja\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Program.cs",
+              "RelativeDocumentMoniker": "LOja\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Program.cs",
+              "RelativeToolTip": "LOja\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:35:59.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Loja.cs",
+              "RelativeDocumentMoniker": "LOja\\Loja.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Loja.cs",
+              "RelativeToolTip": "LOja\\Loja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:01:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Estoque.cs",
+              "RelativeDocumentMoniker": "LOja\\Estoque.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Estoque.cs",
+              "RelativeToolTip": "LOja\\Estoque.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:37:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Produto.cs",
+              "RelativeDocumentMoniker": "LOja\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LOja\\LOja\\Produto.cs",
+              "RelativeToolTip": "LOja\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:36:33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

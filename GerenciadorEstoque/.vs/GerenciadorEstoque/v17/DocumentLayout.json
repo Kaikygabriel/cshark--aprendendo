@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E3F6B3-D87E-4CC4-B584-D5C5642A9783}|GerenciadorEstoque\\GerenciadorEstoque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadorestoque\\gerenciadorestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E3F6B3-D87E-4CC4-B584-D5C5642A9783}|GerenciadorEstoque\\GerenciadorEstoque.csproj|solutionrelative:gerenciadorestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E3F6B3-D87E-4CC4-B584-D5C5642A9783}|GerenciadorEstoque\\GerenciadorEstoque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadorestoque\\gerenciadorestoque\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E3F6B3-D87E-4CC4-B584-D5C5642A9783}|GerenciadorEstoque\\GerenciadorEstoque.csproj|solutionrelative:gerenciadorestoque\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorEstoque\\GerenciadorEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorEstoque\\GerenciadorEstoque\\Program.cs",
+              "RelativeToolTip": "GerenciadorEstoque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:05:36.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorEstoque\\GerenciadorEstoque\\Loja.cs",
+              "RelativeDocumentMoniker": "GerenciadorEstoque\\Loja.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorEstoque\\GerenciadorEstoque\\Loja.cs",
+              "RelativeToolTip": "GerenciadorEstoque\\Loja.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:09:35.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

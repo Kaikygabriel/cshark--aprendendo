@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\bin\Debug\GERENCIADORC.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\bin\Debug\GERENCIADORC.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\bin\Debug\GERENCIADORC.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\obj\Debug\GERENCIADORC.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\obj\Debug\GERENCIADORC.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\obj\Debug\GERENCIADORC.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GERENCIADORC\GERENCIADORC\obj\Debug\GERENCIADORC.pdb

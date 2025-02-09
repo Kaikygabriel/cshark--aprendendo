@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\bin\Debug\MediaNota.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\bin\Debug\MediaNota.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\bin\Debug\MediaNota.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\obj\Debug\MediaNota.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\obj\Debug\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\obj\Debug\MediaNota.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MediaNota\MediaNota\obj\Debug\MediaNota.pdb

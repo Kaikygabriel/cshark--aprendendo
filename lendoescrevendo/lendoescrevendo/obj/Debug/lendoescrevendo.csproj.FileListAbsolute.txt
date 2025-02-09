@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\bin\Debug\lendoescrevendo.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\bin\Debug\lendoescrevendo.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\bin\Debug\lendoescrevendo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\obj\Debug\lendoescrevendo.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\obj\Debug\lendoescrevendo.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\obj\Debug\lendoescrevendo.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\lendoescrevendo\lendoescrevendo\obj\Debug\lendoescrevendo.pdb

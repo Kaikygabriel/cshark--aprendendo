@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\bin\Debug\Clientes2.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\bin\Debug\Clientes2.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\bin\Debug\Clientes2.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\obj\Debug\Clientes2.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\obj\Debug\Clientes2.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\obj\Debug\Clientes2.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Clientes2\Clientes2\obj\Debug\Clientes2.pdb

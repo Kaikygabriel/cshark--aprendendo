@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\bin\Debug\Jogos.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\bin\Debug\Jogos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\bin\Debug\Jogos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\obj\Debug\Jogos.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\obj\Debug\Jogos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\obj\Debug\Jogos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Jogos\Jogos\obj\Debug\Jogos.pdb
