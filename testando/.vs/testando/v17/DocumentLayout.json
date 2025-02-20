@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\testando\\testando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|solutionrelative:testando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\testando\\testando\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|solutionrelative:testando\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\testando\\testando\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|solutionrelative:testando\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\testando\\testando\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB04B8F-97AE-4255-905F-34AD37DFD45E}|testando\\testando.csproj|solutionrelative:testando\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Program.cs",
+              "RelativeDocumentMoniker": "testando\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Program.cs",
+              "RelativeToolTip": "testando\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:23:17.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Interface1.cs",
+              "RelativeDocumentMoniker": "testando\\Interface1.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Interface1.cs",
+              "RelativeToolTip": "testando\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:28:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Estoque.cs",
+              "RelativeDocumentMoniker": "testando\\Estoque.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Estoque.cs",
+              "RelativeToolTip": "testando\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:26:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Produto.cs",
+              "RelativeDocumentMoniker": "testando\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\testando\\testando\\Produto.cs",
+              "RelativeToolTip": "testando\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:25:11.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

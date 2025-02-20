@@ -46,16 +46,34 @@ namespace logarSistema
         {
             if(File.Exists("usuario-g.txt"))
             {
-                Console.WriteLine("as contas criadas são");
+                Console.WriteLine("insira o nome da sua conta ");
                 List<Google> usuariog = new List<Google>();
                 BinaryFormatter converter = new BinaryFormatter();
                 FileStream bin = new FileStream("usuario-g.txt", FileMode.Open);
+                string nome = Console.ReadLine();
                 usuariog = (List<Google>)converter.Deserialize(bin);
+                int index = -1;
                 bin.Close();
-                foreach(Google u in usuariog)
+               for(int i = 0;i < usuariog.Count; i++)
                 {
-                    Console.WriteLine($"o usuario: {u.name}, tem o email: {u.email} ea senha: {u.senha}");
+                    if (usuariog[i].name == nome)
+                    {
+                        index = i;
+                    }
                 }
+               if(index != -1)
+                {
+                    Console.WriteLine("ola " + usuariog[index].name +" "+ usuariog[index].email);
+                    
+                }
+                else
+                {
+                    Console.WriteLine("conta não encontrada tente novamnete");
+                    Console.ReadLine();
+                    Console.Clear();
+                    verGoogle();
+                }
+                
             }
             else
             {

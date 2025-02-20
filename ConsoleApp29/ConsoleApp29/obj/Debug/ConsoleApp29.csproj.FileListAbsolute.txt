@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.pdb

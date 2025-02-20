@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\bin\Debug\LIvrosParaLer.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\bin\Debug\LIvrosParaLer.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\bin\Debug\LIvrosParaLer.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\obj\Debug\LIvrosParaLer.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\obj\Debug\LIvrosParaLer.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\obj\Debug\LIvrosParaLer.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LIvrosParaLer\LIvrosParaLer\obj\Debug\LIvrosParaLer.pdb
