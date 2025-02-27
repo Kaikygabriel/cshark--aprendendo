@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\bin\Debug\desafio6.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\bin\Debug\desafio6.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\bin\Debug\desafio6.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\obj\Debug\desafio6.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\obj\Debug\desafio6.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\obj\Debug\desafio6.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio6\desafio6\obj\Debug\desafio6.pdb

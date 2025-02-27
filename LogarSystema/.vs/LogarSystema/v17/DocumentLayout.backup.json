@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\logarsystema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|solutionrelative:logarsystema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\logarsystema\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|solutionrelative:logarsystema\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\logarsystema\\logarsystema\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24933D58-D03C-4EF0-A0E1-6E32C5C56C32}|LogarSystema\\LogarSystema.csproj|solutionrelative:logarsystema\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Program.cs",
+              "RelativeDocumentMoniker": "LogarSystema\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Program.cs",
+              "RelativeToolTip": "LogarSystema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:54:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Google.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Google.cs",
+              "RelativeDocumentMoniker": "LogarSystema\\Google.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Google.cs",
+              "RelativeToolTip": "LogarSystema\\Google.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:42:54.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogarSystema\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\LogarSystema\\LogarSystema\\Usuario.cs",
+              "RelativeToolTip": "LogarSystema\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:42:04.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

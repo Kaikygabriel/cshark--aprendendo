@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\consoleapp38\\consoleapp38\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\consoleapp38\\consoleapp38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\consoleapp38\\consoleapp38\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73124D7A-1582-43D2-8C7F-C2EA8BF04348}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\Program.cs",
+              "RelativeToolTip": "ConsoleApp38\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:07:42.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruta.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\Fruta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Fruta.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\Fruta.cs",
+              "RelativeToolTip": "ConsoleApp38\\Fruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:08:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loja.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\loja.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\loja.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ConsoleApp38\\ConsoleApp38\\loja.cs*",
+              "RelativeToolTip": "ConsoleApp38\\loja.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv2QAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:08:03.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

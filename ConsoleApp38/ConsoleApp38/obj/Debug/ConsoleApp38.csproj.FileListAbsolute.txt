@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb

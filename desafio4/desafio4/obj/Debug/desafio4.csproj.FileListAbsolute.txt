@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\bin\Debug\desafio4.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\bin\Debug\desafio4.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\bin\Debug\desafio4.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\obj\Debug\desafio4.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\obj\Debug\desafio4.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\obj\Debug\desafio4.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\desafio4\desafio4\obj\Debug\desafio4.pdb

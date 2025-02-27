@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\bin\Debug\Projeto4.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\bin\Debug\Projeto4.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\bin\Debug\Projeto4.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\obj\Debug\Projeto4.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Projeto4\Projeto4\obj\Debug\Projeto4.pdb

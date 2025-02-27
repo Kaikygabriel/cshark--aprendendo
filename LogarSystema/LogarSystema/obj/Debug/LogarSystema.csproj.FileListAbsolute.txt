@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\obj\Debug\LogarSystema.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\obj\Debug\LogarSystema.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\bin\Debug\LogarSystema.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\bin\Debug\LogarSystema.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\bin\Debug\LogarSystema.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\obj\Debug\LogarSystema.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\LogarSystema\LogarSystema\obj\Debug\LogarSystema.pdb
