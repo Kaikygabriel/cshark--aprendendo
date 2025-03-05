@@ -1,0 +1,10 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleA.2EC096D1.Up2Date

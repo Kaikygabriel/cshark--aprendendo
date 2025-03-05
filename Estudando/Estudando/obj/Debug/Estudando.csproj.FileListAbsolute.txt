@@ -1,0 +1,10 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\obj\Debug\Estudando.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\obj\Debug\Estudando.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\bin\Debug\Estudando.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\bin\Debug\Estudando.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\bin\Debug\Estudando.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\obj\Debug\Estudando.csproj.Up2Date
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\obj\Debug\Estudando.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Estudando\Estudando\obj\Debug\Estudando.pdb

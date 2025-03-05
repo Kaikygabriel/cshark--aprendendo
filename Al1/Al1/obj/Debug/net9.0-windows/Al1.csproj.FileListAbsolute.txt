@@ -1,0 +1,17 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\bin\Debug\net9.0-windows\Al1.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\bin\Debug\net9.0-windows\Al1.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\bin\Debug\net9.0-windows\Al1.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\bin\Debug\net9.0-windows\Al1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\bin\Debug\net9.0-windows\Al1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.Form1.resources
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.csproj.GenerateResource.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\refint\Al1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\Al1.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Al1\Al1\obj\Debug\net9.0-windows\ref\Al1.dll

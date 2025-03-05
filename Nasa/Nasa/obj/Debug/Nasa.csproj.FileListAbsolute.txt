@@ -1,0 +1,10 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\bin\Debug\Nasa.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\bin\Debug\Nasa.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\bin\Debug\Nasa.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\obj\Debug\Nasa.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\obj\Debug\Nasa.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\obj\Debug\Nasa.csproj.Up2Date
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\obj\Debug\Nasa.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nasa\Nasa\obj\Debug\Nasa.pdb

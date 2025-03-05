@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\bin\Debug\ver cep.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\bin\Debug\ver cep.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\bin\Debug\ver cep.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\obj\Debug\ver cep.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\obj\Debug\ver cep.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\obj\Debug\ver cep.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ver cep\ver cep\obj\Debug\ver cep.pdb

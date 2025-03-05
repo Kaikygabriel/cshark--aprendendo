@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto4
 {
+    [System.Serializable]
     abstract  class PRoduto
     {
         public string nome;

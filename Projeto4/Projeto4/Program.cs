@@ -44,5 +44,32 @@ namespace Projeto4
                 }
             }
         }
+        static void Cadastro()
+        {
+            Console.WriteLine("1- Curso \n 2 - Ebook \n 3 - Produto Fisico");
+            int index = int.Parse(Console.ReadLine());
+            if (index > 0 && index <= 3)
+            {
+                switch (index)
+                {
+                    case 1:
+                        Curso.adicionar();
+                        break;
+                    case 2:
+                        Ebook.adicionar();
+                        break;
+                    case 3:
+
+                        break;
+                    default:
+                        Console.WriteLine("Nada encontrado");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nada encontrado");
+            }
+        }
     }
 }
