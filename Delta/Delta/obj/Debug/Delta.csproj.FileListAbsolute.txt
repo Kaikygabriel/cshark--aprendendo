@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\bin\Debug\Delta.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\bin\Debug\Delta.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\bin\Debug\Delta.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\obj\Debug\Delta.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\obj\Debug\Delta.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Delta\Delta\obj\Debug\Delta.pdb

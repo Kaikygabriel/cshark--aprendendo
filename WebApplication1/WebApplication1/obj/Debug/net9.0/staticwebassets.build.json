@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dKmdQDCHK2xkdOQVpEg68LLgsEexXaogNZSzO4vl5mE=",
+  "Hash": "B0ZsRby4xu6FK41StDndWRTQtMHz6SGt9Re/OBcImas=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-n59j13wd60.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=n59j13wd60}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "0ucw4bafpq",
+      "Integrity": "CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "n59j13wd60",
+      "Integrity": "G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-n59j13wd60.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002985074627"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "334"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "693"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-n59j13wd60.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n59j13wd60.css",
+      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-n59j13wd60.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002985074627"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "334"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n59j13wd60"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n59j13wd60.css",
+      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "n59j13wd60"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-G4KYI8IHnvgIXMWu8nFBQ6qfQs5lRLlY9MXf2C3Bkzo="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
+      "Route": "css/site.n59j13wd60.css.gz",
+      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-n59j13wd60.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "334"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
+          "Value": "Wed, 05 Mar 2025 17:19:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "n59j13wd60"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\WebApplication1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\sfr9826l73-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 17:01:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-CAdgrbMQVnbX2hpxWXA7ohDEaNkeewpBvDb2l/+AdDQ="
         }
       ]
     },

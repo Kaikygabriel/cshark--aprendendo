@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\bin\Debug\GerenciadorDeEstoquE.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\bin\Debug\GerenciadorDeEstoquE.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\bin\Debug\GerenciadorDeEstoquE.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\obj\Debug\GerenciadorDeEstoquE.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\obj\Debug\GerenciadorDeEstoquE.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\obj\Debug\GerenciadorDeEstoquE.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeEstoquE\GerenciadorDeEstoquE\obj\Debug\GerenciadorDeEstoquE.pdb

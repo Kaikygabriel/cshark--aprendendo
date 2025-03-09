@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\bin\Debug\NumeroPerfeito.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroPerfeito\NumeroPerfeito\obj\Debug\NumeroPerfeito.pdb

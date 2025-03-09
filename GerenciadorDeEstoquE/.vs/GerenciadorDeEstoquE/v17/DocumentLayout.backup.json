@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadordeestoque\\gerenciadordeestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|solutionrelative:gerenciadordeestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadordeestoque\\gerenciadordeestoque\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|solutionrelative:gerenciadordeestoque\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadordeestoque\\gerenciadordeestoque\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|solutionrelative:gerenciadordeestoque\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerenciadordeestoque\\gerenciadordeestoque\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31FB5A1-E4F2-4E04-B26C-EA625126F980}|GerenciadorDeEstoquE\\GerenciadorDeEstoquE.csproj|solutionrelative:gerenciadordeestoque\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeEstoquE\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Program.cs*",
+              "RelativeToolTip": "GerenciadorDeEstoquE\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:36:43.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Interface1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeEstoquE\\Interface1.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Interface1.cs",
+              "RelativeToolTip": "GerenciadorDeEstoquE\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:51:23.773Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Ebook.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeEstoquE\\Ebook.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\Ebook.cs",
+              "RelativeToolTip": "GerenciadorDeEstoquE\\Ebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:54:20.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoFisico.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\ProdutoFisico.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeEstoquE\\ProdutoFisico.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerenciadorDeEstoquE\\GerenciadorDeEstoquE\\ProdutoFisico.cs",
+              "RelativeToolTip": "GerenciadorDeEstoquE\\ProdutoFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:52:04.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
