@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\SegundoSite.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\appsettings.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\SegundoSite.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\SegundoSite.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\SegundoSite.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SegundoSite\SegundoSite\obj\Debug\net9.0\PubTmp\Out\SegundoSite.pdb

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ContarVogais": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

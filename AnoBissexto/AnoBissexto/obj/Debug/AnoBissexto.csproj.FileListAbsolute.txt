@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.pdb

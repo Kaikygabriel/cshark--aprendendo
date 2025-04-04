@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\bin\Debug\net9.0\PalavrasPalíndromas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\bin\Debug\net9.0\PalavrasPalíndromas.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\bin\Debug\net9.0\PalavrasPalíndromas.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\bin\Debug\net9.0\PalavrasPalíndromas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\bin\Debug\net9.0\PalavrasPalíndromas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\refint\PalavrasPalíndromas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\PalavrasPalíndromas.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PalavrasPalíndromas\PalavrasPalíndromas\obj\Debug\net9.0\ref\PalavrasPalíndromas.dll

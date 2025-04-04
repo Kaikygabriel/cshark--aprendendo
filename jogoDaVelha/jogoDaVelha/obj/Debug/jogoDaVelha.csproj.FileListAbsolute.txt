@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\bin\Debug\jogoDaVelha.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\bin\Debug\jogoDaVelha.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\bin\Debug\jogoDaVelha.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\obj\Debug\jogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\obj\Debug\jogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\obj\Debug\jogoDaVelha.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\jogoDaVelha\jogoDaVelha\obj\Debug\jogoDaVelha.pdb

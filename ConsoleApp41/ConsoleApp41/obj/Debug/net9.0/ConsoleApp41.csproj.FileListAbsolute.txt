@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\refint\ConsoleApp41.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp41\ConsoleApp41\obj\Debug\net9.0\ref\ConsoleApp41.dll

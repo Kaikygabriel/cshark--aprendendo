@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\bin\Debug\InvertendoStringEmContas.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\bin\Debug\InvertendoStringEmContas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\bin\Debug\InvertendoStringEmContas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\obj\Debug\InvertendoStringEmContas.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\obj\Debug\InvertendoStringEmContas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\obj\Debug\InvertendoStringEmContas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStringEmContas\InvertendoStringEmContas\obj\Debug\InvertendoStringEmContas.pdb

@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\bin\Debug\BancoKaiky.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\bin\Debug\BancoKaiky.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\bin\Debug\BancoKaiky.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\obj\Debug\BancoKaiky.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\obj\Debug\BancoKaiky.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\obj\Debug\BancoKaiky.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BancoKaiky\BancoKaiky\obj\Debug\BancoKaiky.pdb

@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\bin\Debug\JogoDaAdivinhacao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaAdivinhacao\JogoDaAdivinhacao\obj\Debug\JogoDaAdivinhacao.pdb

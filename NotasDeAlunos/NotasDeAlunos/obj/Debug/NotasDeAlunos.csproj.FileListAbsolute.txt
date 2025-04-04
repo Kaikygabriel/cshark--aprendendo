@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\bin\Debug\NotasDeAlunos.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\bin\Debug\NotasDeAlunos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\bin\Debug\NotasDeAlunos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\obj\Debug\NotasDeAlunos.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\obj\Debug\NotasDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\obj\Debug\NotasDeAlunos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NotasDeAlunos\NotasDeAlunos\obj\Debug\NotasDeAlunos.pdb

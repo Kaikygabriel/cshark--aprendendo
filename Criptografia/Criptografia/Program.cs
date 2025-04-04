@@ -15,7 +15,7 @@ namespace Criptografia
         static void Main()
         {
 
-            List<int> list = Cript("kaiky-gabriel-alves");
+            List<int> list = Cript("kaiky");
             foreach (int l in list)
             {
                 Console.Write(l);
@@ -29,7 +29,7 @@ namespace Criptografia
         }
         static List<int> Cript(string palavra)
         {
-            List<char> list = new List<char>() { '-', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 't', 's', 'v', 'w', 'x', 'y', 'z', '0' };
+            List<char> list = new List<char>() {'-', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 't', 's', 'v', 'w', 'x', 'y', 'z', '0' };
 
 
             List<char> list2 = new List<char>();

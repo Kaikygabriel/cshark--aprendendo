@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\bin\Debug\net9.0\Nuable.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\bin\Debug\net9.0\Nuable.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\bin\Debug\net9.0\Nuable.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\bin\Debug\net9.0\Nuable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\bin\Debug\net9.0\Nuable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\refint\Nuable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\Nuable.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Nuable\Nuable\obj\Debug\net9.0\ref\Nuable.dll

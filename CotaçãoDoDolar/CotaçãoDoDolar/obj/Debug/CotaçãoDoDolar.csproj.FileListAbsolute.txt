@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\obj\Debug\CotaçãoDoDolar.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\obj\Debug\CotaçãoDoDolar.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\bin\Debug\CotaçãoDoDolar.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\bin\Debug\CotaçãoDoDolar.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\bin\Debug\CotaçãoDoDolar.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\obj\Debug\CotaçãoDoDolar.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CotaçãoDoDolar\CotaçãoDoDolar\obj\Debug\CotaçãoDoDolar.pdb

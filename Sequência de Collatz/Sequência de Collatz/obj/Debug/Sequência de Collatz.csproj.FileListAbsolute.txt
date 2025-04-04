@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\bin\Debug\Sequência de Collatz.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\bin\Debug\Sequência de Collatz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\bin\Debug\Sequência de Collatz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\obj\Debug\Sequência de Collatz.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\obj\Debug\Sequência de Collatz.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\obj\Debug\Sequência de Collatz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência de Collatz\Sequência de Collatz\obj\Debug\Sequência de Collatz.pdb

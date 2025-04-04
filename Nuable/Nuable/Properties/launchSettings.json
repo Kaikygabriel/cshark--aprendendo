@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Nuable": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\bin\Debug\Sequência-Ziguezague.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\bin\Debug\Sequência-Ziguezague.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\bin\Debug\Sequência-Ziguezague.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\obj\Debug\Sequência-Ziguezague.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\obj\Debug\Sequência-Ziguezague.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\obj\Debug\Sequência-Ziguezague.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Sequência-Ziguezague\Sequência-Ziguezague\obj\Debug\Sequência-Ziguezague.pdb

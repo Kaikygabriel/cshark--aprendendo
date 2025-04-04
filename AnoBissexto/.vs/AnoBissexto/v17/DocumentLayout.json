@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AnoBissexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C1F76E-BA87-4555-B48E-94BEE9FEBBB5}|AnoBissexto\\AnoBissexto.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\anobissexto\\anobissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C1F76E-BA87-4555-B48E-94BEE9FEBBB5}|AnoBissexto\\AnoBissexto.csproj|solutionrelative:anobissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AnoBissexto\\AnoBissexto\\Program.cs",
+              "RelativeDocumentMoniker": "AnoBissexto\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AnoBissexto\\AnoBissexto\\Program.cs",
+              "RelativeToolTip": "AnoBissexto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:51:59.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

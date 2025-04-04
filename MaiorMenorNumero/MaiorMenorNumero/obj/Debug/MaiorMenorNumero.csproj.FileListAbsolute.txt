@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\bin\Debug\MaiorMenorNumero.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\bin\Debug\MaiorMenorNumero.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\bin\Debug\MaiorMenorNumero.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\obj\Debug\MaiorMenorNumero.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\obj\Debug\MaiorMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\obj\Debug\MaiorMenorNumero.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MaiorMenorNumero\MaiorMenorNumero\obj\Debug\MaiorMenorNumero.pdb

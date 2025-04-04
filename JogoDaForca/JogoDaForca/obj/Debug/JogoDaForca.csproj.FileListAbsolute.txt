@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\bin\Debug\JogoDaForca.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDaForca\JogoDaForca\obj\Debug\JogoDaForca.pdb

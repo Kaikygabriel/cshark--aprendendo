@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MatrizTransportada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7353586-3BFB-43F0-BED6-97C8E7E7DF30}|MatrizTransportada\\MatrizTransportada.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\matriztransportada\\matriztransportada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7353586-3BFB-43F0-BED6-97C8E7E7DF30}|MatrizTransportada\\MatrizTransportada.csproj|solutionrelative:matriztransportada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MatrizTransportada\\MatrizTransportada\\Program.cs",
+              "RelativeDocumentMoniker": "MatrizTransportada\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MatrizTransportada\\MatrizTransportada\\Program.cs*",
+              "RelativeToolTip": "MatrizTransportada\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:14:18.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

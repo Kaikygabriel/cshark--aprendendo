@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\bin\Debug\net9.0\ContarVogais.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\bin\Debug\net9.0\ContarVogais.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\bin\Debug\net9.0\ContarVogais.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\bin\Debug\net9.0\ContarVogais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\bin\Debug\net9.0\ContarVogais.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\refint\ContarVogais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ContarVogais.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ContarVogais\ContarVogais\obj\Debug\net9.0\ref\ContarVogais.dll

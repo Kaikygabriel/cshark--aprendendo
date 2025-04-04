@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\bin\Debug\net9.0\params.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\bin\Debug\net9.0\params.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\bin\Debug\net9.0\params.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\bin\Debug\net9.0\params.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\bin\Debug\net9.0\params.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\refint\params.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\params.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\params\params\obj\Debug\net9.0\ref\params.dll

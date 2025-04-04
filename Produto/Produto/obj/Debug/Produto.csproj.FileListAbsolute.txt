@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\bin\Debug\Produto.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\bin\Debug\Produto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\bin\Debug\Produto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\obj\Debug\Produto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Produto\Produto\obj\Debug\Produto.pdb

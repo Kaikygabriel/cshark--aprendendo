@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\bin\Debug\GerenciadorDeBlibiotecaw.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\bin\Debug\GerenciadorDeBlibiotecaw.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\bin\Debug\GerenciadorDeBlibiotecaw.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\obj\Debug\GerenciadorDeBlibiotecaw.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\obj\Debug\GerenciadorDeBlibiotecaw.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\obj\Debug\GerenciadorDeBlibiotecaw.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeBlibiotecaw\GerenciadorDeBlibiotecaw\obj\Debug\GerenciadorDeBlibiotecaw.pdb

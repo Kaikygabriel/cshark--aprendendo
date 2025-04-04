@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\bin\Debug\SomaDeMatriz.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\bin\Debug\SomaDeMatriz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\bin\Debug\SomaDeMatriz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\obj\Debug\SomaDeMatriz.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\obj\Debug\SomaDeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\obj\Debug\SomaDeMatriz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SomaDeMatriz\SomaDeMatriz\obj\Debug\SomaDeMatriz.pdb

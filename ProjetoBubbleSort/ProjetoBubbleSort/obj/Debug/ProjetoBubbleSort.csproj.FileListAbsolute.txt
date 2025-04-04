@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\bin\Debug\ProjetoBubbleSort.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\bin\Debug\ProjetoBubbleSort.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\bin\Debug\ProjetoBubbleSort.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\obj\Debug\ProjetoBubbleSort.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\obj\Debug\ProjetoBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\obj\Debug\ProjetoBubbleSort.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjetoBubbleSort\ProjetoBubbleSort\obj\Debug\ProjetoBubbleSort.pdb

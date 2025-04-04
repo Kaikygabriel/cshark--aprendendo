@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\bin\Debug\net9.0\Listas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\bin\Debug\net9.0\Listas.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\bin\Debug\net9.0\Listas.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\bin\Debug\net9.0\Listas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\bin\Debug\net9.0\Listas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\refint\Listas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\Listas.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Listas\Listas\obj\Debug\net9.0\ref\Listas.dll

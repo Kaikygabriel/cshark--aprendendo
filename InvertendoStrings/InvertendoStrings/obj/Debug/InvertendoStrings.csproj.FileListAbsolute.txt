@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\bin\Debug\InvertendoStrings.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\bin\Debug\InvertendoStrings.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\bin\Debug\InvertendoStrings.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\obj\Debug\InvertendoStrings.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\obj\Debug\InvertendoStrings.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\obj\Debug\InvertendoStrings.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\InvertendoStrings\InvertendoStrings\obj\Debug\InvertendoStrings.pdb

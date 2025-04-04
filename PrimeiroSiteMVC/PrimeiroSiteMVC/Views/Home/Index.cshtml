@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem Vindo </h1>
+   <p>Meu primeiro site</p>
+    <h2>Digite algo no formulário:</h2>
+
+    <!-- Formulário que envia o valor para o controller -->
+    <form asp-action="ExibirTexto" method="post">
+        <input type="text" name="texto" placeholder="digite seu nome" />
+        <input type="text" name="email" placeholder="digite seu email"/>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <!-- Exibe o texto enviado -->
+    @if (ViewBag.Texto != null)
+    {
+        <h3>Seu nome é : @ViewBag.Texto</h3>
+        <h3>Seu email  é : @ViewBag.email</h3>
+    }
+</div>

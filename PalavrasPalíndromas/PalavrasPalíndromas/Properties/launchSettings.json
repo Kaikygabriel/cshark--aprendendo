@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PalavrasPalíndromas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

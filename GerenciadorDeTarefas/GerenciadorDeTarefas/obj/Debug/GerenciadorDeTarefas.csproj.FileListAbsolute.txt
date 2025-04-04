@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.pdb

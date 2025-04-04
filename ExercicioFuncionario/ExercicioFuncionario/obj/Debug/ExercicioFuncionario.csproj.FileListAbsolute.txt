@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\ExercicioFuncionario.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\ExercicioFuncionario.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\ExercicioFuncionario.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\ExercicioFuncionario.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\ExercicioFuncionario.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\ExercicioFuncionario.pdb

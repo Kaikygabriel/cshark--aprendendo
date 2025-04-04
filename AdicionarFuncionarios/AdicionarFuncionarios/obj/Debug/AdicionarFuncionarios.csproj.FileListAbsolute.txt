@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\bin\Debug\AdicionarFuncionarios.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\bin\Debug\AdicionarFuncionarios.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\bin\Debug\AdicionarFuncionarios.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\obj\Debug\AdicionarFuncionarios.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\obj\Debug\AdicionarFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\obj\Debug\AdicionarFuncionarios.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AdicionarFuncionarios\AdicionarFuncionarios\obj\Debug\AdicionarFuncionarios.pdb

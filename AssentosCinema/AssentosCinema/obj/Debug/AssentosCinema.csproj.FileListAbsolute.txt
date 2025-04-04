@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\bin\Debug\AssentosCinema.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\bin\Debug\AssentosCinema.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\bin\Debug\AssentosCinema.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\obj\Debug\AssentosCinema.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\obj\Debug\AssentosCinema.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\obj\Debug\AssentosCinema.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AssentosCinema\AssentosCinema\obj\Debug\AssentosCinema.pdb

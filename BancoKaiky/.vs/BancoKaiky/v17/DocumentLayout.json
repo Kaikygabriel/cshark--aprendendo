@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6B74A-E420-488B-9D6F-12BC865D188A}|BancoKaiky\\BancoKaiky.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\bancokaiky\\bancokaiky\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6B74A-E420-488B-9D6F-12BC865D188A}|BancoKaiky\\BancoKaiky.csproj|solutionrelative:bancokaiky\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A6B74A-E420-488B-9D6F-12BC865D188A}|BancoKaiky\\BancoKaiky.csproj|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\bancokaiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A6B74A-E420-488B-9D6F-12BC865D188A}|BancoKaiky\\BancoKaiky.csproj|solutionrelative:bancokaiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\BancoKaiky\\Program.cs",
+              "RelativeDocumentMoniker": "BancoKaiky\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\BancoKaiky\\Program.cs",
+              "RelativeToolTip": "BancoKaiky\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:49:02.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\BancoKaiky\\Usuario.cs",
+              "RelativeDocumentMoniker": "BancoKaiky\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\BancoKaiky\\BancoKaiky\\Usuario.cs",
+              "RelativeToolTip": "BancoKaiky\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:49:23.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
