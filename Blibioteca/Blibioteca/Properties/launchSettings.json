@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Blibioteca": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

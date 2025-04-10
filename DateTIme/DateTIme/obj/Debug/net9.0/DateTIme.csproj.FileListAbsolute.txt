@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\bin\Debug\net9.0\DateTIme.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\bin\Debug\net9.0\DateTIme.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\bin\Debug\net9.0\DateTIme.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\bin\Debug\net9.0\DateTIme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\bin\Debug\net9.0\DateTIme.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\refint\DateTIme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\DateTIme.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DateTIme\DateTIme\obj\Debug\net9.0\ref\DateTIme.dll

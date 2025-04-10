@@ -48,6 +48,10 @@ namespace ExercicioFuncionario
             if (!achou)
             {
                 Console.WriteLine("Não foi possivel achar");
+                Console.WriteLine("Click novamente para reiniciar ");
+                Console.ReadLine();
+                Console.Clear();
+                Adicionar();
             }
            
         }

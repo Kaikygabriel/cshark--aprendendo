@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\bin\Debug\net9.0\Blibioteca.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\bin\Debug\net9.0\Blibioteca.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\bin\Debug\net9.0\Blibioteca.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\bin\Debug\net9.0\Blibioteca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\bin\Debug\net9.0\Blibioteca.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\refint\Blibioteca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\Blibioteca.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Blibioteca\Blibioteca\obj\Debug\net9.0\ref\Blibioteca.dll

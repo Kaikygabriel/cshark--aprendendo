@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\bin\Debug\net9.0\ExercicioMatriz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\bin\Debug\net9.0\ExercicioMatriz.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\bin\Debug\net9.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\bin\Debug\net9.0\ExercicioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\bin\Debug\net9.0\ExercicioMatriz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\refint\ExercicioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioMatriz\ExercicioMatriz\obj\Debug\net9.0\ref\ExercicioMatriz.dll

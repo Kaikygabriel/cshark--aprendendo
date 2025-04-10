@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\DEsafioMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84E612E6-7088-47BF-AC72-D6B6298D9E34}|DEsafioMatriz\\DEsafioMatriz.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\desafiomatriz\\desafiomatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E612E6-7088-47BF-AC72-D6B6298D9E34}|DEsafioMatriz\\DEsafioMatriz.csproj|solutionrelative:desafiomatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\DEsafioMatriz\\DEsafioMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "DEsafioMatriz\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\DEsafioMatriz\\DEsafioMatriz\\Program.cs",
+              "RelativeToolTip": "DEsafioMatriz\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:24:27.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

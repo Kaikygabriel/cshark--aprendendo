@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimeSpan": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

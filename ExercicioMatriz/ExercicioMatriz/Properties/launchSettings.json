@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExercicioMatriz": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\bin\Debug\net9.0\DEsafioMatriz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\bin\Debug\net9.0\DEsafioMatriz.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\bin\Debug\net9.0\DEsafioMatriz.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\bin\Debug\net9.0\DEsafioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\bin\Debug\net9.0\DEsafioMatriz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\refint\DEsafioMatriz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\DEsafioMatriz.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DEsafioMatriz\DEsafioMatriz\obj\Debug\net9.0\ref\DEsafioMatriz.dll

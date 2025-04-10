@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\bin\Debug\net9.0\FuncoesStrings.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\bin\Debug\net9.0\FuncoesStrings.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\bin\Debug\net9.0\FuncoesStrings.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\bin\Debug\net9.0\FuncoesStrings.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\bin\Debug\net9.0\FuncoesStrings.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\refint\FuncoesStrings.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\FuncoesStrings.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FuncoesStrings\FuncoesStrings\obj\Debug\net9.0\ref\FuncoesStrings.dll

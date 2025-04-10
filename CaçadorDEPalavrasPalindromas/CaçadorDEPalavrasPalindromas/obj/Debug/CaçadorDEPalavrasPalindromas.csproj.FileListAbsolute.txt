@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\bin\Debug\CaçadorDEPalavrasPalindromas.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\bin\Debug\CaçadorDEPalavrasPalindromas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\bin\Debug\CaçadorDEPalavrasPalindromas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\obj\Debug\CaçadorDEPalavrasPalindromas.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\obj\Debug\CaçadorDEPalavrasPalindromas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\obj\Debug\CaçadorDEPalavrasPalindromas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CaçadorDEPalavrasPalindromas\CaçadorDEPalavrasPalindromas\obj\Debug\CaçadorDEPalavrasPalindromas.pdb

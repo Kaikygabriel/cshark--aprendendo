@@ -1,0 +1,1 @@
+Capetalista programa em rust

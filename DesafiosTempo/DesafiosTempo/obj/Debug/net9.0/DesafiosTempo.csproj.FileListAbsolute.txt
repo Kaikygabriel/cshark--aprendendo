@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\bin\Debug\net9.0\DesafiosTempo.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\bin\Debug\net9.0\DesafiosTempo.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\bin\Debug\net9.0\DesafiosTempo.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\bin\Debug\net9.0\DesafiosTempo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\bin\Debug\net9.0\DesafiosTempo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\refint\DesafiosTempo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\DesafiosTempo.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafiosTempo\DesafiosTempo\obj\Debug\net9.0\ref\DesafiosTempo.dll

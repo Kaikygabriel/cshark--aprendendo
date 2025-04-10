@@ -1,0 +1,7 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\bin\Debug\Desafio15.exe.config
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\bin\Debug\Desafio15.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\bin\Debug\Desafio15.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\obj\Debug\Desafio15.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\obj\Debug\Desafio15.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\obj\Debug\Desafio15.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Desafio15\Desafio15\obj\Debug\Desafio15.pdb
