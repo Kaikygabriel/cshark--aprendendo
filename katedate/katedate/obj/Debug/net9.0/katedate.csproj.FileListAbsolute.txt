@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\bin\Debug\net9.0\katedate.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\bin\Debug\net9.0\katedate.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\bin\Debug\net9.0\katedate.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\bin\Debug\net9.0\katedate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\bin\Debug\net9.0\katedate.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\refint\katedate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\katedate.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\katedate\katedate\obj\Debug\net9.0\ref\katedate.dll

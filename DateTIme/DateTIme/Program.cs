@@ -1,5 +1,7 @@
 ﻿
+using System.Diagnostics;
 using System.Globalization;
+using System.Runtime.Serialization;
 
 namespace DateTIme
 {
@@ -7,21 +9,38 @@ namespace DateTIme
     {
         static void Main(string[] args)
         {
-            DateTime d1 = DateTime.Now;
-            string data = "11/12/24";
-            DateTime a = DateTime.Parse(data);
-            //exibe o horario atual
-            DateTime d4 = DateTime.Today;
-            //exibe a data do dia atual porem com o horario zerado
-            Console.WriteLine(d1);new 
-            Console.WriteLine(d1.Ticks);
-            //ticks são 100 nanosegundos, e são contados des da meia noite do dia 1 de janeiro do ano 1 da era comum
-                                        //ano mes dia
-            DateTime d2 = new DateTime(2025,03,16);
-            Console.WriteLine(d2);     //ano mes dia hora minuto segundo
-            DateTime d3 = new DateTime(2025, 03, 16, 10, 20, 00);
-            Console.WriteLine(d3);
-            DateTime a2 = DateTime.ParseExact("2000-03-16","yyyy-MM-dd",CultureInfo.InvariantCulture);  
+            DateTime i = new DateTime(2015, 03, 22, 10, 20, 00); 
+            DateTime j = i.AddHours(2);//pode adicionar horas (São TimeSpan que são adicionados)
+            //Console.WriteLine(i.Date);//pega apenas a data
+            //Console.WriteLine(i.Day); //pega so o dia
+            //Console.WriteLine(i.ToLongDateString());//imprime a data de uma menira mais completa
+            //Console.WriteLine(i.ToLongTimeString());//imprime a hora de uma menira mais completa
+            //Console.WriteLine(i.ToShortDateString());//resume a data
+            //Console.WriteLine(i.ToShortTimeString());//resume a hora
+            //string data = i.ToString("yyyy-MM-dd");//o ToString contem sobrecarga
+            //Console.WriteLine(data);
+            DateTime agora = new DateTime(2025,03,1);
+            DateTime depois = new DateTime(2025, 03, 5);
+            TimeSpan t = agora.Subtract(depois);//subtrai os periodo para saber o tempo entre eles
+            imprimir();
+        }
+        static void imprimir()
+        {
+            
+            Stopwatch tempo = new Stopwatch();
+            tempo.Start();
+           
+            DateTime t2 = new();
+            do
+            {
+                DateTime t = DateTime.Parse(tempo.ToString());
+                if (t.Second != t2.Second)
+                {
+                    Console.WriteLine(t.Second);
+                }
+                t2 = t;
+            } while (tempo.Elapsed.TotalSeconds <= 10);
+                tempo.Stop();
         }
     }
 }

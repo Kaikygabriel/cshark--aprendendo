@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\bin\Debug\net9.0\DesafioDePrecisao.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\bin\Debug\net9.0\DesafioDePrecisao.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\bin\Debug\net9.0\DesafioDePrecisao.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\bin\Debug\net9.0\DesafioDePrecisao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\bin\Debug\net9.0\DesafioDePrecisao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\refint\DesafioDePrecisao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\DesafioDePrecisao.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\DesafioDePrecisao\DesafioDePrecisao\obj\Debug\net9.0\ref\DesafioDePrecisao.dll

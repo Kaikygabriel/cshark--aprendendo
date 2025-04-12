@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "katedate": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

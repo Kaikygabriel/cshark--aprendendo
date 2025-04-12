@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\bin\Debug\net9.0\SMS.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\bin\Debug\net9.0\SMS.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\bin\Debug\net9.0\SMS.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\bin\Debug\net9.0\SMS.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\bin\Debug\net9.0\SMS.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\refint\SMS.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\SMS.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SMS\SMS\obj\Debug\net9.0\ref\SMS.dll

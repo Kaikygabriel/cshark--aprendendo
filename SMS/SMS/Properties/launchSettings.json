@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SMS": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

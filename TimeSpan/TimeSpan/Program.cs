@@ -7,23 +7,13 @@ namespace Time
     internal class Program
     {
         static void Main(string[] args)
-        {   
-            DateTime t = DateTime.Now;
-            //hora minuto segundo
-            TimeSpan d1 = new TimeSpan(0, 1, 30);
-            TimeSpan d2 = new TimeSpan();
-            TimeSpan d3 = new TimeSpan(900000000L) ; //passando  a hora em ticks
-            Console.WriteLine(d1);
-            Console.WriteLine(d3);
-
-            //////////
-            
-            TimeSpan a = TimeSpan.FromDays(1.5);//timespan de um dia e meio
-            Console.WriteLine(a);
-            TimeSpan a1 = TimeSpan.FromHours(1.5);//duração de uma hora e meia, tambem e possivel fazre com segundos ou ticks
-            DateTime t2 = DateTime.Now;
-            TimeSpan exibir = t - t2;
-            Console.WriteLine(exibir);
+        {
+            TimeSpan a = TimeSpan.MaxValue;//pega a duração maxima possivel de se amarzenar no TimeSpan
+            TimeSpan a2 = TimeSpan.MinValue;//pega a duração minima possivel do TimeSpan
+            TimeSpan a3 = TimeSpan.Zero;//duração zero 
+            TimeSpan b = new TimeSpan(2,03,10);
+            Console.WriteLine(b.Hours);//b.Minutes , Seconds,Hours,Days => TotalHours ,TotalDays etc tem o numero quebrado (,)
+            TimeSpan t = a.Add(a2);//soma o a eo a2
         }
     }
 }
