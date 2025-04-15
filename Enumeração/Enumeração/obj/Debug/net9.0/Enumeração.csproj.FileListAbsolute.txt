@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\bin\Debug\net9.0\Enumeração.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\bin\Debug\net9.0\Enumeração.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\bin\Debug\net9.0\Enumeração.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\bin\Debug\net9.0\Enumeração.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\bin\Debug\net9.0\Enumeração.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\refint\Enumeração.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\Enumeração.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Enumeração\Enumeração\obj\Debug\net9.0\ref\Enumeração.dll

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SequenciaDeCollatz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD22FE78-4A7B-4A50-B518-59A8753F7720}|SequenciaDeCollatz\\SequenciaDeCollatz.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sequenciadecollatz\\sequenciadecollatz\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD22FE78-4A7B-4A50-B518-59A8753F7720}|SequenciaDeCollatz\\SequenciaDeCollatz.csproj|solutionrelative:sequenciadecollatz\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD22FE78-4A7B-4A50-B518-59A8753F7720}|SequenciaDeCollatz\\SequenciaDeCollatz.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sequenciadecollatz\\sequenciadecollatz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD22FE78-4A7B-4A50-B518-59A8753F7720}|SequenciaDeCollatz\\SequenciaDeCollatz.csproj|solutionrelative:sequenciadecollatz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SequenciaDeCollatz\\SequenciaDeCollatz\\Program.cs",
+              "RelativeDocumentMoniker": "SequenciaDeCollatz\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SequenciaDeCollatz\\SequenciaDeCollatz\\Program.cs",
+              "RelativeToolTip": "SequenciaDeCollatz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:49:18.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SequenciaDeCollatz\\SequenciaDeCollatz\\Calcular.cs",
+              "RelativeDocumentMoniker": "SequenciaDeCollatz\\Calcular.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SequenciaDeCollatz\\SequenciaDeCollatz\\Calcular.cs",
+              "RelativeToolTip": "SequenciaDeCollatz\\Calcular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:49:51.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

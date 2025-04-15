@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CofrinhoMoeada": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

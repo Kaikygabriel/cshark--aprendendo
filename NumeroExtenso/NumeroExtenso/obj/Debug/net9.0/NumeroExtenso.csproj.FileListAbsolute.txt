@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\bin\Debug\net9.0\NumeroExtenso.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\bin\Debug\net9.0\NumeroExtenso.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\bin\Debug\net9.0\NumeroExtenso.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\bin\Debug\net9.0\NumeroExtenso.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\bin\Debug\net9.0\NumeroExtenso.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\refint\NumeroExtenso.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\NumeroExtenso.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\NumeroExtenso\NumeroExtenso\obj\Debug\net9.0\ref\NumeroExtenso.dll

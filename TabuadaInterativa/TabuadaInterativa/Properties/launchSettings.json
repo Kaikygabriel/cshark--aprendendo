@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TabuadaInterativa": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

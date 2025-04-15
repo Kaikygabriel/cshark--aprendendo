@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SequenciaDeCollatz": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

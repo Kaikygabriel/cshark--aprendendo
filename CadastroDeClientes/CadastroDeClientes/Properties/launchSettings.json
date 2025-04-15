@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CadastroDeClientes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

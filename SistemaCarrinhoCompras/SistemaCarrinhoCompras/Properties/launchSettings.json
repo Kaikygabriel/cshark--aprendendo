@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaCarrinhoCompras": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

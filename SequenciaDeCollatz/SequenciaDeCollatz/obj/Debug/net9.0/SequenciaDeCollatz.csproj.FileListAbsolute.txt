@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\bin\Debug\net9.0\SequenciaDeCollatz.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\bin\Debug\net9.0\SequenciaDeCollatz.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\bin\Debug\net9.0\SequenciaDeCollatz.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\bin\Debug\net9.0\SequenciaDeCollatz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\bin\Debug\net9.0\SequenciaDeCollatz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\refint\SequenciaDeCollatz.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\SequenciaDeCollatz.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SequenciaDeCollatz\SequenciaDeCollatz\obj\Debug\net9.0\ref\SequenciaDeCollatz.dll
