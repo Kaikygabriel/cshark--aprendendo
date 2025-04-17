@@ -8,5 +8,18 @@ namespace SistemaCarrinhoCompras.Entidade
 {
     internal class Item
     {
+        public string Nome;
+        public float Preco;
+
+        public Item(string nome, float preco)
+        {
+            Nome = nome;
+            Preco = preco;
+        }
+        
+        public override string ToString()
+        {
+            return $"O item {Nome} tem o valor {Preco}";
+        }
     }
 }

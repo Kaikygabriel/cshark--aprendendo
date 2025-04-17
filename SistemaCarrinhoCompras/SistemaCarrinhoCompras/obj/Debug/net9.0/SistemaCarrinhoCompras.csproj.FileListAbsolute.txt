@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\bin\Debug\net9.0\SistemaCarrinhoCompras.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\bin\Debug\net9.0\SistemaCarrinhoCompras.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\bin\Debug\net9.0\SistemaCarrinhoCompras.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\bin\Debug\net9.0\SistemaCarrinhoCompras.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\bin\Debug\net9.0\SistemaCarrinhoCompras.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\refint\SistemaCarrinhoCompras.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\SistemaCarrinhoCompras.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaCarrinhoCompras\SistemaCarrinhoCompras\obj\Debug\net9.0\ref\SistemaCarrinhoCompras.dll

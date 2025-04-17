@@ -1,12 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemacarrinhocompras\\sistemacarrinhocompras\\entidade\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|solutionrelative:sistemacarrinhocompras\\entidade\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemacarrinhocompras\\sistemacarrinhocompras\\entidade\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|solutionrelative:sistemacarrinhocompras\\entidade\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemacarrinhocompras\\sistemacarrinhocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BF6C5-B60F-4E87-8DEC-2C845E2EC902}|SistemaCarrinhoCompras\\SistemaCarrinhoCompras.csproj|solutionrelative:sistemacarrinhocompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaCarrinhoCompras\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Program.cs",
+              "RelativeToolTip": "SistemaCarrinhoCompras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:19:55.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Entidade\\Carrinho.cs",
+              "RelativeDocumentMoniker": "SistemaCarrinhoCompras\\Entidade\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Entidade\\Carrinho.cs*",
+              "RelativeToolTip": "SistemaCarrinhoCompras\\Entidade\\Carrinho.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:54:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Entidade\\Item.cs",
+              "RelativeDocumentMoniker": "SistemaCarrinhoCompras\\Entidade\\Item.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaCarrinhoCompras\\SistemaCarrinhoCompras\\Entidade\\Item.cs",
+              "RelativeToolTip": "SistemaCarrinhoCompras\\Entidade\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:53:32.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

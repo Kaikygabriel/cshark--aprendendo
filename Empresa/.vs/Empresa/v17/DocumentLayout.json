@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Empresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AF1A6-31CE-49F9-A19C-4DAAB5AA87A7}|Empresa\\Empresa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\empresa\\empresa\\views\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AF1A6-31CE-49F9-A19C-4DAAB5AA87A7}|Empresa\\Empresa.csproj|solutionrelative:empresa\\views\\iniciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AF1A6-31CE-49F9-A19C-4DAAB5AA87A7}|Empresa\\Empresa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\empresa\\empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AF1A6-31CE-49F9-A19C-4DAAB5AA87A7}|Empresa\\Empresa.csproj|solutionrelative:empresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Empresa\\Empresa\\Program.cs",
+              "RelativeDocumentMoniker": "Empresa\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Empresa\\Empresa\\Program.cs",
+              "RelativeToolTip": "Empresa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:17:50.368Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iniciar.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Empresa\\Empresa\\Views\\Iniciar.cs",
+              "RelativeDocumentMoniker": "Empresa\\Views\\Iniciar.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Empresa\\Empresa\\Views\\Iniciar.cs",
+              "RelativeToolTip": "Empresa\\Views\\Iniciar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:53:18.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\bin\Debug\net9.0\Empresa.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\bin\Debug\net9.0\Empresa.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\bin\Debug\net9.0\Empresa.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\bin\Debug\net9.0\Empresa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\bin\Debug\net9.0\Empresa.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\refint\Empresa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\Empresa.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Empresa\Empresa\obj\Debug\net9.0\ref\Empresa.dll
