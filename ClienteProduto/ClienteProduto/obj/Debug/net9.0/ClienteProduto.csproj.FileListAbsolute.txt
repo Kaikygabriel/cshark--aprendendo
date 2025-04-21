@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\bin\Debug\net9.0\ClienteProduto.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\bin\Debug\net9.0\ClienteProduto.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\bin\Debug\net9.0\ClienteProduto.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\bin\Debug\net9.0\ClienteProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\bin\Debug\net9.0\ClienteProduto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\refint\ClienteProduto.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ClienteProduto.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ClienteProduto\ClienteProduto\obj\Debug\net9.0\ref\ClienteProduto.dll

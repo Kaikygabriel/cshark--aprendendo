@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\bin\Debug\net9.0\Contrato.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\bin\Debug\net9.0\Contrato.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\bin\Debug\net9.0\Contrato.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\bin\Debug\net9.0\Contrato.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\bin\Debug\net9.0\Contrato.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\refint\Contrato.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\Contrato.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Contrato\Contrato\obj\Debug\net9.0\ref\Contrato.dll

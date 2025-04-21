@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\filme\\filme\\controler\\fun\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|solutionrelative:filme\\controler\\fun\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\filme\\filme\\entidade\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|solutionrelative:filme\\entidade\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\filme\\filme\\entidade\\enum\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|solutionrelative:filme\\entidade\\enum\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\filme\\filme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4034FCED-A837-4BE6-9B46-CDD634BDF36C}|Filme\\Filme.csproj|solutionrelative:filme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fun\u00E7\u00F5es.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Controler\\Fun\u00E7\u00F5es.cs",
+              "RelativeDocumentMoniker": "Filme\\Controler\\Fun\u00E7\u00F5es.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Controler\\Fun\u00E7\u00F5es.cs",
+              "RelativeToolTip": "Filme\\Controler\\Fun\u00E7\u00F5es.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:15:46.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Entidade\\Enum\\Categoria.cs",
+              "RelativeDocumentMoniker": "Filme\\Entidade\\Enum\\Categoria.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Entidade\\Enum\\Categoria.cs",
+              "RelativeToolTip": "Filme\\Entidade\\Enum\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:11:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Entidade\\Filme.cs",
+              "RelativeDocumentMoniker": "Filme\\Entidade\\Filme.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Entidade\\Filme.cs",
+              "RelativeToolTip": "Filme\\Entidade\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:11:40.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Program.cs",
+              "RelativeDocumentMoniker": "Filme\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Filme\\Filme\\Program.cs",
+              "RelativeToolTip": "Filme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:11:05.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

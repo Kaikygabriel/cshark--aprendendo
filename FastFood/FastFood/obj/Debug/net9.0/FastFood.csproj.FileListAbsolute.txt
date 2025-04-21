@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\bin\Debug\net9.0\FastFood.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\bin\Debug\net9.0\FastFood.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\bin\Debug\net9.0\FastFood.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\bin\Debug\net9.0\FastFood.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\bin\Debug\net9.0\FastFood.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\refint\FastFood.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\FastFood.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\FastFood\FastFood\obj\Debug\net9.0\ref\FastFood.dll

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\contrato\\contrato\\entidade\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|solutionrelative:contrato\\entidade\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\contrato\\contrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|solutionrelative:contrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\contrato\\contrato\\view\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|solutionrelative:contrato\\view\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\contrato\\contrato\\entidade\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|solutionrelative:contrato\\entidade\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\contrato\\contrato\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956500D1-F014-4E98-95DD-623CD99FEDBA}|Contrato\\Contrato.csproj|solutionrelative:contrato\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Program.cs",
+              "RelativeDocumentMoniker": "Contrato\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Program.cs",
+              "RelativeToolTip": "Contrato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:34:28.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\View\\Tela.cs",
+              "RelativeDocumentMoniker": "Contrato\\View\\Tela.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\View\\Tela.cs",
+              "RelativeToolTip": "Contrato\\View\\Tela.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:12:36.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Entidade\\Departamento.cs",
+              "RelativeDocumentMoniker": "Contrato\\Entidade\\Departamento.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Entidade\\Departamento.cs",
+              "RelativeToolTip": "Contrato\\Entidade\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:19:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Entidade\\Cliente.cs",
+              "RelativeDocumentMoniker": "Contrato\\Entidade\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Entidade\\Cliente.cs",
+              "RelativeToolTip": "Contrato\\Entidade\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:12:46.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcao.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Controler\\Funcao.cs",
+              "RelativeDocumentMoniker": "Contrato\\Controler\\Funcao.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Contrato\\Contrato\\Controler\\Funcao.cs",
+              "RelativeToolTip": "Contrato\\Controler\\Funcao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:15:22.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

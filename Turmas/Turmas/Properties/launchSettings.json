@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Turmas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\bin\Debug\net9.0\Filme.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\bin\Debug\net9.0\Filme.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\bin\Debug\net9.0\Filme.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\bin\Debug\net9.0\Filme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\bin\Debug\net9.0\Filme.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\refint\Filme.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\Filme.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Filme\Filme\obj\Debug\net9.0\ref\Filme.dll

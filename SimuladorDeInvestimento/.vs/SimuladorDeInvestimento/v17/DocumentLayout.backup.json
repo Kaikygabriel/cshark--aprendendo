@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\simuladordeinvestimento\\simuladordeinvestimento\\entidade\\rendafixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|solutionrelative:simuladordeinvestimento\\entidade\\rendafixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\simuladordeinvestimento\\simuladordeinvestimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|solutionrelative:simuladordeinvestimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\simuladordeinvestimento\\simuladordeinvestimento\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|solutionrelative:simuladordeinvestimento\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\simuladordeinvestimento\\simuladordeinvestimento\\viewrs\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|solutionrelative:simuladordeinvestimento\\viewrs\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\simuladordeinvestimento\\simuladordeinvestimento\\entidade\\selic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAE1569-D936-469D-AE7A-05EED570C62D}|SimuladorDeInvestimento\\SimuladorDeInvestimento.csproj|solutionrelative:simuladordeinvestimento\\entidade\\selic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Viewrs\\Tela.cs",
+              "RelativeDocumentMoniker": "SimuladorDeInvestimento\\Viewrs\\Tela.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Viewrs\\Tela.cs",
+              "RelativeToolTip": "SimuladorDeInvestimento\\Viewrs\\Tela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:41:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcao.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Controler\\Funcao.cs",
+              "RelativeDocumentMoniker": "SimuladorDeInvestimento\\Controler\\Funcao.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Controler\\Funcao.cs",
+              "RelativeToolTip": "SimuladorDeInvestimento\\Controler\\Funcao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:34:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selic.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Entidade\\Selic.cs",
+              "RelativeDocumentMoniker": "SimuladorDeInvestimento\\Entidade\\Selic.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Entidade\\Selic.cs",
+              "RelativeToolTip": "SimuladorDeInvestimento\\Entidade\\Selic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:06:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RendaFixa.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Entidade\\RendaFixa.cs",
+              "RelativeDocumentMoniker": "SimuladorDeInvestimento\\Entidade\\RendaFixa.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Entidade\\RendaFixa.cs*",
+              "RelativeToolTip": "SimuladorDeInvestimento\\Entidade\\RendaFixa.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:56:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Program.cs",
+              "RelativeDocumentMoniker": "SimuladorDeInvestimento\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SimuladorDeInvestimento\\SimuladorDeInvestimento\\Program.cs",
+              "RelativeToolTip": "SimuladorDeInvestimento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:43:09.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

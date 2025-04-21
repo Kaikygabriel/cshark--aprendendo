@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Contrato": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

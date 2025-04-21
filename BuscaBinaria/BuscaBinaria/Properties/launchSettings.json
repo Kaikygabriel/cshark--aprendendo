@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BuscaBinaria": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

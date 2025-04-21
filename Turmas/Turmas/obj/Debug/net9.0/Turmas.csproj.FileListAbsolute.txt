@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\bin\Debug\net9.0\Turmas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\bin\Debug\net9.0\Turmas.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\bin\Debug\net9.0\Turmas.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\bin\Debug\net9.0\Turmas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\bin\Debug\net9.0\Turmas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\refint\Turmas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\Turmas.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Turmas\Turmas\obj\Debug\net9.0\ref\Turmas.dll
