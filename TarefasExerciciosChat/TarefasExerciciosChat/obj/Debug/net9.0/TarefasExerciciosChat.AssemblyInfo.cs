@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BuscaBinaria")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TarefasExerciciosChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d67db237a5ae09845dcbe738b57b7e088c6552f")]
-[assembly: System.Reflection.AssemblyProductAttribute("BuscaBinaria")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BuscaBinaria")]
+[assembly: System.Reflection.AssemblyProductAttribute("TarefasExerciciosChat")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TarefasExerciciosChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

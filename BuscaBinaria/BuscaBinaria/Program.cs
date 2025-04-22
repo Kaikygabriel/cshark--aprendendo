@@ -5,7 +5,7 @@ namespace BuscaBinaria
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             BuscaBinaria(3);
         }
@@ -17,9 +17,9 @@ namespace BuscaBinaria
             {
                 Console.WriteLine($"Achou o numero {num}");
             }
-            else if(Numeros[metade] > num)
+            else if (Numeros[metade] > num) 
             {
-                for (int i = 0; i < metade; i++)
+                for (int i = 0; i < metade; i++) 
                 {
                     if(Numeros[i] == num)
                     {

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CriandoUmTriangulo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TarefasExerciciosChat": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
