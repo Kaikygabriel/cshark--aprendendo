@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\entidades\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\entidades\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\view\\telas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\view\\telas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\fastfood\\fastfood\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A68468A-16BB-4C58-B6F3-8FDB7DEBC998}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\controler\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "FastFood\\Entidades\\Cliente.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Entidades\\Cliente.cs",
               "RelativeToolTip": "FastFood\\Entidades\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T19:40:56.141Z",
               "IsPinned": true,
@@ -54,27 +54,27 @@
               "RelativeDocumentMoniker": "FastFood\\View\\Telas.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\View\\Telas.cs",
               "RelativeToolTip": "FastFood\\View\\Telas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T19:55:16.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Carrinho.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Entidades\\Carrinho.cs",
               "RelativeDocumentMoniker": "FastFood\\Entidades\\Carrinho.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Entidades\\Carrinho.cs",
               "RelativeToolTip": "FastFood\\Entidades\\Carrinho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T19:51:09.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Funcao.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Controler\\Funcao.cs",
               "RelativeDocumentMoniker": "FastFood\\Controler\\Funcao.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\FastFood\\FastFood\\Program.cs",
               "RelativeDocumentMoniker": "FastFood\\Program.cs",
@@ -95,7 +95,8 @@
               "RelativeToolTip": "FastFood\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T19:09:58.586Z"
+              "WhenOpened": "2025-04-17T19:09:58.586Z",
+              "EditorCaption": ""
             }
           ]
         }
