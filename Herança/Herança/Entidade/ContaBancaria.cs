@@ -19,9 +19,9 @@ namespace Herança.Entidade
         public int Id { get; protected set; }
         public string Titular { get;protected set; }
         public double Saldo { get; protected set; }
-        public void Sacar(double valor)
+        public virtual void Sacar(double valor)
         {
-            Saldo = Saldo - valor;
+            Saldo = (Saldo - valor) - 5;
         }
         public void Deposito(double valor)
         {

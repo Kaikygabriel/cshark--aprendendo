@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net9.0\ExercicioFuncionarios.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net9.0\ExercicioFuncionarios.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net9.0\ExercicioFuncionarios.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net9.0\ExercicioFuncionarios.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net9.0\ExercicioFuncionarios.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\refint\ExercicioFuncionarios.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ExercicioFuncionarios.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net9.0\ref\ExercicioFuncionarios.dll

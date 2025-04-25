@@ -17,7 +17,11 @@ namespace Herança.Entidade
         public double Taxa { get; set; }
         public void CalcularPoPança()
         {
-            Saldo *= Taxa; 
+            Saldo *= Taxa;   
+        }
+        public sealed override void Sacar(double valor)
+        {
+            Saldo =  Saldo - valor;
         }
     }
 }

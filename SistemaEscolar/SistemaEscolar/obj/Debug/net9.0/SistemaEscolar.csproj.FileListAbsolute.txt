@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\bin\Debug\net9.0\SistemaEscolar.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\bin\Debug\net9.0\SistemaEscolar.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\bin\Debug\net9.0\SistemaEscolar.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\bin\Debug\net9.0\SistemaEscolar.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\bin\Debug\net9.0\SistemaEscolar.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\refint\SistemaEscolar.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\SistemaEscolar.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaEscolar\SistemaEscolar\obj\Debug\net9.0\ref\SistemaEscolar.dll

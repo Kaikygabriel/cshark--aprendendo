@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Herança.Entidade
 {
-    internal class ContaEmpresarial : ContaBancaria
+    sealed class ContaEmpresarial : ContaBancaria
     {
         public double EmprestimoLimite;
 
