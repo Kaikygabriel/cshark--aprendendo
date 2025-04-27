@@ -17,9 +17,9 @@ namespace ExercicioFuncionarios.Controler
             Console.Write("Horas :");
             double horas = double.Parse(Console.ReadLine().Trim());
             Console.Write("Salario :");
-            double salario = double.Parse(Console.ReadLine().Trim());
+            double salario = double.Parse(Console.ReadLine().Trim()); 
             funcionarios.Add(new Funcionario(salario,nome,horas));
-        }
+        } 
         public static void AdicionarFuncionarioTerceiro()
         {
             Console.Write("Nome :");

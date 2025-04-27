@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Herança.Entidade
 {
-    internal class ContaBancaria
+    abstract class ContaBancaria
     {
         public ContaBancaria() { }
         public ContaBancaria(int id, string titular, double saldo)

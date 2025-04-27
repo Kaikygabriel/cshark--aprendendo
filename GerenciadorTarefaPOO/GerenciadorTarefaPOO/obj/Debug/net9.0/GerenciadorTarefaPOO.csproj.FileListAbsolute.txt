@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\bin\Debug\net9.0\GerenciadorTarefaPOO.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\bin\Debug\net9.0\GerenciadorTarefaPOO.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\bin\Debug\net9.0\GerenciadorTarefaPOO.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\bin\Debug\net9.0\GerenciadorTarefaPOO.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\bin\Debug\net9.0\GerenciadorTarefaPOO.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\refint\GerenciadorTarefaPOO.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\GerenciadorTarefaPOO.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefaPOO\GerenciadorTarefaPOO\obj\Debug\net9.0\ref\GerenciadorTarefaPOO.dll

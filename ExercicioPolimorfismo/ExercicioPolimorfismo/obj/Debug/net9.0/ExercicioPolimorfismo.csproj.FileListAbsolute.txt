@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net9.0\ExercicioPolimorfismo.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net9.0\ExercicioPolimorfismo.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net9.0\ExercicioPolimorfismo.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net9.0\ExercicioPolimorfismo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net9.0\ExercicioPolimorfismo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\refint\ExercicioPolimorfismo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ExercicioPolimorfismo.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net9.0\ref\ExercicioPolimorfismo.dll

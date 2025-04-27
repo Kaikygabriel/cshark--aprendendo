@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GerenciadorTarefaPOO": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
