@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExercicioPolimorfismo.Entity
 {
-    sealed class ProdutoImportado : Produto
+    internal sealed class ProdutoImportado : Produto
     {
         public ProdutoImportado() { }
 
