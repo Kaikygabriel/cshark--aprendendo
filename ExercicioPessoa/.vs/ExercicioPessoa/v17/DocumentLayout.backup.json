@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciopessoa\\exerciciopessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|solutionrelative:exerciciopessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciopessoa\\exerciciopessoa\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|solutionrelative:exerciciopessoa\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciopessoa\\exerciciopessoa\\entity\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|solutionrelative:exerciciopessoa\\entity\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciopessoa\\exerciciopessoa\\entity\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|solutionrelative:exerciciopessoa\\entity\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciopessoa\\exerciciopessoa\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED38621-FB7A-411E-B471-03E9C03CACFD}|ExercicioPessoa\\ExercicioPessoa.csproj|solutionrelative:exerciciopessoa\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Controler\\Function.cs",
+              "RelativeDocumentMoniker": "ExercicioPessoa\\Controler\\Function.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Controler\\Function.cs*",
+              "RelativeToolTip": "ExercicioPessoa\\Controler\\Function.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:19:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "ExercicioPessoa\\Entity\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\PessoaJuridica.cs*",
+              "RelativeToolTip": "ExercicioPessoa\\Entity\\PessoaJuridica.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:14:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "ExercicioPessoa\\Entity\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\PessoaFisica.cs*",
+              "RelativeToolTip": "ExercicioPessoa\\Entity\\PessoaFisica.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:09:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ExercicioPessoa\\Entity\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Entity\\Pessoa.cs*",
+              "RelativeToolTip": "ExercicioPessoa\\Entity\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:05:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPessoa\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioPessoa\\ExercicioPessoa\\Program.cs*",
+              "RelativeToolTip": "ExercicioPessoa\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:03:53.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

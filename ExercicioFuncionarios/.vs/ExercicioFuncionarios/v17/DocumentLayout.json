@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciofuncionarios\\exerciciofuncionarios\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|solutionrelative:exerciciofuncionarios\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciofuncionarios\\exerciciofuncionarios\\entity\\funcionariotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|solutionrelative:exerciciofuncionarios\\entity\\funcionariotercerizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciofuncionarios\\exerciciofuncionarios\\entity\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|solutionrelative:exerciciofuncionarios\\entity\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciofuncionarios\\exerciciofuncionarios\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|solutionrelative:exerciciofuncionarios\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C8580FA-2371-4946-8176-612921690FC1}|ExercicioFuncionarios\\ExercicioFuncionarios.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciofuncionarios\\exerciciofuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T11:58:35.633Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -56,44 +55,43 @@
               "RelativeToolTip": "ExercicioFuncionarios\\Views\\Telas.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:16:33.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T12:16:33.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Function.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Controler\\Function.cs",
               "RelativeDocumentMoniker": "ExercicioFuncionarios\\Controler\\Function.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Controler\\Function.cs",
               "RelativeToolTip": "ExercicioFuncionarios\\Controler\\Function.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:08:03.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FuncionarioTercerizado.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Entity\\FuncionarioTercerizado.cs",
               "RelativeDocumentMoniker": "ExercicioFuncionarios\\Entity\\FuncionarioTercerizado.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Entity\\FuncionarioTercerizado.cs",
               "RelativeToolTip": "ExercicioFuncionarios\\Entity\\FuncionarioTercerizado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:03:29.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Entity\\Funcionario.cs",
               "RelativeDocumentMoniker": "ExercicioFuncionarios\\Entity\\Funcionario.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioFuncionarios\\ExercicioFuncionarios\\Entity\\Funcionario.cs",
               "RelativeToolTip": "ExercicioFuncionarios\\Entity\\Funcionario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T11:59:05.061Z",
               "EditorCaption": ""

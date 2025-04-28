@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\controler\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\entity\\enumprojeto\\colorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\entity\\enumprojeto\\colorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\entity\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\entity\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\entity\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\entity\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\entity\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\entity\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\area\\area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951A2A98-B211-4946-9F46-815B9E852FF0}|Area\\Area.csproj|solutionrelative:area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Controler\\Function.cs",
+              "RelativeDocumentMoniker": "Area\\Controler\\Function.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Controler\\Function.cs",
+              "RelativeToolTip": "Area\\Controler\\Function.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:55:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Circulo.cs",
+              "RelativeDocumentMoniker": "Area\\Entity\\Circulo.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Circulo.cs",
+              "RelativeToolTip": "Area\\Entity\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:49:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Area\\Entity\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Retangulo.cs",
+              "RelativeToolTip": "Area\\Entity\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:46:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorM.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\EnumProjeto\\ColorM.cs",
+              "RelativeDocumentMoniker": "Area\\Entity\\EnumProjeto\\ColorM.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\EnumProjeto\\ColorM.cs",
+              "RelativeToolTip": "Area\\Entity\\EnumProjeto\\ColorM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:44:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Modelo.cs",
+              "RelativeDocumentMoniker": "Area\\Entity\\Modelo.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Entity\\Modelo.cs",
+              "RelativeToolTip": "Area\\Entity\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:44:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Program.cs",
+              "RelativeDocumentMoniker": "Area\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Area\\Area\\Program.cs",
+              "RelativeToolTip": "Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:43:27.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

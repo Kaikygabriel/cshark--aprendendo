@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\bin\Debug\net9.0\Area.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\bin\Debug\net9.0\Area.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\bin\Debug\net9.0\Area.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\bin\Debug\net9.0\Area.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\bin\Debug\net9.0\Area.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\refint\Area.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\Area.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Area\Area\obj\Debug\net9.0\ref\Area.dll

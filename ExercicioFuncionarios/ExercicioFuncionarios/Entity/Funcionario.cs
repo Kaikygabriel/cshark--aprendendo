@@ -19,9 +19,9 @@ namespace ExercicioFuncionarios.Entity
             Horas = horas;
         }
 
-        public double Preco { get;protected set; }
-        public string Nome { get;protected set; }
-        public double Horas { get; protected set;}
+        public double Preco { get;private protected set; }
+        public string Nome { get; private protected set; }
+        public double Horas { get; private protected set;}
         public virtual void PagarFuncionario()
         {
             double total = Preco * Horas;
