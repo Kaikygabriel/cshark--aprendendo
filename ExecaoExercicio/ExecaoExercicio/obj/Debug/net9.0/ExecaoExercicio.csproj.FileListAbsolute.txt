@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\bin\Debug\net9.0\ExecaoExercicio.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\bin\Debug\net9.0\ExecaoExercicio.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\bin\Debug\net9.0\ExecaoExercicio.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\bin\Debug\net9.0\ExecaoExercicio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\bin\Debug\net9.0\ExecaoExercicio.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\refint\ExecaoExercicio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ExecaoExercicio.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExecaoExercicio\ExecaoExercicio\obj\Debug\net9.0\ref\ExecaoExercicio.dll

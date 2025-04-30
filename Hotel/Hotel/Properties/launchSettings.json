@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hotel": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

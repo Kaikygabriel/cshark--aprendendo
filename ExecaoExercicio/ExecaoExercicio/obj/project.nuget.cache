@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8clfR9TcB4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExecaoExercicio\\ExecaoExercicio\\ExecaoExercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
