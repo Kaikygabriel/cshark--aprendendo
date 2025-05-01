@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\entity2\\quartosimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\entity2\\quartosimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\entity2\\quartoluxo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\entity2\\quartoluxo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\hotel\\hotel\\entity\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE04E2B-0647-4026-96A6-AE189DCD1D6A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\entity\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Hotel.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Hotel.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:46:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuartoLuxo.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Entity2\\QuartoLuxo.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Entity2\\QuartoLuxo.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Entity2\\QuartoLuxo.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Entity2\\QuartoLuxo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:39:01.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuartoSimples.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Entity2\\QuartoSimples.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Entity2\\QuartoSimples.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Entity2\\QuartoSimples.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Entity2\\QuartoSimples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:34:56.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Quarto.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Quarto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Quarto.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Quarto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:30:00.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Enums\\Status.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:29:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Cliente.cs",
+              "RelativeDocumentMoniker": "Hotel\\Entity\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Entity\\Cliente.cs",
+              "RelativeToolTip": "Hotel\\Entity\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:27:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:27:26.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

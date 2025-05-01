@@ -1,10 +1,10 @@
-﻿namespace Hotel
+﻿namespace Leilao
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-          
+            Console.WriteLine("Hello, World!");
         }
     }
 }

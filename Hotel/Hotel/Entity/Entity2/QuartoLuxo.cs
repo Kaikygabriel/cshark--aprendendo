@@ -12,7 +12,7 @@ namespace Hotel.Entity.Entity2
     internal sealed  class QuartoLuxo : Quarto
     {
         public QuartoLuxo() { }
-        public QuartoLuxo( double valor,int id) : base(, valor, id) { }
+        public QuartoLuxo( double valor,int id) : base( valor, id) { }
         public override double GetValor()
         {
             return Valor * 0.1;
