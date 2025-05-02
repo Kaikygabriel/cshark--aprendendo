@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\bin\Debug\net9.0\BuscaBinario.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\bin\Debug\net9.0\BuscaBinario.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\bin\Debug\net9.0\BuscaBinario.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\bin\Debug\net9.0\BuscaBinario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\bin\Debug\net9.0\BuscaBinario.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\refint\BuscaBinario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\BuscaBinario.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BuscaBinario\BuscaBinario\obj\Debug\net9.0\ref\BuscaBinario.dll

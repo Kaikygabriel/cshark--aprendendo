@@ -9,7 +9,7 @@ namespace Leilao.Entity
     internal sealed class Servico : Item
     {
         public Servico() { }    
-        public Servico(TimeSpan horas, int id, string nome, string descricao, double valor) :base(id,nome,descricao,valor) 
+        public Servico(TimeSpan horas,  string nome, string descricao, double valor) :base(nome,descricao,valor) 
         {
             Horas = horas;
         }

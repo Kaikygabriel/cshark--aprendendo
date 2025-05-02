@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\bin\Debug\net9.0\Reservation.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\bin\Debug\net9.0\Reservation.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\bin\Debug\net9.0\Reservation.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\bin\Debug\net9.0\Reservation.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\bin\Debug\net9.0\Reservation.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\refint\Reservation.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\Reservation.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Reservation\Reservation\obj\Debug\net9.0\ref\Reservation.dll

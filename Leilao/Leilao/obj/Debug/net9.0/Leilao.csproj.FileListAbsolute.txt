@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\bin\Debug\net9.0\Leilao.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\bin\Debug\net9.0\Leilao.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\bin\Debug\net9.0\Leilao.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\bin\Debug\net9.0\Leilao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\bin\Debug\net9.0\Leilao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\refint\Leilao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\Leilao.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Leilao\Leilao\obj\Debug\net9.0\ref\Leilao.dll

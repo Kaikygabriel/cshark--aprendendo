@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\ExercicioExceção.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\ExercicioExceção.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\ExercicioExceção.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\ExercicioExceção.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\ExercicioExceção.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\refint\ExercicioExceção.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ref\ExercicioExceção.dll

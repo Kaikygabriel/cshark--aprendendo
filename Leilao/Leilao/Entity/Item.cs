@@ -10,17 +10,15 @@ namespace Leilao.Entity
     {
         protected Item() { }
 
-                
-        protected Item(int id, string nome, string descricao, double valor)
+        protected Item( string nome, string descricao, double valor)
         {
-            Id = id;
+         
             Nome = nome;
             Descricao = descricao;
             Valor = valor;
         }
 
         protected double Valor{ get; private protected set; }
-        protected int Id { get; private protected set; }
         protected string Nome { get; private protected set; }
         protected string Descricao { get; private protected set; }
         public abstract double ValorTotal();
