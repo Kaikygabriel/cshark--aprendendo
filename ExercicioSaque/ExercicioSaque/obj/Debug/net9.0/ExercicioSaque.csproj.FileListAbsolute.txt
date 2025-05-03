@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\bin\Debug\net9.0\ExercicioSaque.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\bin\Debug\net9.0\ExercicioSaque.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\bin\Debug\net9.0\ExercicioSaque.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\bin\Debug\net9.0\ExercicioSaque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\bin\Debug\net9.0\ExercicioSaque.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\refint\ExercicioSaque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ExercicioSaque.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioSaque\ExercicioSaque\obj\Debug\net9.0\ref\ExercicioSaque.dll
