@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciosaque\\exerciciosaque\\entity\\exception\\dominioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|solutionrelative:exerciciosaque\\entity\\exception\\dominioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciosaque\\exerciciosaque\\entity\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|solutionrelative:exerciciosaque\\entity\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciosaque\\exerciciosaque\\entity\\exception\\dominioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|solutionrelative:exerciciosaque\\entity\\exception\\dominioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A79EB342-AFDF-4BB8-923B-7317C86AF422}|ExercicioSaque\\ExercicioSaque.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciosaque\\exerciciosaque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ExercicioSaque\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\ExercicioSaque\\Program.cs",
               "RelativeToolTip": "ExercicioSaque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T11:39:53.441Z",
               "IsPinned": true,
@@ -40,26 +40,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DominioException.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\ExercicioSaque\\Entity\\Exception\\DominioException.cs",
               "RelativeDocumentMoniker": "ExercicioSaque\\Entity\\Exception\\DominioException.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\ExercicioSaque\\Entity\\Exception\\DominioException.cs",
               "RelativeToolTip": "ExercicioSaque\\Entity\\Exception\\DominioException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T11:42:50.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\ExercicioSaque\\Entity\\Conta.cs",
               "RelativeDocumentMoniker": "ExercicioSaque\\Entity\\Conta.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioSaque\\ExercicioSaque\\Entity\\Conta.cs",
               "RelativeToolTip": "ExercicioSaque\\Entity\\Conta.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T11:40:28.583Z",
               "EditorCaption": ""

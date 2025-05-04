@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioSaque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e05d43ba635a0e5e8baf12682e46b5aef323113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b12f17ed3bf8b27a41f84670b955842e580cf67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioSaque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioSaque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

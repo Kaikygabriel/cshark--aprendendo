@@ -13,3 +13,6 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\ne
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.pdb
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.genruntimeconfig.cache
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ref\ExercicioExceção.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\ExercicioExceção.csproj.AssemblyReference.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExceção\obj\Debug\net9.0\Exercici.845339E4.Up2Date

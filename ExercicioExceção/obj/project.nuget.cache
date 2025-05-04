@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eVw7oremiCo=",
+  "dgSpecHash": "QXhpb98AzJA=",
   "success": true,
   "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioExceção\\ExercicioExceção.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
