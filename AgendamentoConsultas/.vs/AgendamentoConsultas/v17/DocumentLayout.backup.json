@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultas\\agendamentoconsultas\\entity\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|solutionrelative:agendamentoconsultas\\entity\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultas\\agendamentoconsultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|solutionrelative:agendamentoconsultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultas\\agendamentoconsultas\\entity\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|solutionrelative:agendamentoconsultas\\entity\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultas\\agendamentoconsultas\\entity\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7AED9-4200-4056-B1C3-4CF8F23CD624}|AgendamentoConsultas\\AgendamentoConsultas.csproj|solutionrelative:agendamentoconsultas\\entity\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Agenda.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultas\\Entity\\Agenda.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Agenda.cs",
+              "RelativeToolTip": "AgendamentoConsultas\\Entity\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:54:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Medico.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultas\\Entity\\Medico.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Medico.cs",
+              "RelativeToolTip": "AgendamentoConsultas\\Entity\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:45:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Paciente.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultas\\Entity\\Paciente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Entity\\Paciente.cs",
+              "RelativeToolTip": "AgendamentoConsultas\\Entity\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:41:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Program.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultas\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultas\\AgendamentoConsultas\\Program.cs",
+              "RelativeToolTip": "AgendamentoConsultas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:40:27.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

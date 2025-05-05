@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgendamentoConsultas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

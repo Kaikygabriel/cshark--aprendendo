@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Supemercado": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
