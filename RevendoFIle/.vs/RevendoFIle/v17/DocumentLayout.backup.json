@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\RevendoFIle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78807DE9-57D1-4A66-9768-42309BB9B7C7}|RevendoFIle\\RevendoFIle.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\revendofile\\revendofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78807DE9-57D1-4A66-9768-42309BB9B7C7}|RevendoFIle\\RevendoFIle.csproj|solutionrelative:revendofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\RevendoFIle\\RevendoFIle\\Program.cs",
+              "RelativeDocumentMoniker": "RevendoFIle\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\RevendoFIle\\RevendoFIle\\Program.cs*",
+              "RelativeToolTip": "RevendoFIle\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:41:32.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

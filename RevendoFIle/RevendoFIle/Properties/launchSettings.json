@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RevendoFIle": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

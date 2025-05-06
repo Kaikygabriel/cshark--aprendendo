@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\bin\Debug\net9.0\RevendoFIle.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\bin\Debug\net9.0\RevendoFIle.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\bin\Debug\net9.0\RevendoFIle.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\bin\Debug\net9.0\RevendoFIle.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\bin\Debug\net9.0\RevendoFIle.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\refint\RevendoFIle.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\RevendoFIle.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\RevendoFIle\RevendoFIle\obj\Debug\net9.0\ref\RevendoFIle.dll
