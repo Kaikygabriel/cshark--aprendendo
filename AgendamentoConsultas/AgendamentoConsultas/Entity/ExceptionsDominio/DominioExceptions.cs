@@ -1,4 +1,4 @@
-namespace AgendamentoConsultas.Entity.DominioException
+namespace AgendamentoConsultas.Entity.DominioExceptions
 {
     public class DominioException : ApplicationException
     {
