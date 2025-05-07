@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\bin\Debug\net9.0\Piramede.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\bin\Debug\net9.0\Piramede.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\bin\Debug\net9.0\Piramede.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\bin\Debug\net9.0\Piramede.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\bin\Debug\net9.0\Piramede.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\refint\Piramede.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\Piramede.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Piramede\obj\Debug\net9.0\ref\Piramede.dll

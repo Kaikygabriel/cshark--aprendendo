@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace RevendoFIle
 {
@@ -8,21 +9,21 @@ namespace RevendoFIle
         {
             try
             {
-                string Caminho = @"C:\Users\kaiky\Downloads\kaka\teste.txt";
-                string Caminho2 = @"C:\Users\kaiky\Downloads\kaka\teste2.txt";
-                FileInfo fb = new FileInfo(Caminho);
-                Console.WriteLine(fb.Length);
-                string[] linhas = File.ReadAllLines(fb.ToString());
-                foreach(string l in linhas)
+                using (StreamReader rd = File.OpenText(@"C:\Users\kaiky\Downloads\kaka\teste.txt"))
                 {
-                    Console.WriteLine(l);
-                    Console.WriteLine(1);
+                    while (!rd.EndOfStream)
+                    {
+                        Console.WriteLine(rd.ReadLine());
+                    }
                 }
             }
             catch (IOException ex)
             {
-                Console.WriteLine("ERROR : " + ex.Message);
+                Console.WriteLine(ex.Message);
             }
+
         }
     }
 }
+
+
