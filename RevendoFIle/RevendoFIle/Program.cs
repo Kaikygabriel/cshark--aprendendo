@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Runtime.CompilerServices;
 
 namespace RevendoFIle
 {
@@ -7,13 +8,17 @@ namespace RevendoFIle
     {
         static void Main(string[] args)
         {
+            string path = @"C:\Users\kaiky\Downloads\kaka\teste.txt";
+            string path2 = @"C:\Users\kaiky\Downloads\kaka\teste2.txt";
             try
             {
-                using (StreamReader rd = File.OpenText(@"C:\Users\kaiky\Downloads\kaka\teste.txt"))
+                using (StreamWriter sw = File.AppendText(path2))
                 {
-                    while (!rd.EndOfStream)
+                    string[]linhas = File.ReadAllLines(path);
+
+                    foreach(string line in linhas)
                     {
-                        Console.WriteLine(rd.ReadLine());
+                        sw.WriteLine(line.ToUpper());
                     }
                 }
             }
