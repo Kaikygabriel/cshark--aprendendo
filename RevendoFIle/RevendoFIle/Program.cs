@@ -8,21 +8,14 @@ namespace RevendoFIle
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\kaiky\Downloads\kaka\teste.txt";
-            string path2 = @"C:\Users\kaiky\Downloads\kaka\teste2.txt";
+            string path = @"C:\Users\kaiky\Downloads\TestePasta\texto";
             try
             {
-                using (StreamWriter sw = File.AppendText(path2))
-                {
-                    string[]linhas = File.ReadAllLines(path);
-
-                    foreach(string line in linhas)
-                    {
-                        sw.WriteLine(line.ToUpper());
-                    }
-                }
+                Console.WriteLine("GetDirectoryName" + Path.GetDirectoryName(path));
+                Console.WriteLine("DirectorySeparatorChar" + Path.DirectorySeparatorChar);
+                Console.WriteLine(Path.PathSeparator);
             }
-            catch (IOException ex)
+            catch (IOException ex) 
             {
                 Console.WriteLine(ex.Message);
             }

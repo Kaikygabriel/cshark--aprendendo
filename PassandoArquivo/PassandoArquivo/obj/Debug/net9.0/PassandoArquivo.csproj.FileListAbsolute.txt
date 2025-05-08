@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\bin\Debug\net9.0\PassandoArquivo.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\bin\Debug\net9.0\PassandoArquivo.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\bin\Debug\net9.0\PassandoArquivo.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\bin\Debug\net9.0\PassandoArquivo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\bin\Debug\net9.0\PassandoArquivo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\refint\PassandoArquivo.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\PassandoArquivo.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\PassandoArquivo\PassandoArquivo\obj\Debug\net9.0\ref\PassandoArquivo.dll

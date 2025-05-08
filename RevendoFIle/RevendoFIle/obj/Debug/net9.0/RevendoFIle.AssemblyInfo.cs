@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevendoFIle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb24677761b3fa3fdad019e9094307ba1be00d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a2ad494bd347a4d84bca4f18e75f777a229564")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevendoFIle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevendoFIle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PassandoArquivo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
