@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemadecontatos\\sistemadecontatos\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemadecontatos\\sistemadecontatos\\entity\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\entity\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemadecontatos\\sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3718F25C-5847-427F-95BD-25E77C6FD323}|SistemaDeContatos\\SistemaDeContatos.csproj|solutionrelative:sistemadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Program.cs",
+              "RelativeToolTip": "SistemaDeContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:06:47.458Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Entity\\Pessoa.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Entity\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Entity\\Pessoa.cs",
+              "RelativeToolTip": "SistemaDeContatos\\Entity\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:25:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Entity\\Contato.cs",
+              "RelativeDocumentMoniker": "SistemaDeContatos\\Entity\\Contato.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaDeContatos\\SistemaDeContatos\\Entity\\Contato.cs",
+              "RelativeToolTip": "SistemaDeContatos\\Entity\\Contato.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:07:56.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

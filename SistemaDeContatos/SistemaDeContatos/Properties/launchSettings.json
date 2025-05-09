@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaDeContatos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
