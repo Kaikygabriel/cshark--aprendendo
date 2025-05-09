@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\bin\Debug\net9.0\ApplicationContatos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\bin\Debug\net9.0\ApplicationContatos.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\bin\Debug\net9.0\ApplicationContatos.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\bin\Debug\net9.0\ApplicationContatos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\bin\Debug\net9.0\ApplicationContatos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\refint\ApplicationContatos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ApplicationContatos.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Locação\obj\Debug\net9.0\ref\ApplicationContatos.dll

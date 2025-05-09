@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ApplicationContatos\\ApplicationContatos.csproj",
+      "projectUniqueName": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Locação\\ApplicationContatos.csproj",
       "projectName": "ApplicationContatos",
-      "projectPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ApplicationContatos\\ApplicationContatos.csproj",
+      "projectPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Locação\\ApplicationContatos.csproj",
       "packagesPath": "C:\\Users\\kaiky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ApplicationContatos\\obj\\",
+      "outputPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Locação\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
