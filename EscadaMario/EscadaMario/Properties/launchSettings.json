@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EscadaMario": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

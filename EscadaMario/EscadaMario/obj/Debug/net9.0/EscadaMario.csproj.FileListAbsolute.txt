@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\bin\Debug\net9.0\EscadaMario.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\bin\Debug\net9.0\EscadaMario.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\bin\Debug\net9.0\EscadaMario.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\bin\Debug\net9.0\EscadaMario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\bin\Debug\net9.0\EscadaMario.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\refint\EscadaMario.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\EscadaMario.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\EscadaMario\EscadaMario\obj\Debug\net9.0\ref\EscadaMario.dll
