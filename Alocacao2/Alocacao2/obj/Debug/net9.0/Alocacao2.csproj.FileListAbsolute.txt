@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\bin\Debug\net9.0\Alocacao2.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\bin\Debug\net9.0\Alocacao2.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\bin\Debug\net9.0\Alocacao2.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\bin\Debug\net9.0\Alocacao2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\bin\Debug\net9.0\Alocacao2.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\refint\Alocacao2.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\Alocacao2.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Alocacao2\Alocacao2\obj\Debug\net9.0\ref\Alocacao2.dll

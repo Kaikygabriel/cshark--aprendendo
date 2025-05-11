@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugitwWgEz2Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Alocacao2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

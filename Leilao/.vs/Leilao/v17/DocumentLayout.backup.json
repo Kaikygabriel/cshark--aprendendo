@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Cliente.cs",
+              "RelativeDocumentMoniker": "Leilao\\Entity\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Cliente.cs",
+              "RelativeToolTip": "Leilao\\Entity\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:04:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Produto.cs",
+              "RelativeDocumentMoniker": "Leilao\\Entity\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Produto.cs",
+              "RelativeToolTip": "Leilao\\Entity\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:01:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Servico.cs",
+              "RelativeDocumentMoniker": "Leilao\\Entity\\Servico.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Servico.cs",
+              "RelativeToolTip": "Leilao\\Entity\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:56:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Item.cs",
+              "RelativeDocumentMoniker": "Leilao\\Entity\\Item.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Item.cs",
+              "RelativeToolTip": "Leilao\\Entity\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:52:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Program.cs",
+              "RelativeDocumentMoniker": "Leilao\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Program.cs",
+              "RelativeToolTip": "Leilao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:47:43.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

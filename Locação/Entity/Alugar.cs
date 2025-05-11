@@ -23,10 +23,10 @@ namespace Locacao.Entity
         }
         public double Total()
         {
-            TimeSpan tempo = Saida.Subtract(Entrada);
-            if (tempo.Hours < 12)
+            
+            if (Duration.Hours < 12)
             {
-                double valor = ValorHours * (tempo.Hours + 1);
+                double valor = ValorHours * (Duration.Hours + 1);
                 if (valor <= 100)
                 {
                     double porcentagem = valor * 0.2;
@@ -40,7 +40,7 @@ namespace Locacao.Entity
             }
             else
             {
-                double valor = ValorDay * (tempo.Days + 1);
+                double valor = ValorDay * (Duration.Days + 1);
                 if (valor <= 100)
                 {
                     double porcentagem = valor * 0.2;

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\bin\Debug\net9.0\ImportacaoDePeca.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\bin\Debug\net9.0\ImportacaoDePeca.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\bin\Debug\net9.0\ImportacaoDePeca.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\bin\Debug\net9.0\ImportacaoDePeca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\bin\Debug\net9.0\ImportacaoDePeca.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\refint\ImportacaoDePeca.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ImportacaoDePeca.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ImportacaoDePeca\obj\Debug\net9.0\ref\ImportacaoDePeca.dll

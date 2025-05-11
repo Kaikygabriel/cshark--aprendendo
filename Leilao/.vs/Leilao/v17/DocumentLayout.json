@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leilao\\Entity\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leilao\\Entity\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leilao\\Entity\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\entity\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\entity\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leilao\\Entity\\Servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\leilao\\leilao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72F66DF-0BE8-4964-8EEE-3D85918261D1}|Leilao\\Leilao.csproj|solutionrelative:leilao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leilao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "Leilao\\Entity\\Cliente.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Cliente.cs",
               "RelativeToolTip": "Leilao\\Entity\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T12:04:03.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Produto.cs",
               "RelativeDocumentMoniker": "Leilao\\Entity\\Produto.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Leilao\\Leilao\\Entity\\Item.cs",
               "RelativeDocumentMoniker": "Leilao\\Entity\\Item.cs",
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Leilao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T11:47:43.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T11:47:43.006Z"
             }
           ]
         }
