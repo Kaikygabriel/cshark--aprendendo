@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sistema de Pagamentok": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
