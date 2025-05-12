@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImportacaoDePeca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58ce5a64f98ee8f0b5050fa325d84918c68b9630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06506d8e08122a6072e7440855be5497c43cf5c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImportacaoDePeca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImportacaoDePeca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
