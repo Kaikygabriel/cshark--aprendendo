@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\herdaxcumprircontrato\\herdaxcumprircontrato\\entity\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|solutionrelative:herdaxcumprircontrato\\entity\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\herdaxcumprircontrato\\herdaxcumprircontrato\\entity\\enum\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|solutionrelative:herdaxcumprircontrato\\entity\\enum\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\herdaxcumprircontrato\\herdaxcumprircontrato\\entity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|solutionrelative:herdaxcumprircontrato\\entity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\herdaxcumprircontrato\\herdaxcumprircontrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EFA4ED-2902-45BF-8F92-94384DB93CA8}|HerdaXCumprirContrato\\HerdaXCumprirContrato.csproj|solutionrelative:herdaxcumprircontrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\Enum\\Color.cs",
+              "RelativeDocumentMoniker": "HerdaXCumprirContrato\\Entity\\Enum\\Color.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\Enum\\Color.cs",
+              "RelativeToolTip": "HerdaXCumprirContrato\\Entity\\Enum\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:21:58.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "HerdaXCumprirContrato\\Entity\\AbstractShape.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\AbstractShape.cs",
+              "RelativeToolTip": "HerdaXCumprirContrato\\Entity\\AbstractShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:00:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shape.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\shape.cs",
+              "RelativeDocumentMoniker": "HerdaXCumprirContrato\\Entity\\shape.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Entity\\shape.cs",
+              "RelativeToolTip": "HerdaXCumprirContrato\\Entity\\shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:59:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Program.cs",
+              "RelativeDocumentMoniker": "HerdaXCumprirContrato\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\HerdaXCumprirContrato\\HerdaXCumprirContrato\\Program.cs",
+              "RelativeToolTip": "HerdaXCumprirContrato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:56:11.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

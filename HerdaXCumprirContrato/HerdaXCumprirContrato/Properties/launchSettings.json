@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HerdaXCumprirContrato": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
