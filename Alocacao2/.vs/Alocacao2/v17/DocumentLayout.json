@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\entity\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\entity\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\entity\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\entity\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\service\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\service\\braziltaxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\entity\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\entity\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\entity\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\entity\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\alocacao2\\alocacao2\\entity\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBD24FA-0695-42DB-B010-5362F145232D}|Alocacao2\\Alocacao2.csproj|solutionrelative:alocacao2\\entity\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ITaxService.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\ITaxService.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Service\\ITaxService.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\ITaxService.cs",
               "RelativeToolTip": "Alocacao2\\Service\\ITaxService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T12:43:53.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\RentalService.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Service\\RentalService.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\RentalService.cs",
               "RelativeToolTip": "Alocacao2\\Service\\RentalService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T11:49:44.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BrazilTaxa.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\BrazilTaxa.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Service\\BrazilTaxa.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Service\\BrazilTaxa.cs",
               "RelativeToolTip": "Alocacao2\\Service\\BrazilTaxa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T11:46:08.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Entity\\Invoice.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Entity\\Invoice.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Entity\\Invoice.cs",
               "RelativeToolTip": "Alocacao2\\Entity\\Invoice.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T11:24:13.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CarRental.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Entity\\CarRental.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Entity\\CarRental.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Entity\\Veiculo.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Entity\\Veiculo.cs",
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Program.cs",
               "RelativeDocumentMoniker": "Alocacao2\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Alocacao2\\Alocacao2\\Program.cs",
               "RelativeToolTip": "Alocacao2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T11:15:29.775Z",
               "EditorCaption": ""

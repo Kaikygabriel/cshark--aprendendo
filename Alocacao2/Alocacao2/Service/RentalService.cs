@@ -14,9 +14,9 @@ namespace Alocacao2.Service
 
         public RentalService(double priceHours, double priceDays,ITaxService service)
         {
+            _taxa = service;
             PriceHours = priceHours;
             PriceDays = priceDays;
-            _taxa = service;
         }
 
         public double PriceHours { get; private set; }

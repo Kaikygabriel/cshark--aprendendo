@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciocontratointerface\\exerciciocontratointerface\\service\\calcularparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|solutionrelative:exerciciocontratointerface\\service\\calcularparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciocontratointerface\\exerciciocontratointerface\\entity\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|solutionrelative:exerciciocontratointerface\\entity\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciocontratointerface\\exerciciocontratointerface\\service\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|solutionrelative:exerciciocontratointerface\\service\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciocontratointerface\\exerciciocontratointerface\\entity\\parcelamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|solutionrelative:exerciciocontratointerface\\entity\\parcelamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciocontratointerface\\exerciciocontratointerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C03B962-D67F-4F4D-92D2-FB52DE2F48C1}|ExercicioContratoInterface\\ExercicioContratoInterface.csproj|solutionrelative:exerciciocontratointerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Service\\PayPal.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoInterface\\Service\\PayPal.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Service\\PayPal.cs",
+              "RelativeToolTip": "ExercicioContratoInterface\\Service\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:54:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularParcela.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Service\\CalcularParcela.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoInterface\\Service\\CalcularParcela.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Service\\CalcularParcela.cs",
+              "RelativeToolTip": "ExercicioContratoInterface\\Service\\CalcularParcela.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:51:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parcelamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Entity\\Parcelamento.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoInterface\\Entity\\Parcelamento.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Entity\\Parcelamento.cs",
+              "RelativeToolTip": "ExercicioContratoInterface\\Entity\\Parcelamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:48:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Entity\\Contrato.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoInterface\\Entity\\Contrato.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Entity\\Contrato.cs",
+              "RelativeToolTip": "ExercicioContratoInterface\\Entity\\Contrato.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:47:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioContratoInterface\\ExercicioContratoInterface\\Program.cs",
+              "RelativeToolTip": "ExercicioContratoInterface\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:40:59.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ namespace Alocacao2
             Console.WriteLine("Data entregua");
             DateTime entregua = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("preço por hora");
-            double priceHours = double.Parse(Console.ReadLine());
+            double priceHours = double.Parse(Console.ReadLine());  
             Console.WriteLine("preço por dia");
             double priceDays = double.Parse(Console.ReadLine());
             Console.WriteLine("Nota fiscal :");

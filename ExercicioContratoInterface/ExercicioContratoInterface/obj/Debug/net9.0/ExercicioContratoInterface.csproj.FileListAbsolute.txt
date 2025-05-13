@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\bin\Debug\net9.0\ExercicioContratoInterface.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\bin\Debug\net9.0\ExercicioContratoInterface.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\bin\Debug\net9.0\ExercicioContratoInterface.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\bin\Debug\net9.0\ExercicioContratoInterface.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\bin\Debug\net9.0\ExercicioContratoInterface.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\refint\ExercicioContratoInterface.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ExercicioContratoInterface.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioContratoInterface\ExercicioContratoInterface\obj\Debug\net9.0\ref\ExercicioContratoInterface.dll

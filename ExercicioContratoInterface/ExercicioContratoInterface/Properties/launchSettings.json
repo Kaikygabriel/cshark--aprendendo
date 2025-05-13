@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExercicioContratoInterface": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
