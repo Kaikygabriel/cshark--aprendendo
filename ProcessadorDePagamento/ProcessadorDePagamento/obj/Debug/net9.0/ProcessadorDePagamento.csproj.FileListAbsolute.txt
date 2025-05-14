@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\bin\Debug\net9.0\ProcessadorDePagamento.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\bin\Debug\net9.0\ProcessadorDePagamento.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\bin\Debug\net9.0\ProcessadorDePagamento.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\bin\Debug\net9.0\ProcessadorDePagamento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\bin\Debug\net9.0\ProcessadorDePagamento.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\refint\ProcessadorDePagamento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ProcessadorDePagamento.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProcessadorDePagamento\ProcessadorDePagamento\obj\Debug\net9.0\ref\ProcessadorDePagamento.dll

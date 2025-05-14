@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\entity\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\entity\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\entity\\historicocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\entity\\historicocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\service\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\service\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\service\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\service\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\service\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\service\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\entity\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\processadordepagamento\\processadordepagamento\\service\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88925A1-9BAA-47DD-AF4B-0E982705B96D}|ProcessadorDePagamento\\ProcessadorDePagamento.csproj|solutionrelative:processadordepagamento\\service\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagamentoPix.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\PagamentoPix.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Service\\PagamentoPix.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\PagamentoPix.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Service\\PagamentoPix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:15:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoCartao.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\PagamentoCartao.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Service\\PagamentoCartao.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\PagamentoCartao.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Service\\PagamentoCartao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:15:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\IPagamento.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Service\\IPagamento.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\IPagamento.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Service\\IPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:15:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Service\\CheckoutService.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Service\\CheckoutService.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Service\\CheckoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:11:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoricoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\HistoricoCompra.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Entity\\HistoricoCompra.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\HistoricoCompra.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Entity\\HistoricoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:09:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\Conta.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Entity\\Conta.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\Conta.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Entity\\Conta.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:07:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Entity\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Entity\\Pessoa.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Entity\\Pessoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:07:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessadorDePagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ProcessadorDePagamento\\ProcessadorDePagamento\\Program.cs",
+              "RelativeToolTip": "ProcessadorDePagamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:59:43.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
