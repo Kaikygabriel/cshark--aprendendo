@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\bin\Debug\net9.0\ExericioIComparable.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\bin\Debug\net9.0\ExericioIComparable.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\bin\Debug\net9.0\ExericioIComparable.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\bin\Debug\net9.0\ExericioIComparable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\bin\Debug\net9.0\ExericioIComparable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\refint\ExericioIComparable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ExericioIComparable.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExericioIComparable\obj\Debug\net9.0\ref\ExericioIComparable.dll

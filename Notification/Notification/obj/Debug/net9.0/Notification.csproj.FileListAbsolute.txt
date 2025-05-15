@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\bin\Debug\net9.0\Notification.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\bin\Debug\net9.0\Notification.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\bin\Debug\net9.0\Notification.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\bin\Debug\net9.0\Notification.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\bin\Debug\net9.0\Notification.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\refint\Notification.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\Notification.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Notification\Notification\obj\Debug\net9.0\ref\Notification.dll

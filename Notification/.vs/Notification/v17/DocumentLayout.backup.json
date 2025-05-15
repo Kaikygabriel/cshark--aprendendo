@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\notification\\notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|solutionrelative:notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\notification\\notification\\entity\\usernotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|solutionrelative:notification\\entity\\usernotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\notification\\notification\\service\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|solutionrelative:notification\\service\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\notification\\notification\\service\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|solutionrelative:notification\\service\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\notification\\notification\\service\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06771EC8-D563-4FD5-9011-C6210E2C6F66}|Notification\\Notification.csproj|solutionrelative:notification\\service\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Entity\\UserNotifier.cs",
+              "RelativeDocumentMoniker": "Notification\\Entity\\UserNotifier.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Entity\\UserNotifier.cs",
+              "RelativeToolTip": "Notification\\Entity\\UserNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:06:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\Service\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\SMSNotification.cs",
+              "RelativeToolTip": "Notification\\Service\\SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:03:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\Service\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\EmailNotification.cs",
+              "RelativeToolTip": "Notification\\Service\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:01:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\INotification.cs",
+              "RelativeDocumentMoniker": "Notification\\Service\\INotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Service\\INotification.cs",
+              "RelativeToolTip": "Notification\\Service\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:00:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Program.cs",
+              "RelativeDocumentMoniker": "Notification\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Notification\\Notification\\Program.cs",
+              "RelativeToolTip": "Notification\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:59:03.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
