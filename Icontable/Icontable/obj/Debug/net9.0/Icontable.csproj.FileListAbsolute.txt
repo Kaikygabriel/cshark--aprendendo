@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\bin\Debug\net9.0\Icontable.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\bin\Debug\net9.0\Icontable.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\bin\Debug\net9.0\Icontable.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\bin\Debug\net9.0\Icontable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\bin\Debug\net9.0\Icontable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\refint\Icontable.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\Icontable.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Icontable\Icontable\obj\Debug\net9.0\ref\Icontable.dll

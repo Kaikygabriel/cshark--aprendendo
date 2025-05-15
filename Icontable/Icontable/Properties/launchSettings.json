@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Icontable": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
