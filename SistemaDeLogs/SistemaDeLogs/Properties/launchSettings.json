@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaDeLogs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

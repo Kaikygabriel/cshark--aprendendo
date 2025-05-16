@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\bin\Debug\net9.0\ExercicioGeneric.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\bin\Debug\net9.0\ExercicioGeneric.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\bin\Debug\net9.0\ExercicioGeneric.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\bin\Debug\net9.0\ExercicioGeneric.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\bin\Debug\net9.0\ExercicioGeneric.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\refint\ExercicioGeneric.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ExercicioGeneric.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioGeneric\obj\Debug\net9.0\ref\ExercicioGeneric.dll
