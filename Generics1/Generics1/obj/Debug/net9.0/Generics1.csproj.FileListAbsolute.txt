@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\bin\Debug\net9.0\Generics1.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\bin\Debug\net9.0\Generics1.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\bin\Debug\net9.0\Generics1.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\bin\Debug\net9.0\Generics1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\bin\Debug\net9.0\Generics1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\refint\Generics1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\Generics1.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Generics1\Generics1\obj\Debug\net9.0\ref\Generics1.dll
