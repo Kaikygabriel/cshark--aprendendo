@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\bin\Debug\net9.0\GerarRelatorio.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\bin\Debug\net9.0\GerarRelatorio.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\bin\Debug\net9.0\GerarRelatorio.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\bin\Debug\net9.0\GerarRelatorio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\bin\Debug\net9.0\GerarRelatorio.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\refint\GerarRelatorio.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\GerarRelatorio.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerarRelatorio\GerarRelatorio\obj\Debug\net9.0\ref\GerarRelatorio.dll

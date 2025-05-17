@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaPagamentoID": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

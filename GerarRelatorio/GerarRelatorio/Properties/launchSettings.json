@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GerarRelatorio": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerarrelatorio\\gerarrelatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|solutionrelative:gerarrelatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerarrelatorio\\gerarrelatorio\\model\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|solutionrelative:gerarrelatorio\\model\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerarrelatorio\\gerarrelatorio\\service\\relatoriopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|solutionrelative:gerarrelatorio\\service\\relatoriopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerarrelatorio\\gerarrelatorio\\service\\relatoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|solutionrelative:gerarrelatorio\\service\\relatoriocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\gerarrelatorio\\gerarrelatorio\\service\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E87C913-FB03-4E3E-8AF7-1E035CCD1DD5}|GerarRelatorio\\GerarRelatorio.csproj|solutionrelative:gerarrelatorio\\service\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Relatorio.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Model\\Relatorio.cs",
+              "RelativeDocumentMoniker": "GerarRelatorio\\Model\\Relatorio.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Model\\Relatorio.cs",
+              "RelativeToolTip": "GerarRelatorio\\Model\\Relatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:48:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelatorioCsv.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\RelatorioCsv.cs",
+              "RelativeDocumentMoniker": "GerarRelatorio\\Service\\RelatorioCsv.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\RelatorioCsv.cs",
+              "RelativeToolTip": "GerarRelatorio\\Service\\RelatorioCsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:45:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelatorioPDF.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\RelatorioPDF.cs",
+              "RelativeDocumentMoniker": "GerarRelatorio\\Service\\RelatorioPDF.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\RelatorioPDF.cs",
+              "RelativeToolTip": "GerarRelatorio\\Service\\RelatorioPDF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:36:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\IRelatorio.cs",
+              "RelativeDocumentMoniker": "GerarRelatorio\\Service\\IRelatorio.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Service\\IRelatorio.cs",
+              "RelativeToolTip": "GerarRelatorio\\Service\\IRelatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:35:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Program.cs",
+              "RelativeDocumentMoniker": "GerarRelatorio\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\GerarRelatorio\\GerarRelatorio\\Program.cs*",
+              "RelativeToolTip": "GerarRelatorio\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:35:26.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
