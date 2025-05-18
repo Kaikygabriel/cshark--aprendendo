@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CosnultaOOPID": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

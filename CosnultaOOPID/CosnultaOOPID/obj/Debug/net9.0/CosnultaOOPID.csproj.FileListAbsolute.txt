@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\bin\Debug\net9.0\CosnultaOOPID.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\bin\Debug\net9.0\CosnultaOOPID.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\bin\Debug\net9.0\CosnultaOOPID.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\bin\Debug\net9.0\CosnultaOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\bin\Debug\net9.0\CosnultaOOPID.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\refint\CosnultaOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\CosnultaOOPID.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CosnultaOOPID\CosnultaOOPID\obj\Debug\net9.0\ref\CosnultaOOPID.dll

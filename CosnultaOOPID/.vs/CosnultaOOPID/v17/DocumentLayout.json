@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\service\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\service\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\service\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\service\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\entity\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\entity\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\cosnultaoopid\\cosnultaoopid\\service\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F294B377-E7C4-4072-854C-C3D0F94377BF}|CosnultaOOPID\\CosnultaOOPID.csproj|solutionrelative:cosnultaoopid\\service\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Program.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Program.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:47:07.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Service\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:04:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Entity\\Paciente.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Entity\\Paciente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Entity\\Paciente.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Entity\\Paciente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:01:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Entity\\Doctor.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Entity\\Doctor.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Entity\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:55:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Service\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\SMSNotification.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Service\\SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:51:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Service\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\EmailNotification.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Service\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:49:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\INotification.cs",
+              "RelativeDocumentMoniker": "CosnultaOOPID\\Service\\INotification.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CosnultaOOPID\\CosnultaOOPID\\Service\\INotification.cs",
+              "RelativeToolTip": "CosnultaOOPID\\Service\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:48:18.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
