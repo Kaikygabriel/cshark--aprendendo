@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\bin\Debug\net9.0\BibioteclaOOP.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\bin\Debug\net9.0\BibioteclaOOP.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\bin\Debug\net9.0\BibioteclaOOP.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\bin\Debug\net9.0\BibioteclaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\bin\Debug\net9.0\BibioteclaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\refint\BibioteclaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\BibioteclaOOP.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\BlibiotecaIDPOO\BibioteclaOOP\obj\Debug\net9.0\ref\BibioteclaOOP.dll
