@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlibiotecaService")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SistemaBancarioOOPID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c310244d607dbfa2218d7e7b7795cc3d8f14fff8")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlibiotecaService")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BlibiotecaService")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c996d071246f369b081ee6c7e870d97843475499")]
+[assembly: System.Reflection.AssemblyProductAttribute("SistemaBancarioOOPID")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SistemaBancarioOOPID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\bin\Debug\net9.0\SistemaBancarioOOPID.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\bin\Debug\net9.0\SistemaBancarioOOPID.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\bin\Debug\net9.0\SistemaBancarioOOPID.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\bin\Debug\net9.0\SistemaBancarioOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\bin\Debug\net9.0\SistemaBancarioOOPID.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\refint\SistemaBancarioOOPID.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\SistemaBancarioOOPID.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBancarioOOPID\obj\Debug\net9.0\ref\SistemaBancarioOOPID.dll
