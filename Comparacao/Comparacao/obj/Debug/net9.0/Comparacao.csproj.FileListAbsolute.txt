@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\bin\Debug\net9.0\Comparacao.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\bin\Debug\net9.0\Comparacao.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\bin\Debug\net9.0\Comparacao.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\bin\Debug\net9.0\Comparacao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\bin\Debug\net9.0\Comparacao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\refint\Comparacao.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\Comparacao.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Comparacao\Comparacao\obj\Debug\net9.0\ref\Comparacao.dll

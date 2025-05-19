@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Comparacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2781BED5-AD4C-44FB-B21D-F14F28D6E60C}|Comparacao\\Comparacao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\comparacao\\comparacao\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781BED5-AD4C-44FB-B21D-F14F28D6E60C}|Comparacao\\Comparacao.csproj|solutionrelative:comparacao\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2781BED5-AD4C-44FB-B21D-F14F28D6E60C}|Comparacao\\Comparacao.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\comparacao\\comparacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2781BED5-AD4C-44FB-B21D-F14F28D6E60C}|Comparacao\\Comparacao.csproj|solutionrelative:comparacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Comparacao\\Comparacao\\Entity\\Client.cs",
+              "RelativeDocumentMoniker": "Comparacao\\Entity\\Client.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Comparacao\\Comparacao\\Entity\\Client.cs",
+              "RelativeToolTip": "Comparacao\\Entity\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:18:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Comparacao\\Comparacao\\Program.cs",
+              "RelativeDocumentMoniker": "Comparacao\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Comparacao\\Comparacao\\Program.cs",
+              "RelativeToolTip": "Comparacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:07:24.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

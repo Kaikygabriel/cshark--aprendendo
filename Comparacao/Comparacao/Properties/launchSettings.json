@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Comparacao": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
