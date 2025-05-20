@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\bin\Debug\net9.0\ListSortHash.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\bin\Debug\net9.0\ListSortHash.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\bin\Debug\net9.0\ListSortHash.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\bin\Debug\net9.0\ListSortHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\bin\Debug\net9.0\ListSortHash.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\refint\ListSortHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ListSortHash.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ListSortHash\ListSortHash\obj\Debug\net9.0\ref\ListSortHash.dll

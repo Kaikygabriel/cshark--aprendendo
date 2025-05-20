@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ListSortHash": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
