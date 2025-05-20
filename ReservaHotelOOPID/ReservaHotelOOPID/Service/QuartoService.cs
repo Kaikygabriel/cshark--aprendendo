@@ -9,11 +9,10 @@ namespace ReservaHotelOOPID.Service
 {
     internal class QuartoService
     {
-        public Quarto QuartoRef { get; private set; }
-        public double PriceDay { get; private set; } 
-        public void CalcularTotal()
+        public void CalcularTotal(Quarto quarto,double priceDay)
         {
-
+            TimeSpan duracaoDay = quarto.Entregua.Subtract(quarto.Entrada);
+            quarto.TotalPrice = Math.Ceiling(duracaoDay.TotalDays) * priceDay;    
         }
     }
 }

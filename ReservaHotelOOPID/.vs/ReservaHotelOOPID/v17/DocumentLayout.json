@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservahoteloopid\\reservahoteloopid\\service\\quartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|solutionrelative:reservahoteloopid\\service\\quartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservahoteloopid\\reservahoteloopid\\service\\reservationserevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|solutionrelative:reservahoteloopid\\service\\reservationserevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservahoteloopid\\reservahoteloopid\\entity\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|solutionrelative:reservahoteloopid\\entity\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservahoteloopid\\reservahoteloopid\\service\\quartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|solutionrelative:reservahoteloopid\\service\\quartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30540254-1E0D-4219-9B3B-B09D70559A1A}|ReservaHotelOOPID\\ReservaHotelOOPID.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservahoteloopid\\reservahoteloopid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReservationSerevice.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Service\\ReservationSerevice.cs",
+              "RelativeDocumentMoniker": "ReservaHotelOOPID\\Service\\ReservationSerevice.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Service\\ReservationSerevice.cs",
+              "RelativeToolTip": "ReservaHotelOOPID\\Service\\ReservationSerevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:11:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "QuartoService.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Service\\QuartoService.cs",
               "RelativeDocumentMoniker": "ReservaHotelOOPID\\Service\\QuartoService.cs",
-              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Service\\QuartoService.cs*",
-              "RelativeToolTip": "ReservaHotelOOPID\\Service\\QuartoService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Service\\QuartoService.cs",
+              "RelativeToolTip": "ReservaHotelOOPID\\Service\\QuartoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:47:37.452Z",
               "EditorCaption": ""
@@ -45,14 +62,14 @@
               "RelativeDocumentMoniker": "ReservaHotelOOPID\\Entity\\Quarto.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Entity\\Quarto.cs",
               "RelativeToolTip": "ReservaHotelOOPID\\Entity\\Quarto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:44:27.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaHotelOOPID\\ReservaHotelOOPID\\Program.cs",
               "RelativeDocumentMoniker": "ReservaHotelOOPID\\Program.cs",
@@ -60,8 +77,7 @@
               "RelativeToolTip": "ReservaHotelOOPID\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:42:43.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:42:43.315Z"
             }
           ]
         }
