@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListSortHash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b92bad1263be4f524afff394bb07c25183c136")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd7bdb9e7276d220e37f902e93e512f71cf7707")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListSortHash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListSortHash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

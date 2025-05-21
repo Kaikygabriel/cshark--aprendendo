@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\listsorthash\\listsorthash\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|solutionrelative:listsorthash\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\listsorthash\\listsorthash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|solutionrelative:listsorthash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\listsorthash\\listsorthash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05CDA66-70DE-4FD0-AF85-68046882514C}|ListSortHash\\ListSortHash.csproj|solutionrelative:listsorthash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Program.cs",
               "RelativeDocumentMoniker": "ListSortHash\\Program.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Program.cs",
               "RelativeToolTip": "ListSortHash\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:29:55.732Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "ListSortHash\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Entities\\Produto.cs",
+              "RelativeToolTip": "ListSortHash\\Entities\\Produto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:28:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "ListSortHash\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ListSortHash\\ListSortHash\\Entities\\Point.cs",
+              "RelativeToolTip": "ListSortHash\\Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:26:36.85Z",
               "EditorCaption": ""
             }
           ]

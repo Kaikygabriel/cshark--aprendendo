@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\bin\Debug\net9.0\ExercicioHash.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\bin\Debug\net9.0\ExercicioHash.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\bin\Debug\net9.0\ExercicioHash.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\bin\Debug\net9.0\ExercicioHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\bin\Debug\net9.0\ExercicioHash.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\refint\ExercicioHash.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ExercicioHash.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioHash\ExercicioHash\obj\Debug\net9.0\ref\ExercicioHash.dll
