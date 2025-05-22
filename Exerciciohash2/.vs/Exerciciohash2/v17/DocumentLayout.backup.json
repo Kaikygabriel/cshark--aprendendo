@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciohash2\\exerciciohash2\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|solutionrelative:exerciciohash2\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciohash2\\exerciciohash2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|solutionrelative:exerciciohash2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciohash2\\exerciciohash2\\service\\servicerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BEB9C4-8B97-44DA-B95B-C55DE3428049}|Exerciciohash2\\Exerciciohash2.csproj|solutionrelative:exerciciohash2\\service\\servicerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Service\\ServiceRepositorio.cs",
+              "RelativeDocumentMoniker": "Exerciciohash2\\Service\\ServiceRepositorio.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Service\\ServiceRepositorio.cs",
+              "RelativeToolTip": "Exerciciohash2\\Service\\ServiceRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:05:57.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Exerciciohash2\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Exerciciohash2\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:59:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Program.cs",
+              "RelativeDocumentMoniker": "Exerciciohash2\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Exerciciohash2\\Exerciciohash2\\Program.cs",
+              "RelativeToolTip": "Exerciciohash2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:58:20.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

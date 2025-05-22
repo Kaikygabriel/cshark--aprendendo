@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net9.0\ExercicioConjuntos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net9.0\ExercicioConjuntos.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net9.0\ExercicioConjuntos.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net9.0\ExercicioConjuntos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net9.0\ExercicioConjuntos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\refint\ExercicioConjuntos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ExercicioConjuntos.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net9.0\ref\ExercicioConjuntos.dll
