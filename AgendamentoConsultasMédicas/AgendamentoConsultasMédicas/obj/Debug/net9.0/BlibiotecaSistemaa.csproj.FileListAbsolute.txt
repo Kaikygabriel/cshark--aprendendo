@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\bin\Debug\net9.0\BlibiotecaSistemaa.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\bin\Debug\net9.0\BlibiotecaSistemaa.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\bin\Debug\net9.0\BlibiotecaSistemaa.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\bin\Debug\net9.0\BlibiotecaSistemaa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\bin\Debug\net9.0\BlibiotecaSistemaa.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\refint\BlibiotecaSistemaa.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\BlibiotecaSistemaa.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\AgendamentoConsultasMédicas\AgendamentoConsultasMédicas\obj\Debug\net9.0\ref\BlibiotecaSistemaa.dll

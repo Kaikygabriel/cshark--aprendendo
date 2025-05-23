@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultasm\u00E9dicas\\agendamentoconsultasm\u00E9dicas\\entities\\reservalivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|solutionrelative:agendamentoconsultasm\u00E9dicas\\entities\\reservalivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultasm\u00E9dicas\\agendamentoconsultasm\u00E9dicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas.csproj|solutionrelative:agendamentoconsultasm\u00E9dicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultasm\u00E9dicas\\agendamentoconsultasm\u00E9dicas\\entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|solutionrelative:agendamentoconsultasm\u00E9dicas\\entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultasm\u00E9dicas\\agendamentoconsultasm\u00E9dicas\\service\\blibiotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|solutionrelative:agendamentoconsultasm\u00E9dicas\\service\\blibiotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\agendamentoconsultasm\u00E9dicas\\agendamentoconsultasm\u00E9dicas\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41FCDBA-7099-411F-814A-DB83A4F6B034}|AgendamentoConsultasM\u00E9dicas\\BlibiotecaSistemaa.csproj|solutionrelative:agendamentoconsultasm\u00E9dicas\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlibiotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Service\\BlibiotecaService.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultasM\u00E9dicas\\Service\\BlibiotecaService.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Service\\BlibiotecaService.cs",
+              "RelativeToolTip": "AgendamentoConsultasM\u00E9dicas\\Service\\BlibiotecaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:14:29.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaLivro.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\ReservaLivro.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultasM\u00E9dicas\\Entities\\ReservaLivro.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\ReservaLivro.cs",
+              "RelativeToolTip": "AgendamentoConsultasM\u00E9dicas\\Entities\\ReservaLivro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:09:20.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\Livros.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultasM\u00E9dicas\\Entities\\Livros.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\Livros.cs",
+              "RelativeToolTip": "AgendamentoConsultasM\u00E9dicas\\Entities\\Livros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:02:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultasM\u00E9dicas\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Entities\\Usuario.cs",
+              "RelativeToolTip": "AgendamentoConsultasM\u00E9dicas\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:57:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Program.cs",
+              "RelativeDocumentMoniker": "AgendamentoConsultasM\u00E9dicas\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\AgendamentoConsultasM\u00E9dicas\\AgendamentoConsultasM\u00E9dicas\\Program.cs",
+              "RelativeToolTip": "AgendamentoConsultasM\u00E9dicas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:52:54.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

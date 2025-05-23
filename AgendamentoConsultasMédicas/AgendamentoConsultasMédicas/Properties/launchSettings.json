@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgendamentoConsultasMédicas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
