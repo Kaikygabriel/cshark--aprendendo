@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\bin\Debug\net9.0\CourseDictonary.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\bin\Debug\net9.0\CourseDictonary.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\bin\Debug\net9.0\CourseDictonary.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\bin\Debug\net9.0\CourseDictonary.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\bin\Debug\net9.0\CourseDictonary.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\refint\CourseDictonary.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\CourseDictonary.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CourseDictonary\CourseDictonary\obj\Debug\net9.0\ref\CourseDictonary.dll
