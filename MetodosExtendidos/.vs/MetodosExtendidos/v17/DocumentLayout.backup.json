@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\metodosextendidos\\metodosextendidos\\extensions\\stringextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|solutionrelative:metodosextendidos\\extensions\\stringextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\metodosextendidos\\metodosextendidos\\extensions\\datetimeextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|solutionrelative:metodosextendidos\\extensions\\datetimeextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\metodosextendidos\\metodosextendidos\\extensions\\listextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|solutionrelative:metodosextendidos\\extensions\\listextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\metodosextendidos\\metodosextendidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9AB79-7E0E-453D-BC78-0C25325B2E9A}|MetodosExtendidos\\MetodosExtendidos.csproj|solutionrelative:metodosextendidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Program.cs",
+              "RelativeDocumentMoniker": "MetodosExtendidos\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Program.cs",
+              "RelativeToolTip": "MetodosExtendidos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:13:37.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListExtesions.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\ListExtesions.cs",
+              "RelativeDocumentMoniker": "MetodosExtendidos\\Extensions\\ListExtesions.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\ListExtesions.cs",
+              "RelativeToolTip": "MetodosExtendidos\\Extensions\\ListExtesions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:25:37.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringExtesions.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\StringExtesions.cs",
+              "RelativeDocumentMoniker": "MetodosExtendidos\\Extensions\\StringExtesions.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\StringExtesions.cs",
+              "RelativeToolTip": "MetodosExtendidos\\Extensions\\StringExtesions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:56:58.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeExtesion.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\DateTimeExtesion.cs",
+              "RelativeDocumentMoniker": "MetodosExtendidos\\Extensions\\DateTimeExtesion.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\MetodosExtendidos\\MetodosExtendidos\\Extensions\\DateTimeExtesion.cs",
+              "RelativeToolTip": "MetodosExtendidos\\Extensions\\DateTimeExtesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:17:52.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

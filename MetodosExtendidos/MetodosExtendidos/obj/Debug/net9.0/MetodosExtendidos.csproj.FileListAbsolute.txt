@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\bin\Debug\net9.0\MetodosExtendidos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\bin\Debug\net9.0\MetodosExtendidos.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\bin\Debug\net9.0\MetodosExtendidos.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\bin\Debug\net9.0\MetodosExtendidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\bin\Debug\net9.0\MetodosExtendidos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\refint\MetodosExtendidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\MetodosExtendidos.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\MetodosExtendidos\MetodosExtendidos\obj\Debug\net9.0\ref\MetodosExtendidos.dll
