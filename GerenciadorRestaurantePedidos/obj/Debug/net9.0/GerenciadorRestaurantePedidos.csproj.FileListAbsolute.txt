@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\bin\Debug\net9.0\GerenciadorRestaurantePedidos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\bin\Debug\net9.0\GerenciadorRestaurantePedidos.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\bin\Debug\net9.0\GerenciadorRestaurantePedidos.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\bin\Debug\net9.0\GerenciadorRestaurantePedidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\bin\Debug\net9.0\GerenciadorRestaurantePedidos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\refint\GerenciadorRestaurantePedidos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\GerenciadorRestaurantePedidos.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorRestaurantePedidos\obj\Debug\net9.0\ref\GerenciadorRestaurantePedidos.dll
