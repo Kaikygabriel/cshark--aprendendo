@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExercicioExtesionMethods": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

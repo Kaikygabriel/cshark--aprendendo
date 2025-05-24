@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\bin\Debug\net9.0\ExercicioExtesionMethods.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\bin\Debug\net9.0\ExercicioExtesionMethods.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\bin\Debug\net9.0\ExercicioExtesionMethods.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\bin\Debug\net9.0\ExercicioExtesionMethods.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\bin\Debug\net9.0\ExercicioExtesionMethods.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\refint\ExercicioExtesionMethods.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ExercicioExtesionMethods.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioExtesionMethods\ExercicioExtesionMethods\obj\Debug\net9.0\ref\ExercicioExtesionMethods.dll

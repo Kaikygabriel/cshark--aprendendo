@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\bin\Debug\net9.0\JogoDaVelhaOOP.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\bin\Debug\net9.0\JogoDaVelhaOOP.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\bin\Debug\net9.0\JogoDaVelhaOOP.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\bin\Debug\net9.0\JogoDaVelhaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\bin\Debug\net9.0\JogoDaVelhaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\refint\JogoDaVelhaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\JogoDaVelhaOOP.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoDeXadrezOOP\JogoDeXadrezOOP\obj\Debug\net9.0\ref\JogoDaVelhaOOP.dll

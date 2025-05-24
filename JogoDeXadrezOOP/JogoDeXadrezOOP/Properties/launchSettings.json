@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JogoDeXadrezOOP": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
