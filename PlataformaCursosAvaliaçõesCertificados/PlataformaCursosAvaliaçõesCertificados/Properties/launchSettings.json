@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PlataformaCursosAvaliaçõesCertificados": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

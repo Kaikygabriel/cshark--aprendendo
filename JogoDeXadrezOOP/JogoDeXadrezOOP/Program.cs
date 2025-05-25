@@ -9,7 +9,7 @@ namespace JogoDeXadrezOOP
         static void Main(string[] args)
         {
             Tabuleiro t = new Tabuleiro();
-           Jogador kaiky = new Jogador("kaiky",XO.X);
+            Jogador kaiky = new Jogador("kaiky",XO.X);
             Jogador gabriel = new Jogador("gabriel", XO.O);
             Game game = new Game(t,kaiky,gabriel);
             game.Start();

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\plataformacursosavalia\u00E7\u00F5escertificados\\plataformacursosavalia\u00E7\u00F5escertificados\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|solutionrelative:plataformacursosavalia\u00E7\u00F5escertificados\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\plataformacursosavalia\u00E7\u00F5escertificados\\plataformacursosavalia\u00E7\u00F5escertificados\\service\\certificadotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|solutionrelative:plataformacursosavalia\u00E7\u00F5escertificados\\service\\certificadotexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\plataformacursosavalia\u00E7\u00F5escertificados\\plataformacursosavalia\u00E7\u00F5escertificados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40AB65-E38D-4598-BA8E-170D826F9E6F}|PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados.csproj|solutionrelative:plataformacursosavalia\u00E7\u00F5escertificados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Entities\\Curso.cs",
+              "RelativeDocumentMoniker": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Entities\\Curso.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Entities\\Curso.cs",
+              "RelativeToolTip": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Entities\\Curso.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:06:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CertificadoTexto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Service\\CertificadoTexto.cs",
+              "RelativeDocumentMoniker": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Service\\CertificadoTexto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Service\\CertificadoTexto.cs",
+              "RelativeToolTip": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Service\\CertificadoTexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:30:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Program.cs",
+              "RelativeDocumentMoniker": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Program.cs",
+              "RelativeToolTip": "PlataformaCursosAvalia\u00E7\u00F5esCertificados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:53:21.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

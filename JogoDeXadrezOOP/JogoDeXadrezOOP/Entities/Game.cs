@@ -21,24 +21,23 @@ namespace JogoDaVelhaOOP.Entities
         public Jogador play2 { get; set; } = new Jogador();
         public void Start()
         {
-            bool teste = false;
-            while (!teste)
+            bool teste = true;
+            while (teste)
             {
                 GetBoard.GetTabuleiro(tabuleiro);
+
                 FuctionsGame.StartJogador(play1, tabuleiro);
-                
                 if (tabuleiro.TestarGanhar.Winner(tabuleiro, play1) == true)
                 {
                     Console.WriteLine($"O player {play1.Nome} ganhou");
-                    teste = true;
                     break;
                     Console.ReadLine();
                 }
+
                 FuctionsGame.StartJogador(play2, tabuleiro);
                 if (tabuleiro.TestarGanhar.Winner(tabuleiro, play2) == true)
                 {
                     Console.WriteLine($"O player {play2.Nome} ganhou");
-                    teste = true;
                     break;
                     Console.ReadLine();
                 }

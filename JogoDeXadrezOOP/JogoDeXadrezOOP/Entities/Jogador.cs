@@ -18,12 +18,21 @@ namespace JogoDeXadrezOOP.Entities
         }
 
         public string Nome { get; private set; }
-        public XO Marcador { get;  private set; }
-        public void GetMove(Tabuleiro tabuleiro,int numColuna,int numLinha)
+        public XO Marcador { get; private set; }
+        public void GetMove(Tabuleiro tabuleiro, string casa)
         {
-            if (tabuleiro.Board[numLinha, numColuna] == null)
-                throw new Exception("Não existe a posição no tabuleiro");
-                tabuleiro.Board[numLinha, numColuna] = Marcador.ToString();
+            for (int i = 0; i <= 2; i++)
+            {
+                for (int e = 0; e <= 2; e++)
+                {
+                    if (tabuleiro.Board[i, e].Equals(casa, StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        tabuleiro.Board[i, e] = Marcador.ToString();
+                        return;
+                    }
+                }
+            }
+            throw new Exception("Não existe a posição no tabuleiro");
         }
     }
 }
