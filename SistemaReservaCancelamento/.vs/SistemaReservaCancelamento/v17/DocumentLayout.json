@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D1C2CFE-AE59-454F-B9A2-40FB9B0630E6}|SistemaReservaCancelamento\\SistemaReservaCancelamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemareservacancelamento\\sistemareservacancelamento\\service\\icancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1C2CFE-AE59-454F-B9A2-40FB9B0630E6}|SistemaReservaCancelamento\\SistemaReservaCancelamento.csproj|solutionrelative:sistemareservacancelamento\\service\\icancelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D1C2CFE-AE59-454F-B9A2-40FB9B0630E6}|SistemaReservaCancelamento\\SistemaReservaCancelamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemareservacancelamento\\sistemareservacancelamento\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1C2CFE-AE59-454F-B9A2-40FB9B0630E6}|SistemaReservaCancelamento\\SistemaReservaCancelamento.csproj|solutionrelative:sistemareservacancelamento\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ICancelar.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Service\\ICancelar.cs",
+              "RelativeDocumentMoniker": "SistemaReservaCancelamento\\Service\\ICancelar.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Service\\ICancelar.cs",
+              "RelativeToolTip": "SistemaReservaCancelamento\\Service\\ICancelar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:52:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Quarto.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Entities\\Quarto.cs",
               "RelativeDocumentMoniker": "SistemaReservaCancelamento\\Entities\\Quarto.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "SistemaReservaCancelamento\\Entities\\Quarto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:35:37.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T22:35:37.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Entities\\Reserva.cs",
               "RelativeDocumentMoniker": "SistemaReservaCancelamento\\Entities\\Reserva.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "SistemaReservaCancelamento\\Entities\\Usuario.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "SistemaReservaCancelamento\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:21:49.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T22:21:49.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaReservaCancelamento\\SistemaReservaCancelamento\\Program.cs",
               "RelativeDocumentMoniker": "SistemaReservaCancelamento\\Program.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "SistemaReservaCancelamento\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:20:51.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T22:20:51.589Z"
             }
           ]
         }

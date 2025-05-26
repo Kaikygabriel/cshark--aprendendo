@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaReservaCancelamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27fa0052fe87e5f80e7e12310f8498d872edfa45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0265dd4a948c3335dee3c69bc7be8438caa86b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaReservaCancelamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaReservaCancelamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
