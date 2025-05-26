@@ -26,10 +26,19 @@ namespace JogoDaVelhaOOP.Entities
             {
                 GetBoard.GetTabuleiro(tabuleiro);
 
+               
+
                 FuctionsGame.StartJogador(play1, tabuleiro);
                 if (tabuleiro.TestarGanhar.Winner(tabuleiro, play1) == true)
                 {
                     Console.WriteLine($"O player {play1.Nome} ganhou");
+                    break;
+                    Console.ReadLine();
+                }
+
+                if (tabuleiro.TestarEmpate.Draw(tabuleiro) == true)
+                {
+                    Console.WriteLine("Empate!!");
                     break;
                     Console.ReadLine();
                 }
@@ -41,7 +50,8 @@ namespace JogoDaVelhaOOP.Entities
                     break;
                     Console.ReadLine();
                 }
-              
+
+                
                 Console.Clear();
             }
             

@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\bin\Debug\net9.0\TestandoComparison.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\bin\Debug\net9.0\TestandoComparison.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\bin\Debug\net9.0\TestandoComparison.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\bin\Debug\net9.0\TestandoComparison.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\bin\Debug\net9.0\TestandoComparison.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\refint\TestandoComparison.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\TestandoComparison.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoComparison\TestandoComparison\obj\Debug\net9.0\ref\TestandoComparison.dll

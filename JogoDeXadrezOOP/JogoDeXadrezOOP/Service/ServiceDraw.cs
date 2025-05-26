@@ -12,18 +12,21 @@ namespace JogoDeXadrezOOP.Service
     {
         public bool Draw(Tabuleiro tabu)
         {
-            bool[] testar = new bool[8];
-            int numIndex = 0;
-            foreach(var a in tabu.Board)
+            List<bool> testar = new List<bool>();
+
+            for (int i = 0; i <= 2; i++)
             {
-                foreach(var b in a)
+                for (int a = 0; a <= 2; a++)
                 {
-                    if (b.Equals("X") || b.Equals("O"))
-                        testar[numIndex++] = true;
+                    for (int e = 0; e <= 8; e++)
+                    {
+                        if (tabu.Board[i, a].Equals(e.ToString()))
+                            testar.Add(true);
+                    }
                 }
-                numIndex++;
+
             }
-            if (testar.Length == 8 )
+            if (testar.Count == 0 )
                 return true;
             else
                 return false;

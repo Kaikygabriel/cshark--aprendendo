@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaReservaCancelamento": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

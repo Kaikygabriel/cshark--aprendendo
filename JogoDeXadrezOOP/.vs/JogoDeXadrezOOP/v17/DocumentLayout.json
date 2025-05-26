@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\service\\servicedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\service\\servicedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\entities\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\entities\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\service\\servicewinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\service\\servicewinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\control\\fuctionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\control\\fuctionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\control\\fuctionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\control\\fuctionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\service\\servicewinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\service\\servicewinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\jogodexadrezoop\\jogodexadrezoop\\entities\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E6C47B-399D-406D-A3F0-DEC4A31EECC5}|JogoDeXadrezOOP\\JogoDaVelhaOOP.csproj|solutionrelative:jogodexadrezoop\\entities\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ServiceDraw.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Service\\ServiceDraw.cs",
+              "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Service\\ServiceDraw.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Service\\ServiceDraw.cs",
+              "RelativeToolTip": "JogoDeXadrezOOP\\Service\\ServiceDraw.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:31:19.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Jogador.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Jogador.cs",
               "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Entities\\Jogador.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Jogador.cs",
               "RelativeToolTip": "JogoDeXadrezOOP\\Entities\\Jogador.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T15:04:52.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ServiceWinner.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Service\\ServiceWinner.cs",
               "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Service\\ServiceWinner.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Service\\ServiceWinner.cs",
               "RelativeToolTip": "JogoDeXadrezOOP\\Service\\ServiceWinner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T22:00:06.656Z",
               "EditorCaption": ""
@@ -77,33 +94,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Game.cs",
               "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Entities\\Game.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Game.cs",
               "RelativeToolTip": "JogoDeXadrezOOP\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T21:47:49.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Entities\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Entities\\Tabuleiro.cs",
               "RelativeToolTip": "JogoDeXadrezOOP\\Entities\\Tabuleiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T20:58:39.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\JogoDeXadrezOOP\\JogoDeXadrezOOP\\Program.cs",
               "RelativeDocumentMoniker": "JogoDeXadrezOOP\\Program.cs",
