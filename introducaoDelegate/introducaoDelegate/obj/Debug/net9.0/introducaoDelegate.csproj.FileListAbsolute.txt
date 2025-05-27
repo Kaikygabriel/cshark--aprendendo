@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\bin\Debug\net9.0\introducaoDelegate.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\bin\Debug\net9.0\introducaoDelegate.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\bin\Debug\net9.0\introducaoDelegate.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\bin\Debug\net9.0\introducaoDelegate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\bin\Debug\net9.0\introducaoDelegate.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\refint\introducaoDelegate.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\introducaoDelegate.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\introducaoDelegate\introducaoDelegate\obj\Debug\net9.0\ref\introducaoDelegate.dll

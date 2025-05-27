@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemalojavirtual\\sistemalojavirtual\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|solutionrelative:sistemalojavirtual\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemalojavirtual\\sistemalojavirtual\\entities\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|solutionrelative:sistemalojavirtual\\entities\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemalojavirtual\\sistemalojavirtual\\entities\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|solutionrelative:sistemalojavirtual\\entities\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\sistemalojavirtual\\sistemalojavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CAA054-C347-44DD-81FB-A7E83EFAFB39}|SistemaLojaVirtual\\SistemaLojaVirtual.csproj|solutionrelative:sistemalojavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\Carrinho.cs",
+              "RelativeDocumentMoniker": "SistemaLojaVirtual\\Entities\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\Carrinho.cs",
+              "RelativeToolTip": "SistemaLojaVirtual\\Entities\\Carrinho.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:39.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoFisico.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\ProdutoFisico.cs",
+              "RelativeDocumentMoniker": "SistemaLojaVirtual\\Entities\\ProdutoFisico.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\ProdutoFisico.cs",
+              "RelativeToolTip": "SistemaLojaVirtual\\Entities\\ProdutoFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:12:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoDigital.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\ProdutoDigital.cs",
+              "RelativeDocumentMoniker": "SistemaLojaVirtual\\Entities\\ProdutoDigital.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Entities\\ProdutoDigital.cs",
+              "RelativeToolTip": "SistemaLojaVirtual\\Entities\\ProdutoDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:09:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaLojaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SistemaLojaVirtual\\SistemaLojaVirtual\\Program.cs",
+              "RelativeToolTip": "SistemaLojaVirtual\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:06:24.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

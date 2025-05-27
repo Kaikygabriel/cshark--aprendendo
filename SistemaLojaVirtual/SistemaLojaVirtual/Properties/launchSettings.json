@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemaLojaVirtual": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
