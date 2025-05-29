@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\bin\Debug\net9.0\CriarContratos.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\bin\Debug\net9.0\CriarContratos.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\bin\Debug\net9.0\CriarContratos.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\bin\Debug\net9.0\CriarContratos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\bin\Debug\net9.0\CriarContratos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\refint\CriarContratos.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\CriarContratos.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CriarContratos\CriarContratos\obj\Debug\net9.0\ref\CriarContratos.dll

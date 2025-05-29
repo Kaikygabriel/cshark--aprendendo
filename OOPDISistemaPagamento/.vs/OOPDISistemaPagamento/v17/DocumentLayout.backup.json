@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\entities\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\entities\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\service\\pixpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\service\\pixpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\oopdisistemapagamento\\oopdisistemapagamento\\entities\\enumpagamento\\estatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AC0D1F-D57D-4D45-9FA8-CBD3A4A288E3}|OOPDISistemaPagamento\\OOPDISistemaPagamento.csproj|solutionrelative:oopdisistemapagamento\\entities\\enumpagamento\\estatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PixPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Service\\PixPagamento.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Service\\PixPagamento.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Service\\PixPagamento.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Service\\PixPagamento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:27:13.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EStatus.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\EnumPagamento\\EStatus.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Entities\\EnumPagamento\\EStatus.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\EnumPagamento\\EStatus.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Entities\\EnumPagamento\\EStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:23:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Pagamento.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Entities\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Pagamento.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Entities\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:16:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Cliente.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:16:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Entities\\Usuario.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:14:28.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Program.cs",
+              "RelativeDocumentMoniker": "OOPDISistemaPagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OOPDISistemaPagamento\\OOPDISistemaPagamento\\Program.cs",
+              "RelativeToolTip": "OOPDISistemaPagamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:12:31.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\criarcontratos\\criarcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|solutionrelative:criarcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\criarcontratos\\criarcontratos\\entities\\parcelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|solutionrelative:criarcontratos\\entities\\parcelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\criarcontratos\\criarcontratos\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|solutionrelative:criarcontratos\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\criarcontratos\\criarcontratos\\service\\serviceparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|solutionrelative:criarcontratos\\service\\serviceparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\criarcontratos\\criarcontratos\\service\\interfaces\\iserviceparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DC235C-DF7C-4CBD-8FB2-CA51800FE404}|CriarContratos\\CriarContratos.csproj|solutionrelative:criarcontratos\\service\\interfaces\\iserviceparcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceParcela.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Service\\ServiceParcela.cs",
+              "RelativeDocumentMoniker": "CriarContratos\\Service\\ServiceParcela.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Service\\ServiceParcela.cs",
+              "RelativeToolTip": "CriarContratos\\Service\\ServiceParcela.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:12:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceParcela.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Service\\Interfaces\\IServiceParcela.cs",
+              "RelativeDocumentMoniker": "CriarContratos\\Service\\Interfaces\\IServiceParcela.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Service\\Interfaces\\IServiceParcela.cs",
+              "RelativeToolTip": "CriarContratos\\Service\\Interfaces\\IServiceParcela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:11:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parcelas.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Entities\\Parcelas.cs",
+              "RelativeDocumentMoniker": "CriarContratos\\Entities\\Parcelas.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Entities\\Parcelas.cs",
+              "RelativeToolTip": "CriarContratos\\Entities\\Parcelas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:02:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Entities\\Contrato.cs",
+              "RelativeDocumentMoniker": "CriarContratos\\Entities\\Contrato.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Entities\\Contrato.cs",
+              "RelativeToolTip": "CriarContratos\\Entities\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:01:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Program.cs",
+              "RelativeDocumentMoniker": "CriarContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\CriarContratos\\CriarContratos\\Program.cs*",
+              "RelativeToolTip": "CriarContratos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:00:40.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

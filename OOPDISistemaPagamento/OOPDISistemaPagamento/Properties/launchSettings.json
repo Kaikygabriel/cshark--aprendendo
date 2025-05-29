@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OOPDISistemaPagamento": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
