@@ -1,4 +1,5 @@
-﻿using Delegates.Entities;
+﻿using System.Linq;
+using Delegates.Entities;
 
 namespace Delegates
 {
@@ -13,6 +14,10 @@ namespace Delegates
             produtos.Add(new Produtos("ARRoz", 30));
             produtos.Add(new Produtos("Roupa", 100));
             produtos.Add(new Produtos("Celular", 1000));
+
+
+            List<string> alto = produtos.Select(x => x.Nome.ToUpper()).ToList();
+            alto.ForEach(x =>  Console.WriteLine(x));
 
             var list2 = produtos.FindAll(x => x.Valor > 100);
             list2.ForEach(x => Console.WriteLine(x));

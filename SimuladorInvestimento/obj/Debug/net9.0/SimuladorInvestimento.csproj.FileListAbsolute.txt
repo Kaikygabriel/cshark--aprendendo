@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\bin\Debug\net9.0\SimuladorInvestimento.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\bin\Debug\net9.0\SimuladorInvestimento.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\bin\Debug\net9.0\SimuladorInvestimento.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\bin\Debug\net9.0\SimuladorInvestimento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\bin\Debug\net9.0\SimuladorInvestimento.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\refint\SimuladorInvestimento.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\SimuladorInvestimento.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SimuladorInvestimento\obj\Debug\net9.0\ref\SimuladorInvestimento.dll

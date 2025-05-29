@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorInvestimento", "SimuladorInvestimento.csproj", "{43E717FF-9ABA-FCB7-9040-044A47A1E5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E717FF-9ABA-FCB7-9040-044A47A1E5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E717FF-9ABA-FCB7-9040-044A47A1E5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E717FF-9ABA-FCB7-9040-044A47A1E5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E717FF-9ABA-FCB7-9040-044A47A1E5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB031538-42F1-4B39-B230-9B29E503B36A}
+	EndGlobalSection
+EndGlobal
