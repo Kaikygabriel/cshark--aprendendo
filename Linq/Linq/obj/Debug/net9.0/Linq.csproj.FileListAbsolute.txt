@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\bin\Debug\net9.0\Linq.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\bin\Debug\net9.0\Linq.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\bin\Debug\net9.0\Linq.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\bin\Debug\net9.0\Linq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\bin\Debug\net9.0\Linq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\refint\Linq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\Linq.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\Linq\Linq\obj\Debug\net9.0\ref\Linq.dll

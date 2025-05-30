@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DB36E-64B8-41A8-A5F2-EC1A42FD88AE}|Linq\\Linq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\linq\\linq\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DB36E-64B8-41A8-A5F2-EC1A42FD88AE}|Linq\\Linq.csproj|solutionrelative:linq\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DB36E-64B8-41A8-A5F2-EC1A42FD88AE}|Linq\\Linq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DB36E-64B8-41A8-A5F2-EC1A42FD88AE}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teste.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Linq\\Linq\\Teste.cs",
+              "RelativeDocumentMoniker": "Linq\\Teste.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Linq\\Linq\\Teste.cs*",
+              "RelativeToolTip": "Linq\\Teste.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:54:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\Linq\\Linq\\Program.cs*",
+              "RelativeToolTip": "Linq\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:18:19.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

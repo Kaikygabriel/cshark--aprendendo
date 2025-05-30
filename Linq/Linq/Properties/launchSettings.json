@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Linq": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
