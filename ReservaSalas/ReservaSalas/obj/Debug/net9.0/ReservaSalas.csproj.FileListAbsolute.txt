@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\bin\Debug\net9.0\ReservaSalas.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\bin\Debug\net9.0\ReservaSalas.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\bin\Debug\net9.0\ReservaSalas.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\bin\Debug\net9.0\ReservaSalas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\bin\Debug\net9.0\ReservaSalas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\refint\ReservaSalas.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ReservaSalas.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ReservaSalas\ReservaSalas\obj\Debug\net9.0\ref\ReservaSalas.dll

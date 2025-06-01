@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\bin\Debug\net9.0\ExercicioLinq.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\bin\Debug\net9.0\ExercicioLinq.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\bin\Debug\net9.0\ExercicioLinq.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\bin\Debug\net9.0\ExercicioLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\bin\Debug\net9.0\ExercicioLinq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\refint\ExercicioLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ExercicioLinq.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq\ExercicioLinq\obj\Debug\net9.0\ref\ExercicioLinq.dll

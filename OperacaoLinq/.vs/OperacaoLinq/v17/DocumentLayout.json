@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\operacaolinq\\operacaolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|solutionrelative:operacaolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\operacaolinq\\operacaolinq\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|solutionrelative:operacaolinq\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\operacaolinq\\operacaolinq\\methodsestends\\methodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|solutionrelative:operacaolinq\\methodsestends\\methodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\operacaolinq\\operacaolinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A862544-7F36-4CC5-8839-9CD8A61020E4}|OperacaoLinq\\OperacaoLinq.csproj|solutionrelative:operacaolinq\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Program.cs",
+              "RelativeDocumentMoniker": "OperacaoLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Program.cs",
+              "RelativeToolTip": "OperacaoLinq\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:27:32.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MethodsLIst.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\MethodsEstends\\MethodsLIst.cs",
+              "RelativeDocumentMoniker": "OperacaoLinq\\MethodsEstends\\MethodsLIst.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\MethodsEstends\\MethodsLIst.cs",
+              "RelativeToolTip": "OperacaoLinq\\MethodsEstends\\MethodsLIst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:50:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "OperacaoLinq\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Entities\\Category.cs",
+              "RelativeToolTip": "OperacaoLinq\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:32:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "OperacaoLinq\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\OperacaoLinq\\OperacaoLinq\\Entities\\Produto.cs",
+              "RelativeToolTip": "OperacaoLinq\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:30:52.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

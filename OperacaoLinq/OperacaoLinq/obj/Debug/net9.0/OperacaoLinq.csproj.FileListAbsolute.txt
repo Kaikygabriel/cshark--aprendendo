@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\bin\Debug\net9.0\OperacaoLinq.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\bin\Debug\net9.0\OperacaoLinq.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\bin\Debug\net9.0\OperacaoLinq.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\bin\Debug\net9.0\OperacaoLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\bin\Debug\net9.0\OperacaoLinq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\refint\OperacaoLinq.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\OperacaoLinq.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\OperacaoLinq\OperacaoLinq\obj\Debug\net9.0\ref\OperacaoLinq.dll

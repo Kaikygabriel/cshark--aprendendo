@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReservaSalas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

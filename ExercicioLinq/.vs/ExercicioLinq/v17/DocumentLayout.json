@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciolinq\\exerciciolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciolinq\\exerciciolinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciolinq\\exerciciolinq\\service\\ipath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\service\\ipath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\exerciciolinq\\exerciciolinq\\service\\servicepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D16D0D-8F3A-47E0-A3C8-F127F3F9650D}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\service\\servicepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPath.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Service\\IPath.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Service\\IPath.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Service\\IPath.cs",
+              "RelativeToolTip": "ExercicioLinq\\Service\\IPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:47:59.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicePath.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Service\\ServicePath.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Service\\ServicePath.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Service\\ServicePath.cs",
+              "RelativeToolTip": "ExercicioLinq\\Service\\ServicePath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:35:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioLinq\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:29:28.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ExercicioLinq\\ExercicioLinq\\Program.cs",
+              "RelativeToolTip": "ExercicioLinq\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:28:49.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

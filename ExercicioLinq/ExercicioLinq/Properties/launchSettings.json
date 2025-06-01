@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExercicioLinq": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

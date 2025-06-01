@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\service\\servicereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\service\\servicereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\service\\servicepricereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\service\\servicepricereserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\service\\interfaces\\ipricecalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\service\\interfaces\\ipricecalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\reservasalas\\reservasalas\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35155E30-F5D6-4681-89B8-F3709B549C5D}|ReservaSalas\\ReservaSalas.csproj|solutionrelative:reservasalas\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Program.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Program.cs",
+              "RelativeToolTip": "ReservaSalas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:04:43.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceReserva.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\ServiceReserva.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Service\\ServiceReserva.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\ServiceReserva.cs*",
+              "RelativeToolTip": "ReservaSalas\\Service\\ServiceReserva.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:42:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Sala.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Entities\\Sala.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Sala.cs",
+              "RelativeToolTip": "ReservaSalas\\Entities\\Sala.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:39:47.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ReservaSalas\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:39:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicePriceReserva.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\ServicePriceReserva.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Service\\ServicePriceReserva.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\ServicePriceReserva.cs",
+              "RelativeToolTip": "ReservaSalas\\Service\\ServicePriceReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:32:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPriceCalcular.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\Interfaces\\IPriceCalcular.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Service\\Interfaces\\IPriceCalcular.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Service\\Interfaces\\IPriceCalcular.cs",
+              "RelativeToolTip": "ReservaSalas\\Service\\Interfaces\\IPriceCalcular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:31:37.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Reserva.cs",
+              "RelativeToolTip": "ReservaSalas\\Entities\\Reserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:29:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "ReservaSalas\\Entities\\Hotel.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\ReservaSalas\\ReservaSalas\\Entities\\Hotel.cs",
+              "RelativeToolTip": "ReservaSalas\\Entities\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:18:12.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
