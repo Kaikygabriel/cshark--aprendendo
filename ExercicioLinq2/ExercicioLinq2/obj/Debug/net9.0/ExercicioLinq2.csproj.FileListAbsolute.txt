@@ -1,0 +1,14 @@
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.AssemblyInfoInputs.cache
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.AssemblyInfo.cs
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\bin\Debug\net9.0\ExercicioLinq2.exe
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\bin\Debug\net9.0\ExercicioLinq2.deps.json
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\bin\Debug\net9.0\ExercicioLinq2.runtimeconfig.json
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\bin\Debug\net9.0\ExercicioLinq2.dll
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\bin\Debug\net9.0\ExercicioLinq2.pdb
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.dll
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\refint\ExercicioLinq2.dll
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.pdb
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ExercicioLinq2.genruntimeconfig.cache
+C:\Users\kaiky\RiderProjects\ExercicioLinq2\ExercicioLinq2\obj\Debug\net9.0\ref\ExercicioLinq2.dll
