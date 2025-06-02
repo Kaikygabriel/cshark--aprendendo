@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\bin\Debug\net9.0\SistemaControleProjetos1.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\bin\Debug\net9.0\SistemaControleProjetos1.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\bin\Debug\net9.0\SistemaControleProjetos1.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\bin\Debug\net9.0\SistemaControleProjetos1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\bin\Debug\net9.0\SistemaControleProjetos1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\refint\SistemaControleProjetos1.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\SistemaControleProjetos1.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaControleProjetos1\SistemaControleProjetos1\obj\Debug\net9.0\ref\SistemaControleProjetos1.dll

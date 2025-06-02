@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\bin\Debug\net9.0\ExercicioLinq3.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\bin\Debug\net9.0\ExercicioLinq3.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\bin\Debug\net9.0\ExercicioLinq3.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\bin\Debug\net9.0\ExercicioLinq3.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\bin\Debug\net9.0\ExercicioLinq3.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\refint\ExercicioLinq3.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ExercicioLinq3.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ExercicioLinq3\ExercicioLinq3\obj\Debug\net9.0\ref\ExercicioLinq3.dll
