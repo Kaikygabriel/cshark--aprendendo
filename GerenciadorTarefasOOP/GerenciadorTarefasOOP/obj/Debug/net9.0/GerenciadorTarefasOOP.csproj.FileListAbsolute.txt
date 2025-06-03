@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\bin\Debug\net9.0\GerenciadorTarefasOOP.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\bin\Debug\net9.0\GerenciadorTarefasOOP.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\bin\Debug\net9.0\GerenciadorTarefasOOP.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\bin\Debug\net9.0\GerenciadorTarefasOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\bin\Debug\net9.0\GerenciadorTarefasOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\refint\GerenciadorTarefasOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\GerenciadorTarefasOOP.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorTarefasOOP\GerenciadorTarefasOOP\obj\Debug\net9.0\ref\GerenciadorTarefasOOP.dll
