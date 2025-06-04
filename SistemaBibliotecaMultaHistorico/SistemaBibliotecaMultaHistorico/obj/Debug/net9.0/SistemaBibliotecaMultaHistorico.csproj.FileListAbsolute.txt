@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\bin\Debug\net9.0\SistemaBibliotecaMultaHistorico.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\bin\Debug\net9.0\SistemaBibliotecaMultaHistorico.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\bin\Debug\net9.0\SistemaBibliotecaMultaHistorico.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\bin\Debug\net9.0\SistemaBibliotecaMultaHistorico.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\bin\Debug\net9.0\SistemaBibliotecaMultaHistorico.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\refint\SistemaBibliotecaMultaHistorico.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\SistemaBibliotecaMultaHistorico.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SistemaBibliotecaMultaHistorico\SistemaBibliotecaMultaHistorico\obj\Debug\net9.0\ref\SistemaBibliotecaMultaHistorico.dll
