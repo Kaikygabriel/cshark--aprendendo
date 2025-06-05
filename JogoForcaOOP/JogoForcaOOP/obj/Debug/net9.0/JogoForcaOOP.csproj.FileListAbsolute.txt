@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\bin\Debug\net9.0\JogoForcaOOP.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\bin\Debug\net9.0\JogoForcaOOP.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\bin\Debug\net9.0\JogoForcaOOP.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\bin\Debug\net9.0\JogoForcaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\bin\Debug\net9.0\JogoForcaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\refint\JogoForcaOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\JogoForcaOOP.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\JogoForcaOOP\JogoForcaOOP\obj\Debug\net9.0\ref\JogoForcaOOP.dll
