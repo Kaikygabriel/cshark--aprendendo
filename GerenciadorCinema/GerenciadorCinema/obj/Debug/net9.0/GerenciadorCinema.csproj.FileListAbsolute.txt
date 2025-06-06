@@ -1,0 +1,14 @@
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\bin\Debug\net9.0\GerenciadorCinema.exe
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\bin\Debug\net9.0\GerenciadorCinema.deps.json
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\bin\Debug\net9.0\GerenciadorCinema.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\bin\Debug\net9.0\GerenciadorCinema.dll
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\bin\Debug\net9.0\GerenciadorCinema.pdb
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.dll
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\refint\GerenciadorCinema.dll
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.pdb
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\GerenciadorCinema.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\GerenciadorCinema\GerenciadorCinema\obj\Debug\net9.0\ref\GerenciadorCinema.dll
