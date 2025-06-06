@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\bin\Debug\net9.0\CarrinhoEstoque.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\bin\Debug\net9.0\CarrinhoEstoque.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\bin\Debug\net9.0\CarrinhoEstoque.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\bin\Debug\net9.0\CarrinhoEstoque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\bin\Debug\net9.0\CarrinhoEstoque.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\refint\CarrinhoEstoque.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\CarrinhoEstoque.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\CarrinhoEstoque\CarrinhoEstoque\obj\Debug\net9.0\ref\CarrinhoEstoque.dll
