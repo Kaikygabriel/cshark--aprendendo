@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogoForcaOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0750ceb3da9b129fe7b59f00efe13db296ceceb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a130d4e2bf35dafc5dd50309025b62dfbb6ca1a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogoForcaOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogoForcaOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

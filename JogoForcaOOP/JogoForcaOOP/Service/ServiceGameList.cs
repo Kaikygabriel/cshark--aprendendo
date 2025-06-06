@@ -6,10 +6,8 @@ public partial class ServiceGameList
     {
         for(int i = 0; i <= word.Length -1; i++)
         {
-            if (word[i].Equals(letra))
-            {
+            if (word[i].Equals(letra)) 
                 ListRandomCaracter[i] = letra;
-            }
         }
 
         return ListRandomCaracter;

@@ -6,15 +6,15 @@ public class ServiceRepositoryTxt : IServiceRepositoryPalavras
 {
     public List<string> CapturarPalavras(string path)
     {
-        List<string> ListPalavra = new List<string>();
+        List<string> ListWord = new List<string>();
         using (StreamReader rd = new StreamReader(path))
         {
             while (!rd.EndOfStream)
             {
-                ListPalavra.Add(rd.ReadLine());
+                ListWord.Add(rd.ReadLine());
             }
         }
 
-        return ListPalavra;
+        return ListWord;
     }
 }

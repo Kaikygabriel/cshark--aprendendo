@@ -22,14 +22,16 @@ public class GameForca
 
     public void GameStart()
     {
+        List<char> CaracterErrados = new List<char>();
         string randomWord = _serviceRandomWord.RandomWord();
         int chances = randomWord.Length + (randomWord.Length / 2);
-       
         List<char> list = _serviceGameList.ListRandomChar(randomWord);
+       
         while (!_serviceWinner.Winner(list) && chances > 0 )
         {
             Console.WriteLine("Suas chances são "+chances);
-            Console.WriteLine(" ");
+            CaracterErrados.ForEach(x=>Console.Write($" {x} "));
+            Console.WriteLine("");
             
             foreach (var l in list)
             {
@@ -37,15 +39,18 @@ public class GameForca
             }
             
             Console.WriteLine(" ");
-            list = _serviceGameList.ListcharGame(list, randomWord, JogadorFunction.Letra());
+            char caracterJogador = JogadorFunction.Letra();
+            CaracterErrados.Add(caracterJogador);
+            list = _serviceGameList.ListcharGame(list, randomWord, caracterJogador);
             Console.Clear();
-            chances = chances - 1;
-
+            chances -= 1;
         }
+        
         if(_serviceWinner.Winner(list))
              Console.WriteLine("Voce Ganhou !!!");
         else
             Console.WriteLine("voce perdeu");
+        
         Console.WriteLine(randomWord);
         Console.ReadLine();
     }
