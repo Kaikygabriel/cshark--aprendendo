@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\bin\Debug\net9.0\ProjectGerenciadorDescontoOOP.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\bin\Debug\net9.0\ProjectGerenciadorDescontoOOP.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\bin\Debug\net9.0\ProjectGerenciadorDescontoOOP.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\bin\Debug\net9.0\ProjectGerenciadorDescontoOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\bin\Debug\net9.0\ProjectGerenciadorDescontoOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\refint\ProjectGerenciadorDescontoOOP.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ProjectGerenciadorDescontoOOP.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ProjectGerenciadorDescontoOOP\ProjectGerenciadorDescontoOOP\obj\Debug\net9.0\ref\ProjectGerenciadorDescontoOOP.dll
