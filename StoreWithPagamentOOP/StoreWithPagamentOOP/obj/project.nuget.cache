@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHJEFdnXBys=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\StoreWithPagamentOOP\\StoreWithPagamentOOP\\StoreWithPagamentOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\kaiky\\.nuget\\packages\\mailkit\\4.12.1\\mailkit.4.12.1.nupkg.sha512",
+    "C:\\Users\\kaiky\\.nuget\\packages\\mimekit\\4.12.0\\mimekit.4.12.0.nupkg.sha512",
+    "C:\\Users\\kaiky\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\kaiky\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
