@@ -7,17 +7,18 @@ public class Client
 {
     public Client(){}
 
-    public Client(string name,ETypeClient typeclient, decimal price)
+    public Client(string name,ETypeClient typeclient,string email, decimal price)
     {
         typeclient = typeclient;
         Price= price;
         Name = name;
+        Email = email;
     }
 
-    public ETypeClient TypeClient { get; set; }
+    public ETypeClient TypeClient { get;private  set; }
     public decimal Price { get;private set; }
     public string Name { get;private set; }
-    
+    public string Email { get;private set; }
 
     public override int GetHashCode()
         => Name.GetHashCode();
