@@ -1,0 +1,15 @@
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\bin\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.exe
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\bin\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.deps.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\bin\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.runtimeconfig.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\bin\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\bin\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.AssemblyInfoInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.AssemblyInfo.cs
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.csproj.CoreCompileInputs.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.sourcelink.json
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\refint\GerenciamentoOrcamentoGastosPessoais.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.pdb
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\GerenciamentoOrcamentoGastosPessoais.genruntimeconfig.cache
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciamentoOrcamentoGastosPessoais\GerenciamentoOrcamentoGastosPessoais\obj\Debug\net9.0\ref\GerenciamentoOrcamentoGastosPessoais.dll
