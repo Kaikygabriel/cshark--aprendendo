@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMFW/4Qq6Kc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

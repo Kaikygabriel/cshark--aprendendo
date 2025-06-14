@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBancoDeDadosMySQL", "TestBancoDeDadosMySQL\TestBancoDeDadosMySQL.csproj", "{2CAC9390-52CF-4309-8FC0-49CDF17F9E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAC9390-52CF-4309-8FC0-49CDF17F9E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAC9390-52CF-4309-8FC0-49CDF17F9E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAC9390-52CF-4309-8FC0-49CDF17F9E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAC9390-52CF-4309-8FC0-49CDF17F9E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -31,6 +31,7 @@ namespace WebApplication1
                 .WithStaticAssets();
 
             app.Run();
+
         }
     }
 }
