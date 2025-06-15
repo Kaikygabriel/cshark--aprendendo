@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestBancoDeDadosMySQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865f0f464fe4832f2f31a912129c0a5451cc0d21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b038a1068ac9e1eda1008c10212667f9cf8841")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestBancoDeDadosMySQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestBancoDeDadosMySQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

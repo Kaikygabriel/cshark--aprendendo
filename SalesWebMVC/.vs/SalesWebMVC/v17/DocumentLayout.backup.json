@@ -1,12 +1,121 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\saleswebmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\saleswebmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{859CE2DB-5083-4BF4-B245-9CE71B42CFD7}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesWebMVC",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+              "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC.csproj",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+              "RelativeToolTip": "SalesWebMVC\\SalesWebMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T13:18:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Program.cs",
+              "RelativeToolTip": "SalesWebMVC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:17:39.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:15:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:13:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:13:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:13:19.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

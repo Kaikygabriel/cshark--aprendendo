@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc3\\saleswebmvc3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|solutionrelative:saleswebmvc3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc3\\saleswebmvc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|solutionrelative:saleswebmvc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|c:\\users\\kaiky\\downloads\\kaka\\cshark--aprendendo\\saleswebmvc3\\saleswebmvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C5F88-5BBE-4F6C-9B30-0C73B694C9B7}|SalesWebMvc3\\SalesWebMvc3.csproj|solutionrelative:saleswebmvc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SalesWebMvc3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:43:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWebMvc3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:36:42.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc3\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiky\\Downloads\\kaka\\cshark--aprendendo\\SalesWebMvc3\\SalesWebMvc3\\Program.cs",
+              "RelativeToolTip": "SalesWebMvc3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:22:56.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
