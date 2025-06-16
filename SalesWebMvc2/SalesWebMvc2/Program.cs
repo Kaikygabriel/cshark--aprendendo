@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using SalesWebMvc2.Data;
 namespace SalesWebMvc2
 {
     public class Program
@@ -5,6 +8,13 @@ namespace SalesWebMvc2
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<SalesWebMvc2Context>(options =>
+             options.UseMySql(
+             builder.Configuration.GetConnectionString("SalesWebMvc2Context"),
+              new MySqlServerVersion(new Version(8, 0, 42)),
+              builder => builder.MigrationsAssembly("SalesWebMvc2")
+     ));
+
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
