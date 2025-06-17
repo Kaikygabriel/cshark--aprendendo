@@ -13,7 +13,8 @@ namespace SalesWebMvc3.Data
             : base(options)
         {
         }
-
-        public DbSet<SalesWebMvc3.Models.Departament> Departament { get; set; } 
+        public DbSet<SalesRecord> SalesRecord { get; set; }
+        public DbSet<Saller>Saller { get; set; }
+        public DbSet<Departament> Departament { get; set; } 
     }
 }

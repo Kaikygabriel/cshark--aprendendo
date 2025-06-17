@@ -285,3 +285,4 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\D
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\MySqlConnector.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\7epr0tqfov-dtmstd5hc3.gz

@@ -11,18 +11,28 @@ namespace SalesWebMvc3
         {
             var builder = WebApplication.CreateBuilder(args);
 
-        builder.Services.AddDbContext<SalesWebMvc3Context>(options =>
-        options.UseMySql(
-        builder.Configuration.GetConnectionString("SalesWebMvc3Context"),
-        new MySqlServerVersion(new Version(8, 0, 42)),
-        builder => builder.MigrationsAssembly("SalesWebMvc3")
-    )
-);
+            builder.Services.AddDbContext<SalesWebMvc3Context>(options =>
+            options.UseMySql(
+                builder.Configuration.GetConnectionString("SalesWebMvc3Context"),
+                new MySqlServerVersion(new Version(8, 0, 42)),
+                builder => builder.MigrationsAssembly("SalesWebMvc3")
+                )
+            );
+
+
+            builder.Services.AddScoped<SeedingService>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+            // Chamada ao serviço de seeding
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var seedingService = services.GetRequiredService<SeedingService>();
+                seedingService.Seed();
+            }
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -40,7 +50,7 @@ namespace SalesWebMvc3
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+                pattern: "{controller=Departaments}/{action=Index}/{id?}")
                 .WithStaticAssets();
 
             app.Run();
