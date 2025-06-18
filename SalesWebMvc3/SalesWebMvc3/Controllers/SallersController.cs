@@ -8,6 +8,6 @@ namespace SalesWebMvc3.Controllers
         {
 
             return View();
-        }
+        } 
     }
 }
