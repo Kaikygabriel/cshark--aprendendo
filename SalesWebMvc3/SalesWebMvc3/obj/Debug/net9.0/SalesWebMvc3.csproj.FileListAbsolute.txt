@@ -285,4 +285,7 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\D
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\MySqlConnector.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\7epr0tqfov-dtmstd5hc3.gz
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\7epr0tqfov-xtxmdxvuki.gz
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\9cxxm3n3il-02don332pa.gz
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\o9gon39mpv-r3unjvhb45.gz
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\guekj6n158-02037ac2e4.gz
