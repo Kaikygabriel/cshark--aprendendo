@@ -15,5 +15,12 @@ namespace SalesWebMvc3.Services
 
         public List<Saller> FindAll()
             => _dbcontext.Saller.ToList();
+
+        public void AddSallerRepository(Saller saller)
+        {
+            saller.Departament = _dbcontext.Departament.ToList()[0];
+            _dbcontext.Add(saller);
+            _dbcontext.SaveChanges();
+        }
     }
 }

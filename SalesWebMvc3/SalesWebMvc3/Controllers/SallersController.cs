@@ -17,6 +17,18 @@ namespace SalesWebMvc3.Controllers
             var sallers = _serviceSaller.FindAll();
 
             return View(sallers);
-        } 
+        }
+        public IActionResult Create() 
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Saller saller)
+        {
+            _serviceSaller.AddSallerRepository(saller);
+            return RedirectToAction("Index");
+        }
     }
 }
