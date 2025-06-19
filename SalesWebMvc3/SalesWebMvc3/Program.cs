@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using SalesWebMvc3.Data;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using SalesWebMvc3.Services;
 
 namespace SalesWebMvc3
 {
@@ -21,6 +22,7 @@ namespace SalesWebMvc3
 
 
             builder.Services.AddScoped<SeedingService>();
+            builder.Services.AddScoped<SallerService>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

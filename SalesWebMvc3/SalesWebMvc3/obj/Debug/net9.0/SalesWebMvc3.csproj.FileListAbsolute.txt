@@ -86,7 +86,6 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\D
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\SalesWebMvc3.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\refint\SalesWebMvc3.dll
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\SalesWebMvc3.pdb
@@ -289,3 +288,4 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\D
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\9cxxm3n3il-02don332pa.gz
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\o9gon39mpv-r3unjvhb45.gz
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\compressed\guekj6n158-02037ac2e4.gz
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
