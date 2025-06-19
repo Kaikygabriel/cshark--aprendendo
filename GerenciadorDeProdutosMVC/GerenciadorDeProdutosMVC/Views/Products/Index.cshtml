@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Product>
+@{
+	ViewData["Title"] = "Products";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-default btn-success">Create New</a>
+</p>
+
+<table class="table table-striped  table-hover">
+    <thead>
+        <tr class="success">
+            <th>@Html.DisplayNameFor(Model => Model.Name)</th>
+
+            <th>@Html.DisplayNameFor(Model => Model.Price)</th>
+
+            <th>@Html.DisplayNameFor(Model => Model.Quantity)</th>
+
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(item => i.Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(item => i.Price)
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(item => i.Quantity)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@i.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@i.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@i.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
