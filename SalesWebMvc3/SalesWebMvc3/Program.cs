@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using SalesWebMvc3.Data;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using SalesWebMvc3.Services;
+using SalesWebMvc3.Models.ViewModels;
 
 namespace SalesWebMvc3
 {
@@ -23,6 +24,8 @@ namespace SalesWebMvc3
 
             builder.Services.AddScoped<SeedingService>();
             builder.Services.AddScoped<SallerService>();
+            builder.Services.AddScoped<DepartamentService>();
+            builder.Services.AddScoped<SallerFormViewModel>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

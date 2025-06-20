@@ -1,17 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc3.Models;
+using SalesWebMvc3.Models.ViewModels;
 using SalesWebMvc3.Services;
 
 namespace SalesWebMvc3.Controllers
 {
     public class SallersController : Controller
     {
-        public SallersController(SallerService sallerService)
+        public SallersController(SallerService sallerService, DepartamentService departamentservice)
         {
             _serviceSaller = sallerService;
+            _departamentservice = departamentservice;
         }
         private readonly SallerService _serviceSaller;
-        
+        private readonly DepartamentService _departamentservice;   
+
         public IActionResult Index()
         {
             var sallers = _serviceSaller.FindAll();
@@ -20,7 +23,10 @@ namespace SalesWebMvc3.Controllers
         }
         public IActionResult Create() 
         {
-            return View();
+            var departaments =  _departamentservice.FindAll();
+            var viewModel = new SallerFormViewModel { Departaments = departaments };
+
+            return View(viewModel);
         }
 
         [HttpPost]
