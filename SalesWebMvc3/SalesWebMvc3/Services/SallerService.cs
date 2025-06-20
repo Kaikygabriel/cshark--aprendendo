@@ -16,6 +16,16 @@ namespace SalesWebMvc3.Services
         public List<Saller> FindAll()
             => _dbcontext.Saller.ToList();
 
+        public Saller FindById(int? Id)
+            => _dbcontext.Saller.FirstOrDefault(x=>x.Id == Id);
+
+        public void Remove(int Id)
+        {
+            var obj = FindById(Id);
+            _dbcontext.Saller.Remove(obj);
+            _dbcontext.SaveChanges();
+        }
+
         public void AddSallerRepository(Saller saller)
         {
             _dbcontext.Add(saller);

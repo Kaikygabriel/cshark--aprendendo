@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Diagnostics;
 using SalesWebMvc3.Models;
 using SalesWebMvc3.Models.ViewModels;
 using SalesWebMvc3.Services;
@@ -34,6 +35,26 @@ namespace SalesWebMvc3.Controllers
         public IActionResult Create(Saller saller)
         {
             _serviceSaller.AddSallerRepository(saller);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var obj = _serviceSaller.FindById(id);
+            if(obj == null)
+                return NotFound();
+
+            return View(obj);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete(int id)
+        {
+            _serviceSaller.Remove(id);
             return RedirectToAction("Index");
         }
     }
