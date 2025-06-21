@@ -15,6 +15,9 @@ namespace GerenciadorDeProdutosMVC.Services
             => _context.Products.ToList();
 
         public void AddProducts(Product product)
-            => _context.Add(product);
+        {
+            _context.Add(product);
+            _context.SaveChanges();
+        }
     }
 }

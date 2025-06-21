@@ -17,7 +17,7 @@ namespace SalesWebMvc3.Services
             => _dbcontext.Saller.ToList();
 
         public Saller FindById(int? Id)
-            => _dbcontext.Saller.FirstOrDefault(x=>x.Id == Id);
+            => _dbcontext.Saller.Include(obj => obj.Departament).FirstOrDefault(x=>x.Id == Id);
 
         public void Remove(int Id)
         {

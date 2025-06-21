@@ -1,4 +1,5 @@
-﻿using GerenciadorDeProdutosMVC.Services;
+﻿using GerenciadorDeProdutosMVC.Models;
+using GerenciadorDeProdutosMVC.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GerenciadorDeProdutosMVC.Controllers
@@ -14,6 +15,18 @@ namespace GerenciadorDeProdutosMVC.Controllers
         {
             var list = _productsRepository.FindAll(); 
             return View(list);
+        }
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(Product product)
+        {
+            _productsRepository.AddProducts(product);
+            return RedirectToAction("Index");
         }
     }
 }
