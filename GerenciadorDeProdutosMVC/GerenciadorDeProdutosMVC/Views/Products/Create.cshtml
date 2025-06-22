@@ -9,20 +9,23 @@
 	<form asp-action="Create"  >
 
 		<div>
-			<label asp-for="Name" class="form-label"></label>
-			<input asp-for="Name" class="input-group"></input>
+			<label asp-for="Name" class="form-label input-group"></label>
+			<input asp-for="Name" class="input-group input-group-text"></input>
 		</div>
 
 		<div>
-			<label asp-for="Price" class="form-label"></label>
-			<input asp-for="Price" class="input-group"></input>
+			<label asp-for="Price" class="form-label input-group"></label>
+			<input asp-for="Price" class="input-group input-group-text "></input>
 		</div>
 		
 		<div>
-			<label asp-for="Quantity" class="form-label"></label>
-			<input asp-for="Quantity" class="input-group"></input>
+			<label asp-for="Quantity" class="form-label input-group"></label>
+			<input asp-for="Quantity" class=" input-group input-group-text"></input>
 		</div>
-		<input class="btn btn-outline-primary" type="submit" value="Create"/>
+		<div>
+			<input class="btn btn-outline-primary" type="submit" value="Create" />
+		</div>
+	
 	</form>
 
 </div>

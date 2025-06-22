@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeProdutosMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c72ffd3346b1049b2dacf7c2f1d383141aa555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce7b2b150a676871a6d8869b77fc0b6a1dd7e69")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeProdutosMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeProdutosMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

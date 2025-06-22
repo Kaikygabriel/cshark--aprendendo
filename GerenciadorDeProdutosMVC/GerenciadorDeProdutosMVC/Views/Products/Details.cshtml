@@ -1,0 +1,36 @@
+﻿@model Product
+
+@{
+	ViewData["Title"] = "Details";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h3>Product</h3>
+<hr />
+
+<div class="row">
+	<div class="col-md-4">
+		<form  asp-action="Details">
+			<div class="form-group">
+				<label asp-for="@Model.Name" class="control-label"></label>
+				<input asp-for="@Model.Name" class="form-control"  value="@Model.Name"/>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="@Model.Price" class="control-label"></label>
+				<input asp-for="@Model.Price" class="form-control" value="@Model.Price" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="@Model.Quantity" class="control-label"></label>
+				<input asp-for="@Model.Quantity" class="form-control"  value="@Model.Quantity"/>
+			</div>
+
+			<input type="hidden" asp-for="@Model.Id" />
+
+			<div class="form-group">
+				<input type="submit" value="Mudar" class="btn btn-default btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>

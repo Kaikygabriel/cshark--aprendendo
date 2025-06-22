@@ -1,6 +1,7 @@
 ﻿using GerenciadorDeProdutosMVC.Models;
 using GerenciadorDeProdutosMVC.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 
 namespace GerenciadorDeProdutosMVC.Controllers
 {
@@ -28,5 +29,32 @@ namespace GerenciadorDeProdutosMVC.Controllers
             _productsRepository.AddProducts(product);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var obj = _productsRepository.FindById(id);
+            if(obj is null)
+                return NotFound();
+
+            return View(obj);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Details(Product product)
+        {
+            var obj = _productsRepository.FindById(product.Id);
+           
+            obj = product;
+
+            _productsRepository.Remove(obj.Id);
+            _productsRepository.AddProducts(obj);
+
+            return RedirectToAction("Index");
+        }
     }
+
 }

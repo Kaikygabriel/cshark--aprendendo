@@ -165,3 +165,4 @@ C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeProdutosMVC\Gerenc
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeProdutosMVC\GerenciadorDeProdutosMVC\obj\Debug\net9.0\GerenciadorDeProdutosMVC.pdb
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeProdutosMVC\GerenciadorDeProdutosMVC\obj\Debug\net9.0\GerenciadorDeProdutosMVC.genruntimeconfig.cache
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeProdutosMVC\GerenciadorDeProdutosMVC\obj\Debug\net9.0\ref\GerenciadorDeProdutosMVC.dll
+C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\GerenciadorDeProdutosMVC\GerenciadorDeProdutosMVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
