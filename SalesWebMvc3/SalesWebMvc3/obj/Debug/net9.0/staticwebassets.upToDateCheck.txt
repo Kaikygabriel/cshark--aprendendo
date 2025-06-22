@@ -17,6 +17,7 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-superhero.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
@@ -33,6 +34,9 @@ wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\sb-admin-2.css
+wwwroot\lib\bootstrap\dist\css\sb-admin-2.min.css
+wwwroot\lib\bootstrap\dist\css\styles.css
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -61,10 +65,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\lib\bootstrap\dist\css\bootstrap-superhero.css
-wwwroot\lib\bootstrap\dist\css\styles.css
-wwwroot\lib\bootstrap\dist\css\sb-admin-2.css
-wwwroot\lib\bootstrap\dist\css\sb-admin-2.min.css
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\wwwroot\css\site.css
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\wwwroot\favicon.ico
 C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\SalesWebMvc3\SalesWebMvc3\wwwroot\js\site.js

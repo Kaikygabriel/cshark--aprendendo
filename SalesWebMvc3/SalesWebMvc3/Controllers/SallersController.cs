@@ -45,7 +45,7 @@ namespace SalesWebMvc3.Controllers
         public IActionResult Delete(int? id)
         {
             if (id == null)
-                return RedirectToAction("Error", new { menssage = "Id is null" });
+                return RedirectToAction("Error",  "Id is null" );
 
             var obj = _serviceSaller.FindById(id);
             if (obj == null)
@@ -59,7 +59,7 @@ namespace SalesWebMvc3.Controllers
         public IActionResult Delete(int id)
         {
             if (id == null)
-                return RedirectToAction("Error", new { menssage = "Id is null" });
+                return RedirectToAction("Error", "Id is null" );
 
             var obj = _serviceSaller.FindById(id);
             if (obj == null)
@@ -82,7 +82,7 @@ namespace SalesWebMvc3.Controllers
         public IActionResult Edit(int? id)
         {
             if (id == null)
-                return BadRequest();
+                return RedirectToAction("Error", new { menssage = "Id not provided" });
 
             var obj = _serviceSaller.FindById(id);
             if (obj == null)

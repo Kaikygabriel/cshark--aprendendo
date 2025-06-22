@@ -30,30 +30,40 @@ namespace GerenciadorDeProdutosMVC.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult Details(int? id)
+        public IActionResult Edit(int? id)
         {
             if (id == null)
-                return NotFound();
+                return RedirectToAction("Error", "Id not previded");
 
             var obj = _productsRepository.FindById(id);
             if(obj is null)
-                return NotFound();
+                return RedirectToAction("Error", "Id not previded");
 
             return View(obj);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Details(Product product)
+        public IActionResult Edit(int? id,Product product)
         {
-            var obj = _productsRepository.FindById(product.Id);
-           
-            obj = product;
+            if (id == null)
+                return RedirectToAction("Error", "Id not found");
+            try
+            {
+                _productsRepository.Update(product);
+            }
+            catch(ApplicationException e)
+            {
+                return RedirectToAction("Error", e.Message);
 
-            _productsRepository.Remove(obj.Id);
-            _productsRepository.AddProducts(obj);
+            }
 
             return RedirectToAction("Index");
+        }
+        public IActionResult Error(string menssage)
+        {
+            var viewModel = new ErrorViewModel { Menssage = menssage };
+            return View(viewModel);
         }
     }
 

@@ -31,7 +31,19 @@ namespace GerenciadorDeProdutosMVC.Services
             _context.Remove(obj);
             _context.SaveChanges();
         }
-        public void Save()
-            => _context.SaveChanges();
+        public void Update(Product obj)
+        {
+            if (!_context.Products.Any(x => x.Id == obj.Id))
+                throw new Exception("Obj not existem in data source");
+            try
+            {
+                _context.Update(obj);
+                _context.SaveChanges();
+            }
+            catch (Exception e)
+            {
+                throw new ApplicationException(e.Message);
+            }
+        }
     }
 }
