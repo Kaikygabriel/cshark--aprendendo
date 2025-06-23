@@ -38,7 +38,7 @@ namespace SalesWebMvc3.Controllers
         public IActionResult Create(Saller saller)
         {
             if (!ModelState.IsValid)
-                return View(saller);
+                return View(new SallerFormViewModel { Departaments = _departamentservice.FindAll(), Saller = saller});
             _serviceSaller.AddSallerRepository(saller);
             return RedirectToAction("Index");
         }
