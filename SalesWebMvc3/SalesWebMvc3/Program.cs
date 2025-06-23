@@ -1,9 +1,12 @@
+using System.Globalization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using SalesWebMvc3.Data;
+using Microsoft.AspNetCore.Localization;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using SalesWebMvc3.Services;
 using SalesWebMvc3.Models.ViewModels;
+using SalesWebMvc3.Data;
+using System.ComponentModel;
 
 namespace SalesWebMvc3
 {
@@ -38,6 +41,14 @@ namespace SalesWebMvc3
                 var seedingService = services.GetRequiredService<SeedingService>();
                 seedingService.Seed();
             }
+
+            var localizationOptions = new RequestLocalizationOptions
+            {
+                DefaultRequestCulture = new RequestCulture(CultureInfo.CreateSpecificCulture("en-US")),
+                SupportedCultures = new List<CultureInfo> { CultureInfo.CreateSpecificCulture("en-US") },
+                SupportedUICultures= new List<CultureInfo> { CultureInfo.CreateSpecificCulture("en-US") }
+            };
+            app.UseRequestLocalization(localizationOptions);
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
