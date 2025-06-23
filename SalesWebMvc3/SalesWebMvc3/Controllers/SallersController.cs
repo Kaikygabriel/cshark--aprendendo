@@ -37,6 +37,8 @@ namespace SalesWebMvc3.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Saller saller)
         {
+            if (!ModelState.IsValid)
+                return View(saller);
             _serviceSaller.AddSallerRepository(saller);
             return RedirectToAction("Index");
         }
@@ -100,6 +102,10 @@ namespace SalesWebMvc3.Controllers
         {
             if (id != obj.Saller.Id)
                 return RedirectToAction("Error", new { menssage = "Ids not equals" });
+
+            if (!ModelState.IsValid)
+                return View(obj);
+
             try
             {
                 _serviceSaller.Update(obj.Saller);

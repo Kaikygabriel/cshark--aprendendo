@@ -21,23 +21,29 @@ namespace SalesWebMvc3.Models
         [Key]
         [Required]
         public int Id { get; set; }
-        [Required]
-        [MinLength(2,ErrorMessage ="Tamanho minimo não atingido")]
-        [MaxLength(80, ErrorMessage = "Tamanho maximo atingido")]
+        [Required(ErrorMessage = "{0} requered")]
+        [MinLength(2,ErrorMessage ="{0} Tamanho minimo não atingido {1}")]
+        [MaxLength(80, ErrorMessage = "{0} Tamanho maximo atingido {1}")]
         public string Name { get; set; }
+
         [Required]
-        [EmailAddress]
+        [EmailAddress(ErrorMessage ="email is invalided({0})")]
         public string Email { get; set; }
+
         [Required]
         [Display(Name ="Birth Date")]
         [DataType(DataType.Date)]
         public DateTime Date { get; set; }
+
         [Required]
         [Display(Name = "Base Salary")]
         [DisplayFormat(DataFormatString ="{0:F2}")]
+        [Range(100.00,100000.00,ErrorMessage = "{0} must be from {1} to {2}")]
         public Decimal BaseSalary { get; set; }
+
         [Required]
         public Departament Departament { get; set; }
+
         public int DepartamentId{ get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
