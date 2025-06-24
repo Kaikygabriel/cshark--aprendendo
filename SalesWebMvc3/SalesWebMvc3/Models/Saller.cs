@@ -19,7 +19,6 @@ namespace SalesWebMvc3.Models
         }
 
         [Key]
-        [Required]
         public int Id { get; set; }
         [Required(ErrorMessage = "{0} requered")]
         [MinLength(2,ErrorMessage ="{0} Tamanho minimo não atingido {1}")]
@@ -43,7 +42,7 @@ namespace SalesWebMvc3.Models
 
       
         public Departament Departament { get; set; }
-        [Required(ErrorMessage ="Departamentid is requered")]
+        
         public int DepartamentId{ get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();

@@ -28,7 +28,6 @@ namespace SalesWebMvc3
             builder.Services.AddScoped<SeedingService>();
             builder.Services.AddScoped<SallerService>();
             builder.Services.AddScoped<DepartamentService>();
-            builder.Services.AddScoped<SallerFormViewModel>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

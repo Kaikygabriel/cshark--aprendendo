@@ -15,38 +15,38 @@
 			@* <div asp-validation-summary="All" class="text-danger"></div> *@
 
 			<div class="form-group">
-				<label asp-for="@Model.Saller.Name" class="control-label"></label>
-				<input asp-for="@Model.Saller.Name" class="form-control" />
+				<label asp-for="Saller.Name" class="control-label"></label>
+				<input asp-for="Saller.Name" class="form-control" />
 				<span asp-validation-for="Saller.Name" class="text-danger"></span>
 
 			</div>
 
 			<div class="form-group">
-				<label asp-for="@Model.Saller.Email" class="control-label"></label>
-				<input asp-for="@Model.Saller.Email" class="form-control" />
+				<label asp-for="Saller.Email" class="control-label"></label>
+				<input asp-for="Saller.Email" class="form-control" />
 				<span asp-validation-for="Saller.Email" class="text-danger"></span>
 
 			</div>
 
 			<div class="form-group">
-				<label asp-for="@Model.Saller.Date" class="control-label"></label>
-				<input asp-for="@Model.Saller.Date" class="form-control" />
+				<label asp-for="Saller.Date" class="control-label"></label>
+				<input asp-for="Saller.Date" class="form-control" type="date"/>
 				<span asp-validation-for="Saller.Date" class="text-danger"></span>
 
 			</div>
 
 			<div class="form-group">
-				<label asp-for="@Model.Saller.BaseSalary" class="control-label"></label>
-				<input asp-for="@Model.Saller.BaseSalary" class="form-control" />
+				<label asp-for="Saller.BaseSalary" class="control-label"></label>
+				<input asp-for="Saller.BaseSalary" class="form-control" />
 				<span asp-validation-for="Saller.BaseSalary" class="text-danger"></span>
 
 			</div>
 
+			
 			<div class="form-group">
 				<label asp-for="Saller.DepartamentId" class="control-label"></label>
-				<select asp-for="Saller.DepartamentId" asp-items="@(new SelectList(Model.Departaments,"Id","Name"))" class="form-control"></select>
+				<select asp-for="Saller.DepartamentId" asp-items="@(new SelectList(Model.Departaments, "Id", "Name"))" class="form-control"></select>
 			</div>
-
 			<div class="form-group">
 				<input type="submit" value="Create" class="btn btn-default btn-primary" />
 			</div>
@@ -55,5 +55,5 @@
 </div>
 
 @section Scripts{
-	@{await Html.RenderPartialAsync("_validationScriptsPartial");}
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

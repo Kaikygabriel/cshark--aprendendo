@@ -36,12 +36,10 @@ namespace SalesWebMvc3.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Saller saller)
+        public async Task<IActionResult> Create(Saller form)
         {
-            if (!ModelState.IsValid)
-                return View(new SallerFormViewModel { Departaments = await _departamentservice.FindAllAsync(), Saller = saller });
-
-            await _serviceSaller.AddSallerRepositoryAsync(saller);
+            
+            await _serviceSaller.AddSallerRepositoryAsync(form);
             return RedirectToAction("Index");
         }
 
@@ -100,11 +98,7 @@ namespace SalesWebMvc3.Controllers
             if (id != obj.Saller.Id)
                 return RedirectToAction("Error", new { menssage = "Ids not equals" });
 
-            if (!ModelState.IsValid)
-            {
-                obj.Departaments = await _departamentservice.FindAllAsync();
-                return View(obj);
-            }
+           
 
             try
             {
