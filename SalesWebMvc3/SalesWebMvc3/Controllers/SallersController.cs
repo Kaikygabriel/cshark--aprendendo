@@ -39,7 +39,7 @@ namespace SalesWebMvc3.Controllers
         public async Task<IActionResult> Create(Saller saller)
         {
             if (!ModelState.IsValid)
-                return View(new SallerFormViewModel { Departaments = await _departamentservice.FindAllAsync(), Saller = saller});
+                return View(new SallerFormViewModel { Departaments = await _departamentservice.FindAllAsync(), Saller = saller });
 
             await _serviceSaller.AddSallerRepositoryAsync(saller);
             return RedirectToAction("Index");
@@ -62,12 +62,7 @@ namespace SalesWebMvc3.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
-            if (id == null)
-                return RedirectToAction("Error", new { menssage = "Id not found" });
-
-            var obj = await _serviceSaller.FindByIdAsync(id);
-            if (obj == null)
-                return RedirectToAction("Error", new { menssage = "Id not found" });
+            
             await _serviceSaller.RemoveAsync(id);
             return RedirectToAction("Index");
         }
@@ -106,7 +101,10 @@ namespace SalesWebMvc3.Controllers
                 return RedirectToAction("Error", new { menssage = "Ids not equals" });
 
             if (!ModelState.IsValid)
+            {
+                obj.Departaments = await _departamentservice.FindAllAsync();
                 return View(obj);
+            }
 
             try
             {

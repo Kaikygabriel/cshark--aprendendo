@@ -19,7 +19,7 @@ namespace SalesWebMvc3.Services
             => await _dbcontext.Saller.ToListAsync();
 
         public async Task<Saller> FindByIdAsync(int? Id)
-            => await _dbcontext.Saller.Include(obj => obj.Departament).FirstAsync(x=>x.Id == Id);
+            => await _dbcontext.Saller.Include(obj => obj.Departament).FirstOrDefaultAsync(x=>x.Id == Id);
 
         public async Task RemoveAsync(int Id)
         {
