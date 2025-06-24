@@ -41,9 +41,9 @@ namespace SalesWebMvc3.Models
         [Range(100.00,100000.00,ErrorMessage = "{0} must be from {1} to {2}")]
         public Decimal BaseSalary { get; set; }
 
-        [Required]
+      
         public Departament Departament { get; set; }
-
+        [Required(ErrorMessage ="Departamentid is requered")]
         public int DepartamentId{ get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();

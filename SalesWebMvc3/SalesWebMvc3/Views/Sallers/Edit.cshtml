@@ -1,4 +1,4 @@
-﻿@model SalesWebMvc3.Models.ViewModels.SallerFormViewModel
+﻿@model  SalesWebMvc3.Models.ViewModels.SallerFormViewModel
 @{
 	ViewData["Title"] = "Edit";
 }
@@ -10,6 +10,7 @@
 <div class="row">
 	<div class="col-md-4">
 		<form asp-controller="Sallers" asp-action="Edit">
+			@Html.AntiForgeryToken()
 			<div class="form-group">
 				<label asp-for="@Model.Saller.Name" class="control-label"></label>
 				<input asp-for="@Model.Saller.Name" class="form-control" />

@@ -12,7 +12,7 @@ namespace SalesWebMvc3.Services
         }
         private readonly SalesWebMvc3Context _dbContext;
 
-        public List<Departament> FindAll() 
-            => _dbContext.Departament.OrderBy(x=>x.Name).ToList();
+        public async Task<List<Departament>> FindAllAsync() 
+            => await _dbContext.Departament.OrderBy(x=>x.Name).ToListAsync();
     }
 }

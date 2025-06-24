@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Diagnostics;
 using MySqlConnector;
@@ -19,15 +20,15 @@ namespace SalesWebMvc3.Controllers
         private readonly SallerService _serviceSaller;
         private readonly DepartamentService _departamentservice;
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var sallers = _serviceSaller.FindAll();
+            var sallers = await _serviceSaller.FindAllAsync();
 
             return View(sallers);
         }
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            var departaments = _departamentservice.FindAll();
+            var departaments = await _departamentservice.FindAllAsync();
             var viewModel = new SallerFormViewModel { Departaments = departaments };
 
             return View(viewModel);
@@ -35,21 +36,22 @@ namespace SalesWebMvc3.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Saller saller)
+        public async Task<IActionResult> Create(Saller saller)
         {
             if (!ModelState.IsValid)
-                return View(new SallerFormViewModel { Departaments = _departamentservice.FindAll(), Saller = saller});
-            _serviceSaller.AddSallerRepository(saller);
+                return View(new SallerFormViewModel { Departaments = await _departamentservice.FindAllAsync(), Saller = saller});
+
+            await _serviceSaller.AddSallerRepositoryAsync(saller);
             return RedirectToAction("Index");
         }
 
 
-        public IActionResult Delete(int? id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
                 return RedirectToAction("Error", new { menssage = "Id is null" });
 
-            var obj = _serviceSaller.FindById(id);
+            var obj = await _serviceSaller.FindByIdAsync(id);
             if (obj == null)
                 return RedirectToAction("Error", new {menssage ="Id not found"});
 
@@ -58,39 +60,39 @@ namespace SalesWebMvc3.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
             if (id == null)
                 return RedirectToAction("Error", new { menssage = "Id not found" });
 
-            var obj = _serviceSaller.FindById(id);
+            var obj = await _serviceSaller.FindByIdAsync(id);
             if (obj == null)
                 return RedirectToAction("Error", new { menssage = "Id not found" });
-            _serviceSaller.Remove(id);
+            await _serviceSaller.RemoveAsync(id);
             return RedirectToAction("Index");
         }
 
-        public IActionResult Details(int? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
                 return RedirectToAction("Error", new { menssage = "Id is null" });
 
-            var obj = _serviceSaller.FindById(id);
+            var obj = await _serviceSaller.FindByIdAsync(id);
             if (obj == null)
                 return RedirectToAction("Error", new { menssage = "Id not found" });
             return View(obj);
         }
 
-        public IActionResult Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
                 return RedirectToAction("Error", new { menssage = "Id not provided" });
 
-            var obj = _serviceSaller.FindById(id);
+            var obj = await _serviceSaller.FindByIdAsync(id);
             if (obj == null)
                 return RedirectToAction("Error", new { menssage = "Id not provided" });
 
-            var departaments = _departamentservice.FindAll();
+            var departaments = await _departamentservice.FindAllAsync();
             var viewModel = new SallerFormViewModel { Departaments = departaments, Saller = obj };
 
             return View(viewModel);
@@ -98,7 +100,7 @@ namespace SalesWebMvc3.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, SallerFormViewModel obj)
+        public async Task<IActionResult> Edit(int id, SallerFormViewModel obj)
         {
             if (id != obj.Saller.Id)
                 return RedirectToAction("Error", new { menssage = "Ids not equals" });
@@ -108,7 +110,7 @@ namespace SalesWebMvc3.Controllers
 
             try
             {
-                _serviceSaller.Update(obj.Saller);
+                await _serviceSaller.UpdateAsync(obj.Saller);
                 return RedirectToAction("Index");
             }
             catch (ApplicationException e)
