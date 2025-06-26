@@ -1,59 +1,49 @@
-﻿@using SalesWebMvc3.Models.ViewModels
+﻿@using SalesWebMvc3.Models.ViewModels;
 @model SallerFormViewModel
+
 @{
-	ViewData["Title"] = "Create";
+    ViewData["Title"] = "Create";
 }
-<h1>@ViewData["Title"]</h1>
 
-<h3>Seller</h3>
+<h2>@ViewData["Title"]</h2>
+
+<h4>Seller</h4>
 <hr />
-
 <div class="row">
-	<div class="col-md-4">
-		<form asp-controller="Sallers" asp-action="Create">
-
-			@* <div asp-validation-summary="All" class="text-danger"></div> *@
-
-			<div class="form-group">
-				<label asp-for="Saller.Name" class="control-label"></label>
-				<input asp-for="Saller.Name" class="form-control" />
-				<span asp-validation-for="Saller.Name" class="text-danger"></span>
-
-			</div>
-
-			<div class="form-group">
-				<label asp-for="Saller.Email" class="control-label"></label>
-				<input asp-for="Saller.Email" class="form-control" />
-				<span asp-validation-for="Saller.Email" class="text-danger"></span>
-
-			</div>
-
-			<div class="form-group">
-				<label asp-for="Saller.Date" class="control-label"></label>
-				<input asp-for="Saller.Date" class="form-control" type="date"/>
-				<span asp-validation-for="Saller.Date" class="text-danger"></span>
-
-			</div>
-
-			<div class="form-group">
-				<label asp-for="Saller.BaseSalary" class="control-label"></label>
-				<input asp-for="Saller.BaseSalary" class="form-control" />
-				<span asp-validation-for="Saller.BaseSalary" class="text-danger"></span>
-
-			</div>
-
-			
-			<div class="form-group">
-				<label asp-for="Saller.DepartamentId" class="control-label"></label>
-				<select asp-for="Saller.DepartamentId" asp-items="@(new SelectList(Model.Departaments, "Id", "Name"))" class="form-control"></select>
-			</div>
-			<div class="form-group">
-				<input type="submit" value="Create" class="btn btn-default btn-primary" />
-			</div>
-		</form>
-	</div>
+    <div class="col-md-4">
+        <form asp-action="Create">
+           
+            <div class="form-group">
+                <label asp-for="Saller.Name" class="control-label"></label>
+                <input asp-for="Saller.Name" class="form-control" />
+                <span asp-validation-for="Saller.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Saller.Email" class="control-label"></label>
+                <input asp-for="Saller.Email" class="form-control" />
+                <span asp-validation-for="Saller.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Saller.Date" class="control-label"></label>
+                <input asp-for="Saller.Date" class="form-control" />
+                <span asp-validation-for="Saller.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Saller.BaseSalary" class="control-label"></label>
+                <input asp-for="Saller.BaseSalary" class="form-control" />
+                <span asp-validation-for="Saller.BaseSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Saller.DepartamentId" class="control-label"></label>
+                <select asp-for="Saller.DepartamentId" asp-items="@(new SelectList(Model.Departaments, "Id", "Name"))" class="form-control"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
 </div>
 
-@section Scripts{
-	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

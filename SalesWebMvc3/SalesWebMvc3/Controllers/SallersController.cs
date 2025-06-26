@@ -3,6 +3,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Diagnostics;
 using MySqlConnector;
+using NuGet.Protocol.Plugins;
+using SalesWebMvc.Models;
 using SalesWebMvc3.Models;
 using SalesWebMvc3.Models.ViewModels;
 using SalesWebMvc3.Services;
@@ -36,11 +38,16 @@ namespace SalesWebMvc3.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Saller form)
+        public async Task<IActionResult> Create(Saller seller)
         {
-            
-            await _serviceSaller.AddSallerRepositoryAsync(form);
-            return RedirectToAction("Index");
+            if (!ModelState.IsValid)
+            {
+                var departments = await _departamentservice.FindAllAsync();
+                var viewModel = new SallerFormViewModel{ Saller = seller, Departaments= departments };
+                return View(viewModel);
+            }
+            _serviceSaller.AddSallerRepository(seller);
+            return RedirectToAction(nameof(Index));
         }
 
 
@@ -63,7 +70,7 @@ namespace SalesWebMvc3.Controllers
             
             await _serviceSaller.RemoveAsync(id);
             return RedirectToAction("Index");
-        }
+        }   
 
         public async Task<IActionResult> Details(int? id)
         {
@@ -97,8 +104,6 @@ namespace SalesWebMvc3.Controllers
         {
             if (id != obj.Saller.Id)
                 return RedirectToAction("Error", new { menssage = "Ids not equals" });
-
-           
 
             try
             {

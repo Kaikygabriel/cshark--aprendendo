@@ -1,5 +1,7 @@
 ﻿using System.Diagnostics;
+using System.Xml.Linq;
 using Microsoft.EntityFrameworkCore;
+using SalesWebMvc.Models;
 using SalesWebMvc3.Data;
 using SalesWebMvc3.Models;
 using SalesWebMvc3.Services.Exceptions;
@@ -23,15 +25,15 @@ namespace SalesWebMvc3.Services
 
         public async Task RemoveAsync(int Id)
         {
-            var obj = await FindByIdAsync(Id);
-            _dbcontext.Saller.Remove(obj);
+            Saller obj = await FindByIdAsync(Id);
+            _dbcontext.Remove(obj);
             await _dbcontext.SaveChangesAsync();
         }
 
-        public async Task AddSallerRepositoryAsync(Saller saller)
+        public void AddSallerRepository(Saller saller)
         {
             _dbcontext.Add(saller);
-            await _dbcontext.SaveChangesAsync();
+            _dbcontext.SaveChanges();
         }
         public async Task UpdateAsync(Saller obj)
         {
