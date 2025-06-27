@@ -3,7 +3,7 @@ using LoginMvc.Services;
 
 namespace LoginMvc.Atribustes;
 
-public class NameIsUseAtribute : ValidationAttribute
+public class NameIsUseAttribute : ValidationAttribute
 {
 
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)

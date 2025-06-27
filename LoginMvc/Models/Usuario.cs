@@ -21,12 +21,12 @@ public class Usuario
     
     [Required]
     [StringLength(100,MinimumLength = 3,ErrorMessage = "Limite é entre 3 e 100 caracters")]
-    [NameIsUseAtribute]
+    [NameIsUse]
     public string Name { get; set; }
     
     [Required]
     [EmailAddress]
-    [EmailIsUseAtribute]
+    [EmailIsUse]
     public string Email { get; set; }
     
     [Required]

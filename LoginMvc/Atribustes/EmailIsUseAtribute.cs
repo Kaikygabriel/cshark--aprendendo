@@ -3,7 +3,7 @@ using LoginMvc.Services;
 
 namespace LoginMvc.Atribustes;
 
-public class EmailIsUseAtribute : ValidationAttribute
+public class EmailIsUseAttribute : ValidationAttribute
 {
     
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)
