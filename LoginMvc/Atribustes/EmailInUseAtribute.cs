@@ -3,17 +3,17 @@ using LoginMvc.Services;
 
 namespace LoginMvc.Atribustes;
 
-public class NameIsUseAttribute : ValidationAttribute
+public class EmailInUseAttribute : ValidationAttribute
 {
-
+    
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)
-    {
-        var name = value as string;
+    { 
+        var email = value as string;
         var service = (ServiceRepositoryLogin)validationContext.GetService(typeof(ServiceRepositoryLogin));
-
-        var existe =service.ExisteName(name);
+        
+        var existe = service.ExisteEmail(email);
         if (existe)
-            return new ValidationResult("Este nome já está em uso.");
+            return new ValidationResult("Este e-mail já está em uso.");
 
         return ValidationResult.Success;
     }

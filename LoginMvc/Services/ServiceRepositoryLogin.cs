@@ -27,6 +27,12 @@ public class ServiceRepositoryLogin
         await _context.SaveChangesAsync();
     }
 
+    public async Task UpdateAsync(Usuario usuario)
+    {
+        _context.Update(usuario);
+        await _context.SaveChangesAsync();
+    }
+
     public async  Task<Usuario> FindByIdAsync(int id)
         => await  _context.Usuarios.FirstOrDefaultAsync(x => x.Id == id);
     public bool Exite(int id)

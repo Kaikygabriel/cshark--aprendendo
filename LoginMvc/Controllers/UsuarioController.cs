@@ -64,6 +64,36 @@ public class UsuarioController : Controller
         }
     }
 
+    [HttpGet]
+    public async Task<IActionResult> Edit(int id)
+    {
+        var usuario = await _context.FindByIdAsync(id); 
+        if (usuario == null)
+            return RedirectToAction("Error");
+
+        return View(usuario); 
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> Edit(Usuario usuario)
+    {
+        _context.UpdateAsync(usuario);
+        return RedirectToAction("Index");
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> Details(int? id)
+    {
+
+        if (id == null)
+            return RedirectToAction("Error");
+        var usuario = await _context.FindByIdAsync((int)id);
+        if(usuario == null)
+            return RedirectToAction("Error");
+        
+        return View(usuario);
+    }
     public IActionResult Error()
     {
         return View();
