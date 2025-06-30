@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb

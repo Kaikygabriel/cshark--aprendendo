@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb

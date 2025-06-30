@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\bin\Debug\testando.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\bin\Debug\testando.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\bin\Debug\testando.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\obj\Debug\testando.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\obj\Debug\testando.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\obj\Debug\testando.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\testando\testando\obj\Debug\testando.pdb

@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\bin\Debug\TestandoAlogica.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\bin\Debug\TestandoAlogica.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\bin\Debug\TestandoAlogica.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\obj\Debug\TestandoAlogica.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\obj\Debug\TestandoAlogica.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\obj\Debug\TestandoAlogica.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TestandoAlogica\TestandoAlogica\obj\Debug\TestandoAlogica.pdb

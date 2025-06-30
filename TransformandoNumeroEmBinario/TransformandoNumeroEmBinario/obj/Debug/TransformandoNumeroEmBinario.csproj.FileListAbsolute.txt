@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\bin\Debug\TransformandoNumeroEmBinario.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\bin\Debug\TransformandoNumeroEmBinario.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\bin\Debug\TransformandoNumeroEmBinario.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\obj\Debug\TransformandoNumeroEmBinario.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\obj\Debug\TransformandoNumeroEmBinario.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\obj\Debug\TransformandoNumeroEmBinario.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\TransformandoNumeroEmBinario\TransformandoNumeroEmBinario\obj\Debug\TransformandoNumeroEmBinario.pdb

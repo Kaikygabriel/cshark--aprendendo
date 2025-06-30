@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb

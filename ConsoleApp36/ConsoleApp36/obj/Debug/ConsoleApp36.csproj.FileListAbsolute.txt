@@ -1,7 +1,0 @@
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.AssemblyReference.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.exe
-C:\Users\kaiky\Downloads\kaka\cshark--aprendendo\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
